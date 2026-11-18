@@ -51,6 +51,8 @@ For a released-cut revision, preserve the previous artifacts and place the new t
 
 Select the frozen revision before producing derivatives. EP01 uses `episodes/gta6-confirmed-locations/revisions/v4`, which holds the approved clean picture and the original Turkish test MP4. Keep both inside the archive. Run `node scripts/publishing.mjs prepare REVISION SLUG` from the project root to assemble the numbered tree and record source hashes. Once the final English WAV is verified, run `python3 scripts/heavy-job.py --label gta-publish-en -- node scripts/publishing.mjs mux SLUG` to stream-copy the frozen picture and mux the English mix into the sole publication MP4.
 
+Before freezing a publication picture, review all visible editorial copy in the storyboard, graphics and compositing assets for English. The English audio mux reuses the selected picture stream. EP01's archived English upload retained the Turkish “Rehberin kapsamı” card near 02:05 from the original test picture. Use this as a review example for later episodes and preserve the released EP01 revision.
+
 ```text
 videolar/<slug>/
   00_brief/      topic, brief and frozen revision metadata
@@ -81,7 +83,7 @@ Keep cover artwork, crop and hierarchy consistent across languages. Change the s
 5. Run local Whisper **medium** (recorded language, segments and word timestamps) on the exact selected final WAV. Preserve raw transcriptions and map canonical lines to actual word time ranges. Audit mismatches.
 6. Plan semantic beats and shots from voice time spans. Each shot must be linked to a claim, actual source asset or truthful explanatory graphic. Record source timecode, image hold, crop, entry/exit and why it is visible at that moment. Prefer meaningful longer holds over mechanically changing shots every 1.5 seconds; vary pace with narrative content.
 7. Build the visual master in **the existing pinned HyperFrames/GSAP/Sharp + FFmpeg stack** (no Remotion/EffectCraft switch in the pilot) using deterministic absolute-time compositions. Adapt/rewrite football-specific layouts for **1920×1080**; avoid blindly scaling 9:16.
-8. Add sparse semantic graphics, purposeful cuts/zoom/crops, documentary music/SFX, subtle watermark only after the channel brand is settled. Make the scene focus and honest real-media evidence immediately obvious. Keep spoken captions external to the language-neutral visual master.
+8. Add sparse semantic graphics, purposeful cuts/zoom/crops, documentary music/SFX, and a subtle watermark. Author any necessary editorial copy in English and keep spoken captions external. Prefer language-neutral graphics where possible.
 9. Export the English-audio publication MP4 (H.264/AAC) and standalone EN SRT. For a private test, export the requested review audio and matching SRT. Verify picture/audio and critical sequences at 1×. Compare captions with the canonical script.
 10. Create a premium 16:9 default English cover, factual search-focused metadata and corresponding localizations when authorized. Store thumbnail source evidence and independent rights review.
 11. Run codec/duration/frame/audio/Whisper/claim/asset/motion checks; hand off the actual private review cut with an honest `READY_TECHNICAL` vs `RIGHTS_REVIEW` status.
