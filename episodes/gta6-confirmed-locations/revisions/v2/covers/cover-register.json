@@ -1,0 +1,66 @@
+{
+  "covers": [
+    {
+      "file": "01-leonida-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "5ce7d1cf61ba4e89c538dc09b7e9a4803e8d893df456672af10bb14396f716e7",
+      "bytes": 1853706,
+      "headline": "GTA 6 / LEONIDA",
+      "sourceAssetId": "vice-city-27",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_27.0d2e~w_r93hmh.jpg",
+      "sourceSha256": "f0725fd61298ccfe7de30328ecf1651f7455eaf122a0b2f66031b819dd45d0e1",
+      "rightsStatus": "REVIEW",
+      "rationale": "Alacakaranlık Vice City silueti, Leonida başlığının altında eyalet anlatısına giriş veriyor. Oyun adı ve ana başlık telefon boyutunda ayrı okunuyor.",
+      "selected": true,
+      "master": {
+        "file": "art-master-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "3f3bd25cc2f77eb253e97f40f3cb0b4d7baf163226b29285adc6c56f50c80933",
+        "bytes": 3728210
+      },
+      "final": {
+        "file": "thumbnail-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "sha256": "5ce7d1cf61ba4e89c538dc09b7e9a4803e8d893df456672af10bb14396f716e7",
+        "bytes": 1853706
+      }
+    },
+    {
+      "file": "02-vice-city-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "3bc0cebe9f33d9711c101e57db292aaab5bd19edce494eed41f3e523faddcd77",
+      "bytes": 1671724,
+      "headline": "GTA 6",
+      "sourceAssetId": "vice-city-01",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg",
+      "sourceSha256": "6cf14b23ae2c205799067464904f8c9dc99f87935632ef6924b87f59af7a6225",
+      "rightsStatus": "REVIEW",
+      "rationale": "Uçak ve oyun dünyasındaki Vice City levhası tek bir sahnede. Ekrandaki oyun adı küçük kalıyor, mekân adı Rockstar’ın görselinden okunuyor.",
+      "selected": false
+    },
+    {
+      "file": "03-alti-bolge-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "9ec273e9ff64926878401e3ea200fb6fc9bea9012cb9175e6e9ce5525cfc608e",
+      "bytes": 1882343,
+      "headline": "6 ANA / BÖLGE",
+      "sourceAssetId": "leonida-keys-01",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Leonida_Keys_01.0zgz7tveur6y8.jpg",
+      "sourceSha256": "90bb51136148ee7c4c44750e54fb77cf1cb9790c584e904e0c5839094769e2e1",
+      "rightsStatus": "REVIEW",
+      "rationale": "Köprü ve deniz uçağı bölümlerin şehir dışına uzandığını gösteriyor. Manşet, bölümün altı ana bölgelik kapsamını öne çıkarıyor.",
+      "selected": false
+    }
+  ]
+}

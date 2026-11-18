@@ -1,0 +1,15 @@
+{
+  "name": "gta-studio",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "fontkit": "2.0.4",
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.137",
+    "sharp": "0.35.5"
+  },
+  "scripts": {
+    "studio": "node scripts/studio.mjs"
+  }
+}

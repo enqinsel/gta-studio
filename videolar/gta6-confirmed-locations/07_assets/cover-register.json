@@ -1,0 +1,134 @@
+{
+  "version": "ep01-v4-localized",
+  "source": {
+    "assetId": "vice-city-22",
+    "publisher": "Rockstar Games",
+    "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+    "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+    "sourceSha256": "3d28d73e35ad59f8b0dfebdf5fd2c12292fc927fd8712fa2db81dafc4bd2f564",
+    "rightsStatus": "REVIEW",
+    "approvedV4MasterSha256": "253e49d7473631eb082ea949d225b255ca0b43955e530502eb0b19ed6fd5158c",
+    "approvedV4ThumbnailSha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1"
+  },
+  "method": "V4 art, crop, grade and GTA VI kicker reproduced pixel-for-pixel. Language changes apply only to the headline and its shadow. Turkish copies use the V4 files verbatim.",
+  "defaultLanguage": "en",
+  "defaultThumbnail": {
+    "file": "05_cover/thumbnail-en-1280x720.png",
+    "width": 1280,
+    "height": 720,
+    "byteCount": 1831209,
+    "sha256": "2174f3c737bc4cf93a37436769988f618c0eec271da7d00c7957d79363fc7571"
+  },
+  "mobilePreview": {
+    "file": "_work/cover/preview-mobile-320.png",
+    "tileWidth": 320,
+    "tileHeight": 180,
+    "order": [
+      "tr",
+      "en",
+      "es",
+      "de"
+    ]
+  },
+  "covers": [
+    {
+      "language": "tr",
+      "headline": "GTA VI / 6 BÖLGE",
+      "headlineSizeAt1920": 267,
+      "headlineDifferenceFromTrAt1920": null,
+      "thumbnail": {
+        "file": "05_cover/thumbnail-tr-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "byteCount": 1812157,
+        "sha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1"
+      },
+      "master": {
+        "file": "_work/cover/art-master-tr-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "byteCount": 3565040,
+        "sha256": "253e49d7473631eb082ea949d225b255ca0b43955e530502eb0b19ed6fd5158c"
+      }
+    },
+    {
+      "language": "en",
+      "headline": "GTA VI / 6 REGIONS",
+      "headlineSizeAt1920": 207.80435759209342,
+      "headlineDifferenceFromTrAt1920": {
+        "left": 96,
+        "top": 343,
+        "right": 1007,
+        "bottom": 624,
+        "changedPixels": 117690
+      },
+      "thumbnail": {
+        "file": "05_cover/thumbnail-en-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "byteCount": 1831209,
+        "sha256": "2174f3c737bc4cf93a37436769988f618c0eec271da7d00c7957d79363fc7571"
+      },
+      "master": {
+        "file": "_work/cover/art-master-en-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "byteCount": 3601798,
+        "sha256": "e722845524486bb18760a8e466c9de605013f3110ac9f6d2dc1fdefcdc4dabba"
+      }
+    },
+    {
+      "language": "es",
+      "headline": "GTA VI / 6 REGIONES",
+      "headlineSizeAt1920": 188.88900182964016,
+      "headlineDifferenceFromTrAt1920": {
+        "left": 96,
+        "top": 343,
+        "right": 1007,
+        "bottom": 624,
+        "changedPixels": 123463
+      },
+      "thumbnail": {
+        "file": "05_cover/thumbnail-es-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "byteCount": 1837317,
+        "sha256": "86ea2fd0a7ff5029770098b4c5d2c4acd52174f352b2ada86d8bc781bfa1275f"
+      },
+      "master": {
+        "file": "_work/cover/art-master-es-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "byteCount": 3614874,
+        "sha256": "a7858f52178d08eddf8737ce458b4052aaa45d47308a0013d4ce6662fe7da6cd"
+      }
+    },
+    {
+      "language": "de",
+      "headline": "GTA VI / 6 REGIONEN",
+      "headlineSizeAt1920": 184.90447761194028,
+      "headlineDifferenceFromTrAt1920": {
+        "left": 95,
+        "top": 343,
+        "right": 1007,
+        "bottom": 624,
+        "changedPixels": 122378
+      },
+      "thumbnail": {
+        "file": "05_cover/thumbnail-de-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "byteCount": 1836463,
+        "sha256": "ccc7fbf2c95d1329aa9434fa276e02b6991b42ea5bf01bc890aa8a627b8b0975"
+      },
+      "master": {
+        "file": "_work/cover/art-master-de-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "byteCount": 3614199,
+        "sha256": "cfd24354daa11c5e98c7b328a79cc8c5cab2ca8e4710c4be97c3b467fdfa808c"
+      }
+    }
+  ],
+  "pathBasis": "episode-package"
+}

@@ -1,0 +1,97 @@
+{
+  "status": "RIGHTS_REVIEW",
+  "files": [
+    {
+      "path": "render/review-tr.mp4",
+      "sha256": "0ac1d8372e4bae9a4c4dc5d02601f0690cc99c41e476f59f34366d0aad4a70f6"
+    },
+    {
+      "path": "render/master-clean-1920x1080.mp4",
+      "sha256": "069591e24bc10d35067fc44c9349ccd07c08787a3ac87775da0a807a4c30fcaf"
+    },
+    {
+      "path": "captions/tr.srt",
+      "sha256": "53bd7c96a2c89db9c051efb255007385cb4cb1524b1b9d9b05dcdf89332841c8"
+    },
+    {
+      "path": "outro/outro-1920x1080.mp4",
+      "sha256": "e442210b1dc0a9e9bd8ada8a0944e0b41c2daa5f3ba104e945abfb433ad13e10"
+    },
+    {
+      "path": "outro/outro.png",
+      "sha256": "0d675d67ffaf8d99cd5248785d6e646ed4823e3199ab6d0c11559f5913796e82"
+    },
+    {
+      "path": "outro/outro.wav",
+      "sha256": "96d7ebd59350e4cb086ae4e8b3ba10e31cf4e5115cf045be979a12ead3fe27a0"
+    },
+    {
+      "path": "composition/assets/deepframe-icon.svg",
+      "sha256": "628f198cc9ad09f019efa46199175a1a141564cae9c503a8a2ef3d2cfb6edd17"
+    },
+    {
+      "path": "composition/assets/deepframe-lockup.svg",
+      "sha256": "d170bc389791dad4e4419b08beedcccd00f93fefbd7871cee67e2b17ffe8f3df"
+    },
+    {
+      "path": "research/edit-reference.md",
+      "sha256": "2a30aa802b91fe0f7e29a495c1704a923e801143aa15f453971815635c32fd10"
+    },
+    {
+      "path": "script/script-tr.json",
+      "sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c"
+    },
+    {
+      "path": "audio/tr/narration-tr.wav",
+      "sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d"
+    },
+    {
+      "path": "audio/tr/whisper-tr.json",
+      "sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e"
+    },
+    {
+      "path": "audio/tr/word-map-tr.json",
+      "sha256": "71cb80407ea885a58acef85a250f222479d069beda1de40ff05c33b43945d07a"
+    },
+    {
+      "path": "research/claims.json",
+      "sha256": "e2b767ce3b5de5eb7e051ba0962cad38685fd97115f01917a068b70336af8343"
+    },
+    {
+      "path": "assets/source-register.json",
+      "sha256": "991c5a64239ea4de2c198264c96533fa807819f2ff7094800c998804183565e3"
+    },
+    {
+      "path": "storyboard/timeline.json",
+      "sha256": "a1f39ca27e6555e25ed56f014419eb7f6b860a2bfebac6557f691c7176054539"
+    },
+    {
+      "path": "storyboard/cut.json",
+      "sha256": "940013ae0201b1eb86ff7ac0cbba8118e7b82b47efbfc481d2e628e071bf7e5b"
+    },
+    {
+      "path": "delivery/qa.json",
+      "sha256": "d7e68790b9bfff08ddb88eed283312afeca67d5f6bac50a10a7cc9d4956d72a0"
+    },
+    {
+      "path": "research/outro-media.md",
+      "sha256": "cc8637b3d9bd7fc548fdc962f8f2bf79aab71d55a86598a17e8c652b8611c658"
+    },
+    {
+      "path": "assets/audio/sound-register.json",
+      "sha256": "3d9c6dd33a7ad3841214071adcaabbf029c1a16a8c7553dc001b386270e8e7dc"
+    },
+    {
+      "path": "storyboard/outro-media.json",
+      "sha256": "389ce8ac74927a24564b2f778e7387be19b498218d84ab88ef71e03953dafc8a"
+    },
+    {
+      "path": "delivery/summary.md",
+      "sha256": "9220b051fbd70c09e6d458a667f5c829d68fa931080a008f065daf8a2e882059"
+    },
+    {
+      "path": "delivery/asset-rights-review.md",
+      "sha256": "c8428a241898e7f1751a39512bd1b4f4581abd3bddca89886b35d4686bc07def"
+    }
+  ]
+}

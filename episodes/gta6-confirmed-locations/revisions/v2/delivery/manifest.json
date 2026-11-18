@@ -1,0 +1,107 @@
+{
+  "status": "RIGHTS_REVIEW",
+  "files": [
+    {
+      "path": "render/review-tr.mp4",
+      "sha256": "0e8b35dc63cba0c9a42b8f713956deb8aa595b3c61d758e09138e26655ce9836"
+    },
+    {
+      "path": "render/master-clean-1920x1080.mp4",
+      "sha256": "c939fc847cde233227a2dfbc5f39d4d2756e81b08e51f21898a58a0947fd0d1b"
+    },
+    {
+      "path": "captions/tr.srt",
+      "sha256": "53bd7c96a2c89db9c051efb255007385cb4cb1524b1b9d9b05dcdf89332841c8"
+    },
+    {
+      "path": "outro/outro-1920x1080.mp4",
+      "sha256": "c47db7820334928b86d0f5a950052fa6957d5bd1bb7932b1ba13548b20e5aa8e"
+    },
+    {
+      "path": "outro/outro.png",
+      "sha256": "56dff02421442b8f935e27e22940a5ea10ad07bed1de317ce9af00459b8a2b8c"
+    },
+    {
+      "path": "outro/outro.wav",
+      "sha256": "3c66a9a549396914fac11e954053def853c181f747a88d5730e420dca286574f"
+    },
+    {
+      "path": "script/script-tr.json",
+      "sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c"
+    },
+    {
+      "path": "audio/tr/narration-tr.wav",
+      "sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d"
+    },
+    {
+      "path": "audio/tr/whisper-tr.json",
+      "sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e"
+    },
+    {
+      "path": "audio/tr/word-map-tr.json",
+      "sha256": "71cb80407ea885a58acef85a250f222479d069beda1de40ff05c33b43945d07a"
+    },
+    {
+      "path": "research/claims.json",
+      "sha256": "e2b767ce3b5de5eb7e051ba0962cad38685fd97115f01917a068b70336af8343"
+    },
+    {
+      "path": "assets/source-register.json",
+      "sha256": "320f681ff8a543e6977cfca040c6f0a09d8fa383f21e403b3e229dd8fdcebedf"
+    },
+    {
+      "path": "storyboard/timeline.json",
+      "sha256": "ae816020065055643b2dceaac62e07e3a05735125fca154a98f02ee814691ddb"
+    },
+    {
+      "path": "storyboard/cut.json",
+      "sha256": "b5af360d5c496c742ce6b3781117976a551d0ce38d465ede198fdced51262284"
+    },
+    {
+      "path": "delivery/qa.json",
+      "sha256": "bfb9bfb6f1569e261e2057efa29cac38596996bdd29fc8921e256e9b96a16ece"
+    },
+    {
+      "path": "covers/01-leonida-1280x720.png",
+      "sha256": "5ce7d1cf61ba4e89c538dc09b7e9a4803e8d893df456672af10bb14396f716e7"
+    },
+    {
+      "path": "covers/02-vice-city-1280x720.png",
+      "sha256": "3bc0cebe9f33d9711c101e57db292aaab5bd19edce494eed41f3e523faddcd77"
+    },
+    {
+      "path": "covers/03-alti-bolge-1280x720.png",
+      "sha256": "9ec273e9ff64926878401e3ea200fb6fc9bea9012cb9175e6e9ce5525cfc608e"
+    },
+    {
+      "path": "covers/art-master-1920x1080.png",
+      "sha256": "3f3bd25cc2f77eb253e97f40f3cb0b4d7baf163226b29285adc6c56f50c80933"
+    },
+    {
+      "path": "covers/cover-register.json",
+      "sha256": "20d0ceb516cbb8d796d701ff5e1d38ba88e233a03525350a50bf13b03a75bda0"
+    },
+    {
+      "path": "covers/thumbnail-1280x720.png",
+      "sha256": "5ce7d1cf61ba4e89c538dc09b7e9a4803e8d893df456672af10bb14396f716e7"
+    },
+    {
+      "path": "delivery/summary.md",
+      "sha256": "b180b97be55a19150d7c3453088a5510215839b0fd0867ab82e25d70809cd76c"
+    },
+    {
+      "path": "delivery/asset-rights-review.md",
+      "sha256": "ef82e6ee74e8915d1708efcdcec99c8323910dcb1f199b980f89ed48c810e629"
+    },
+    {
+      "path": "captions/tr-source.srt",
+      "sha256": "504af91b03eca76eb07cbc5ef9f37715a7624c140362de8c44f34d43aaeb7dea"
+    }
+  ],
+  "cover": {
+    "source_asset_id": "vice-city-27",
+    "rights_status": "REVIEW",
+    "headline": "GTA 6 / LEONIDA",
+    "alternatives": "covers/cover-register.json"
+  }
+}

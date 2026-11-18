@@ -1,0 +1,317 @@
+[
+  {
+    "id": "world-leonida",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar, Jason ve Lucia’nın hikâyesinin Leonida eyaletine yayıldığını belirtiyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI",
+        "detail": "Vice City, USA. başlığı ve hikâye özeti",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/trailer-2",
+        "detail": "Rockstar’ın ikinci fragman sayfasındaki hikâye özeti",
+        "published": "2025-05-06",
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_TRAILER_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "guide-six",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar’ın Only in Leonida rehberinde Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia ve Mount Kalaga için ayrı Explore başlıkları var.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Altı Explore konum başlığı.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Mount Kalaga ekran görüntülerinin galeri adı Mount Kalaga National Park.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "vice-city-guide",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar, Vice City rehberinde Art Deco otelleriyle Ocean Beach, fırınlarıyla Little Cuba, Tisha-Wocka bit pazarı ve kruvaziyer limanı VC Port adlarını veriyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Vice City → Everything in Excess açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "vice-city-beach-and-skyline",
+    "status": "OBSERVED",
+    "text": "Rockstar galerisi Vice City’de gündüz plajını ve gece dönme dolaplı kent siluetini gösteriyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Vice City 05 ile Vice City 08. 05 numaranın alternatif metni plajı genel Vice City adıyla etiketliyor.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "keys-archipelago",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Leonida Keys tropik bir takımada. Resmî karede iki adayı bağlayan bir karayolu köprüsü ve suların üzerinde deniz uçağı var.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Leonida Keys → Gateway to Paradise açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Leonida Keys 01 ve ilgili resmî alternatif metin.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "keys-water",
+    "status": "OBSERVED",
+    "text": "Leonida Keys’e ait bir resmî sualtı karesinde dalgıçlar, mercanlar ve deniz kaplumbağası görülüyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Leonida Keys 04 ve ilgili resmî alternatif metin.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "grassrivers-wetlands",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Grassrivers sulak alan. Rockstar’ın tanıtımı mangrovları ve timsahları anıyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Grassrivers → Welcome to the Wetlands açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "grassrivers-airboat",
+    "status": "OBSERVED",
+    "text": "Resmî görsellerde Grassrivers’da pervaneli tekne ile timsahlar, ayrıca bataklıktan geçen bir polis takibi yer alıyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Grassrivers 03 ve 04, ilgili resmî alternatif metinler.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "gellhorn-resort",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Port Gellhorn, Leonida kıyısında, eski popülerliğini yitirmiş bir tatil beldesi. Rockstar ucuz motelleri, kapanan eğlence yerlerini ve boş açık alışveriş merkezlerini anıyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Port Gellhorn → Live Hard açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "gellhorn-visual",
+    "status": "OBSERVED",
+    "text": "Resmî Port Gellhorn görsellerinde gece yanan bir motel tabelası ve bir kabare tabelası görülüyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Port Gellhorn 01 ve 04, ilgili resmî alternatif metinler.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "ambrosia-refinery",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar’ın Ambrosia tanıtımı Allied Crystal şeker rafinerisini bir istihdam kaynağı olarak betimliyor ve yerel bir motosiklet çetesini anıyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Ambrosia → Keeping Leonida Sweet açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "ambrosia-visual",
+    "status": "OBSERVED",
+    "text": "Resmî görseller Ambrosia’da bacalı gece siluetini ve aynı deri yelekleri giyen motosikletlileri gösteriyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Ambrosia 02 ve 01, ilgili resmî alternatif metinler. Baca silueti tek başına tesisin adını kanıtlamıyor.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "kalaga-border",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Mount Kalaga, Rockstar’ın tanıtımına göre Leonida’nın kuzey sınırında. Resmî ekran görüntüleri konumu Mount Kalaga National Park adıyla listeliyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Explore Mount Kalaga → Wild, Wild Country açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Mount Kalaga National Park 01–06.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "kalaga-trails",
+    "status": "OBSERVED",
+    "text": "Mount Kalaga’nın resmî görselleri ormanlık sırtları, kıvrımlı yolu, çamurda arazi motosikletlerini ve akarsuda kanoyu gösteriyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Mount Kalaga National Park 02, 04, 01 ve 06, ilgili resmî alternatif metinler.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "map-scope",
+    "status": "INFERENCE",
+    "text": "Resmî konum panelleri, fragman ve ekran görüntüleri kendi başlarına bütün sınırları, mesafeleri ve güzergâhları ölçmeye elverişli değil. Rockstar bir koleksiyon afişinin arkasında Leonida haritası da duyurdu.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Gezi rehberi seçili adresleri tanıtıyor.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Konumlarla etiketlenen arşiv sahneleri.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      },
+      {
+        "url": "https://store.rockstargames.com/merchandise/gtavi-goodtime-state-vice-city-collection",
+        "detail": "Double-Sided Souvenir Poster with Map of Leonida ürün açıklaması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "world-geographic-variety",
+    "status": "INFERENCE",
+    "text": "Şehir, tropik takımada, sulak alan, kıyı beldesi, tarım ve sanayi çevresi ile dağlık park farklı görünüyor. Ritmin değiştiği ifadesi bu görüntülere dayanan editoryal yorum.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Altı konum panelinin birlikte okunması.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      },
+      {
+        "url": "https://www.rockstargames.com/VI/media/screenshots",
+        "detail": "Vice City 08, Leonida Keys 04, Grassrivers 03, Port Gellhorn 01, Ambrosia 02, Mount Kalaga National Park 02.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_SCREENSHOT"
+      }
+    ]
+  },
+  {
+    "id": "launch-gallery",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar 5 Kasım 2026’da Vice City ve ötesinden yeni ekran görüntülerinin Launch Gallery’de yer aldığını duyurdu.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/newswire/article/39ak81277255o9/explore-the-grand-theft-auto-vi-launch-gallery",
+        "detail": "Launch Gallery duyurusu.",
+        "published": "2026-11-05",
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_NEWSWIRE"
+      }
+    ]
+  },
+  {
+    "id": "penitentiary-named",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Lucia’nın biyografisi Leonida Penitentiary adını karakterin geçmişinde anıyor.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Lucia Caminos biyografisi.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  },
+  {
+    "id": "liberty-city-backstory",
+    "status": "OFFICIALLY_CONFIRMED",
+    "text": "Rockstar, Liberty City adını Lucia ve annesinin geçmişi bağlamında veriyor. Gezilebilirlik iddiasına dayanak yok.",
+    "sources": [
+      {
+        "url": "https://www.rockstargames.com/VI/only-in-leonida",
+        "detail": "Lucia Caminos biyografisi.",
+        "published": null,
+        "observed": "2026-11-18",
+        "source_type": "OFFICIAL_ROCKSTAR_PAGE"
+      }
+    ]
+  }
+]

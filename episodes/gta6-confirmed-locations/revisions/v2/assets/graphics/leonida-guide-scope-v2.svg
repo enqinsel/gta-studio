@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#110f14"/><stop offset="100%" stop-color="#211720"/></linearGradient></defs>
+<rect width="1920" height="1080" fill="url(#background)"/>
+<g font-family="Avenir Next, Century Gothic, Arial, sans-serif" fill="#fff4e9">
+<text x="113" y="153" fill="#e5b29c" font-size="31" letter-spacing="4" font-weight="600">LEONIDA</text>
+<text x="105" y="310" font-size="129" letter-spacing="-6" font-weight="700">Rehberin kapsamı</text>
+<g fill="#e5b29c" font-size="31" letter-spacing="3" font-weight="600">
+<text x="115" y="497">ROCKSTAR’IN ADLANDIRDIĞI</text><text x="982" y="497">DOĞRULAMA BEKLİYOR</text>
+</g>
+<g font-size="54" font-weight="600">
+<text x="112" y="619">6 ana bölge</text><text x="112" y="711">Vice City’de 4 adres</text>
+<text x="979" y="619">Sınırlar, mesafeler</text><text x="979" y="711">ve güzergâhlar</text>
+</g><text x="115" y="966" fill="#C69F8E" font-size="21" letter-spacing="3">ROCKSTAR GAMES / ONLY IN LEONIDA</text></g></svg>

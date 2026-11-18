@@ -1,0 +1,6 @@
+interface:
+  display_name: "gta-studio"
+  short_description: "Evidence-led cinematic GTA VI long-form videos"
+  default_prompt: "Use $gta-studio to produce a VALEA GTA VI documentary from verified media, with English original narration, Engin/Higgsfield ElevenLabs v4, timed captions, and localized publishing assets."
+policy:
+  allow_implicit_invocation: true

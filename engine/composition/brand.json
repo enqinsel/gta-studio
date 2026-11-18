@@ -1,0 +1,20 @@
+{
+  "projectId": "gta-studio",
+  "displayName": "VALEA",
+  "identity": {
+    "icon": "brand/valea-mark.svg",
+    "lockup": "brand/valea-lockup.svg",
+    "fontFamily": "Avenir Next, Helvetica Neue, Arial, sans-serif",
+    "colors": {
+      "paper": "#FFF4E9",
+      "warm": "#E5B29C",
+      "graphite": "#100E13"
+    }
+  },
+  "watermark": {
+    "enabled": true
+  },
+  "outro": {
+    "durationSeconds": 6.4
+  }
+}

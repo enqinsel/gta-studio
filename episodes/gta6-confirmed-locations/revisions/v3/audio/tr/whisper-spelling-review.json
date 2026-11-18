@@ -1,0 +1,143 @@
+{
+  "script_sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c",
+  "whisper_sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e",
+  "review_basis": "Yazım ve bağlam karşılaştırması. Sentezlenen kayıt için bağımsız kulakla telaffuz denetimi bekliyor.",
+  "corrections": [
+    {
+      "canonical_indices": [
+        24,
+        25
+      ],
+      "asr_words": [
+        "6"
+      ],
+      "note": "Whisper sayıyı rakamla yazdı. Türkçe altyazıda yazıyla yazılan aynı sayı kullanıldı."
+    },
+    {
+      "canonical_indices": [
+        42,
+        44
+      ],
+      "asr_words": [
+        "gecede"
+      ],
+      "note": "Aynı ifade, bağlaç ayrı yazıldı."
+    },
+    {
+      "canonical_indices": [
+        54,
+        55
+      ],
+      "asr_words": [
+        "4"
+      ],
+      "note": "Whisper sayıyı rakamla yazdı. Türkçe altyazıda yazıyla yazılan aynı sayı kullanıldı."
+    },
+    {
+      "canonical_indices": [
+        67,
+        68
+      ],
+      "asr_words": [
+        "Tisha",
+        "-Wocka"
+      ],
+      "note": "Rockstar’ın Tisha-Wocka yazımı kullanıldı, iki Whisper sözcüğü tek adın zaman aralığında birleşti."
+    },
+    {
+      "canonical_indices": [
+        110,
+        111
+      ],
+      "asr_words": [
+        "takım",
+        "adayı"
+      ],
+      "note": "Takımada sözcüğünün resmî yazımı korundu."
+    },
+    {
+      "canonical_indices": [
+        117,
+        118
+      ],
+      "asr_words": [
+        "Wrath",
+        "Rivers'da"
+      ],
+      "note": "Sulak alanın resmî adı Grassrivers olarak düzeltildi. İki tanınan sözcüğün birleşik zaman aralığı kullanıldı."
+    },
+    {
+      "canonical_indices": [
+        124,
+        125
+      ],
+      "asr_words": [
+        "mangroveların"
+      ],
+      "note": "Ardışık bütün sözcüklerin bağlamı mangrovların olduğunu destekliyor."
+    },
+    {
+      "canonical_indices": [
+        151,
+        153
+      ],
+      "asr_words": [
+        "Galhorn'da"
+      ],
+      "note": "Rockstar’ın Port Gellhorn yazımı ve cümledeki ayrı bağlaç korundu. Ortak Whisper zaman aralığı kullanıldı."
+    },
+    {
+      "canonical_indices": [
+        251,
+        253
+      ],
+      "asr_words": [
+        "asfaltta"
+      ],
+      "note": "Cümlenin bağlamı asfalt sözcüğünü ve ayrı bağlacı destekliyor. Ortak Whisper zaman aralığı kullanıldı."
+    },
+    {
+      "canonical_indices": [
+        260,
+        261
+      ],
+      "asr_words": [
+        "akarsu",
+        "da"
+      ],
+      "note": "Akarsu ve bulunma eki birlikte yazıldı."
+    },
+    {
+      "canonical_indices": [
+        262,
+        263
+      ],
+      "asr_words": [
+        "Rehlerin"
+      ],
+      "note": "Rehberin gösterdiği yerler bağlamına uyan sözcük geri kondu."
+    },
+    {
+      "canonical_indices": [
+        291,
+        292
+      ],
+      "asr_words": [
+        "manzara",
+        "da"
+      ],
+      "note": "Manzara ve bulunma eki birlikte yazıldı."
+    },
+    {
+      "canonical_indices": [
+        295,
+        296
+      ],
+      "asr_words": [
+        "sonraki",
+        "de"
+      ],
+      "note": "Bir önceki manzara ile başlayan cümle yapısına göre sözcük yeniden birleştirildi."
+    }
+  ]
+}

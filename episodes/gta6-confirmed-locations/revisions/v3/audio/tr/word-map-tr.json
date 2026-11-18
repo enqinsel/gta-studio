@@ -1,0 +1,2457 @@
+{
+  "status": "PASS",
+  "audio_sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d",
+  "script_sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c",
+  "whisper_sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e",
+  "model": "medium",
+  "language": "tr",
+  "duration": 140.709646,
+  "method": "Normalized exact token alignment to native timestamps",
+  "coverage": 1.0,
+  "sections": [
+    {
+      "id": "intro",
+      "start": 0.0,
+      "end": 17.68,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "GTA",
+          "start": 0.0,
+          "end": 0.56,
+          "matched": true,
+          "asr_word": "GTA"
+        },
+        {
+          "word": "altının",
+          "start": 0.56,
+          "end": 1.12,
+          "matched": true,
+          "asr_word": "altının"
+        },
+        {
+          "word": "dünyasını",
+          "start": 1.12,
+          "end": 1.7,
+          "matched": true,
+          "asr_word": "dünyasını"
+        },
+        {
+          "word": "anlamak",
+          "start": 1.7,
+          "end": 2.2,
+          "matched": true,
+          "asr_word": "anlamak"
+        },
+        {
+          "word": "için",
+          "start": 2.2,
+          "end": 2.54,
+          "matched": true,
+          "asr_word": "için"
+        },
+        {
+          "word": "Vice",
+          "start": 2.54,
+          "end": 2.88,
+          "matched": true,
+          "asr_word": "Vice"
+        },
+        {
+          "word": "City’nin",
+          "start": 2.88,
+          "end": 3.12,
+          "matched": true,
+          "asr_word": "City'nin"
+        },
+        {
+          "word": "ışıklarından",
+          "start": 3.12,
+          "end": 3.9,
+          "matched": true,
+          "asr_word": "ışıklarından"
+        },
+        {
+          "word": "biraz",
+          "start": 3.9,
+          "end": 4.2,
+          "matched": true,
+          "asr_word": "biraz"
+        },
+        {
+          "word": "uzaklaşmak",
+          "start": 4.2,
+          "end": 4.84,
+          "matched": true,
+          "asr_word": "uzaklaşmak"
+        },
+        {
+          "word": "gerekiyor.",
+          "start": 4.84,
+          "end": 5.5,
+          "matched": true,
+          "asr_word": "gerekiyor."
+        },
+        {
+          "word": "Rockstar,",
+          "start": 5.74,
+          "end": 6.16,
+          "matched": true,
+          "asr_word": "Rockstar,"
+        },
+        {
+          "word": "Jason",
+          "start": 6.38,
+          "end": 6.74,
+          "matched": true,
+          "asr_word": "Jason"
+        },
+        {
+          "word": "ve",
+          "start": 6.74,
+          "end": 6.9,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "Lucia’nın",
+          "start": 6.9,
+          "end": 7.42,
+          "matched": true,
+          "asr_word": "Lucia'nın"
+        },
+        {
+          "word": "hikâyesini",
+          "start": 7.42,
+          "end": 8.16,
+          "matched": true,
+          "asr_word": "hikayesini"
+        },
+        {
+          "word": "Leonida",
+          "start": 8.16,
+          "end": 8.64,
+          "matched": true,
+          "asr_word": "Leonida"
+        },
+        {
+          "word": "eyaletine",
+          "start": 8.64,
+          "end": 9.24,
+          "matched": true,
+          "asr_word": "eyaletine"
+        },
+        {
+          "word": "yayıyor.",
+          "start": 9.24,
+          "end": 9.74,
+          "matched": true,
+          "asr_word": "yayıyor."
+        },
+        {
+          "word": "Stüdyonun",
+          "start": 10.02,
+          "end": 10.42,
+          "matched": true,
+          "asr_word": "Stüdyonun"
+        },
+        {
+          "word": "resmî",
+          "start": 10.42,
+          "end": 10.8,
+          "matched": true,
+          "asr_word": "resmi"
+        },
+        {
+          "word": "rehberinde",
+          "start": 10.8,
+          "end": 11.46,
+          "matched": true,
+          "asr_word": "rehberinde"
+        },
+        {
+          "word": "öne",
+          "start": 11.46,
+          "end": 11.78,
+          "matched": true,
+          "asr_word": "öne"
+        },
+        {
+          "word": "çıkan",
+          "start": 11.78,
+          "end": 12.14,
+          "matched": true,
+          "asr_word": "çıkan"
+        },
+        {
+          "word": "altı",
+          "start": 12.14,
+          "end": 12.42,
+          "matched": true,
+          "asr_word": "6",
+          "timing": "reviewed_native_word"
+        },
+        {
+          "word": "yer",
+          "start": 12.42,
+          "end": 12.6,
+          "matched": true,
+          "asr_word": "yer"
+        },
+        {
+          "word": "var.",
+          "start": 12.6,
+          "end": 12.88,
+          "matched": true,
+          "asr_word": "var."
+        },
+        {
+          "word": "Önce",
+          "start": 13.18,
+          "end": 13.38,
+          "matched": true,
+          "asr_word": "Önce"
+        },
+        {
+          "word": "şehre",
+          "start": 13.38,
+          "end": 13.68,
+          "matched": true,
+          "asr_word": "şehre"
+        },
+        {
+          "word": "bakalım,",
+          "start": 13.68,
+          "end": 14.12,
+          "matched": true,
+          "asr_word": "bakalım,"
+        },
+        {
+          "word": "sonra",
+          "start": 14.46,
+          "end": 14.7,
+          "matched": true,
+          "asr_word": "sonra"
+        },
+        {
+          "word": "suyun",
+          "start": 14.7,
+          "end": 15.12,
+          "matched": true,
+          "asr_word": "suyun"
+        },
+        {
+          "word": "ve",
+          "start": 15.12,
+          "end": 15.36,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "asfaltın",
+          "start": 15.36,
+          "end": 15.94,
+          "matched": true,
+          "asr_word": "asfaltın"
+        },
+        {
+          "word": "bizi",
+          "start": 15.94,
+          "end": 16.16,
+          "matched": true,
+          "asr_word": "bizi"
+        },
+        {
+          "word": "nereye",
+          "start": 16.16,
+          "end": 16.5,
+          "matched": true,
+          "asr_word": "nereye"
+        },
+        {
+          "word": "götürdüğünü",
+          "start": 16.5,
+          "end": 17.02,
+          "matched": true,
+          "asr_word": "götürdüğünü"
+        },
+        {
+          "word": "görelim.",
+          "start": 17.02,
+          "end": 17.68,
+          "matched": true,
+          "asr_word": "görelim."
+        }
+      ]
+    },
+    {
+      "id": "vice-city",
+      "start": 17.88,
+      "end": 38.3,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Vice",
+          "start": 17.88,
+          "end": 18.06,
+          "matched": true,
+          "asr_word": "Vice"
+        },
+        {
+          "word": "City.",
+          "start": 18.06,
+          "end": 18.58,
+          "matched": true,
+          "asr_word": "City."
+        },
+        {
+          "word": "Gündüz",
+          "start": 18.82,
+          "end": 19.14,
+          "matched": true,
+          "asr_word": "Gündüz"
+        },
+        {
+          "word": "sahilde,",
+          "start": 19.14,
+          "end": 19.78,
+          "matched": true,
+          "asr_word": "sahilde,"
+        },
+        {
+          "word": "gece",
+          "start": 20.06,
+          "end": 20.4,
+          "matched": true,
+          "asr_word": "gecede",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "de",
+          "start": 20.06,
+          "end": 20.4,
+          "matched": true,
+          "asr_word": "gecede",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "ışıl",
+          "start": 20.4,
+          "end": 20.88,
+          "matched": true,
+          "asr_word": "ışıl"
+        },
+        {
+          "word": "ışıl",
+          "start": 20.88,
+          "end": 21.14,
+          "matched": true,
+          "asr_word": "ışıl"
+        },
+        {
+          "word": "bir",
+          "start": 21.14,
+          "end": 21.38,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "dönme",
+          "start": 21.38,
+          "end": 21.66,
+          "matched": true,
+          "asr_word": "dönme"
+        },
+        {
+          "word": "dolabın",
+          "start": 21.66,
+          "end": 21.98,
+          "matched": true,
+          "asr_word": "dolabın"
+        },
+        {
+          "word": "önündeyiz.",
+          "start": 21.98,
+          "end": 22.58,
+          "matched": true,
+          "asr_word": "önündeyiz."
+        },
+        {
+          "word": "Rockstar,",
+          "start": 22.82,
+          "end": 23.34,
+          "matched": true,
+          "asr_word": "Rockstar"
+        },
+        {
+          "word": "aynı",
+          "start": 23.34,
+          "end": 23.72,
+          "matched": true,
+          "asr_word": "aynı"
+        },
+        {
+          "word": "şehrin",
+          "start": 23.72,
+          "end": 24.18,
+          "matched": true,
+          "asr_word": "şehrin"
+        },
+        {
+          "word": "içinde",
+          "start": 24.18,
+          "end": 24.48,
+          "matched": true,
+          "asr_word": "içinde"
+        },
+        {
+          "word": "dört",
+          "start": 24.48,
+          "end": 24.84,
+          "matched": true,
+          "asr_word": "4",
+          "timing": "reviewed_native_word"
+        },
+        {
+          "word": "ayrı",
+          "start": 24.84,
+          "end": 25.2,
+          "matched": true,
+          "asr_word": "ayrı"
+        },
+        {
+          "word": "adresi",
+          "start": 25.2,
+          "end": 25.58,
+          "matched": true,
+          "asr_word": "adresi"
+        },
+        {
+          "word": "özellikle",
+          "start": 25.58,
+          "end": 26.1,
+          "matched": true,
+          "asr_word": "özellikle"
+        },
+        {
+          "word": "anıyor.",
+          "start": 26.1,
+          "end": 26.48,
+          "matched": true,
+          "asr_word": "anıyor."
+        },
+        {
+          "word": "Art",
+          "start": 26.48,
+          "end": 26.98,
+          "matched": true,
+          "asr_word": "Art"
+        },
+        {
+          "word": "Deco",
+          "start": 26.98,
+          "end": 27.26,
+          "matched": true,
+          "asr_word": "Deco"
+        },
+        {
+          "word": "otelleriyle",
+          "start": 27.26,
+          "end": 27.94,
+          "matched": true,
+          "asr_word": "otelleriyle"
+        },
+        {
+          "word": "Ocean",
+          "start": 27.94,
+          "end": 28.34,
+          "matched": true,
+          "asr_word": "Ocean"
+        },
+        {
+          "word": "Beach,",
+          "start": 28.34,
+          "end": 28.7,
+          "matched": true,
+          "asr_word": "Beach,"
+        },
+        {
+          "word": "fırınlarıyla",
+          "start": 28.98,
+          "end": 29.54,
+          "matched": true,
+          "asr_word": "fırınlarıyla"
+        },
+        {
+          "word": "Little",
+          "start": 29.54,
+          "end": 29.88,
+          "matched": true,
+          "asr_word": "Little"
+        },
+        {
+          "word": "Cuba,",
+          "start": 29.88,
+          "end": 30.3,
+          "matched": true,
+          "asr_word": "Cuba,"
+        },
+        {
+          "word": "Tisha-Wocka",
+          "start": 30.68,
+          "end": 31.22,
+          "matched": true,
+          "asr_word": "Tisha -Wocka",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "bit",
+          "start": 31.22,
+          "end": 31.4,
+          "matched": true,
+          "asr_word": "Bit"
+        },
+        {
+          "word": "pazarı",
+          "start": 31.4,
+          "end": 31.84,
+          "matched": true,
+          "asr_word": "Pazarı"
+        },
+        {
+          "word": "ve",
+          "start": 31.84,
+          "end": 32.18,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "kruvaziyer",
+          "start": 32.18,
+          "end": 32.8,
+          "matched": true,
+          "asr_word": "Kruvaziyer"
+        },
+        {
+          "word": "limanı",
+          "start": 32.8,
+          "end": 33.26,
+          "matched": true,
+          "asr_word": "Limanı"
+        },
+        {
+          "word": "VC",
+          "start": 33.26,
+          "end": 33.74,
+          "matched": true,
+          "asr_word": "VC"
+        },
+        {
+          "word": "Port.",
+          "start": 33.74,
+          "end": 34.12,
+          "matched": true,
+          "asr_word": "Port."
+        },
+        {
+          "word": "Şehir,",
+          "start": 34.44,
+          "end": 34.82,
+          "matched": true,
+          "asr_word": "Şehir"
+        },
+        {
+          "word": "sahil",
+          "start": 34.82,
+          "end": 35.28,
+          "matched": true,
+          "asr_word": "sahil"
+        },
+        {
+          "word": "şeridinden",
+          "start": 35.28,
+          "end": 35.78,
+          "matched": true,
+          "asr_word": "şeridinden"
+        },
+        {
+          "word": "içeri",
+          "start": 35.78,
+          "end": 36.12,
+          "matched": true,
+          "asr_word": "içeri"
+        },
+        {
+          "word": "girdikçe",
+          "start": 36.12,
+          "end": 36.74,
+          "matched": true,
+          "asr_word": "girdikçe"
+        },
+        {
+          "word": "bambaşka",
+          "start": 36.74,
+          "end": 37.3,
+          "matched": true,
+          "asr_word": "bambaşka"
+        },
+        {
+          "word": "yüzler",
+          "start": 37.3,
+          "end": 37.72,
+          "matched": true,
+          "asr_word": "yüzler"
+        },
+        {
+          "word": "gösteriyor.",
+          "start": 37.72,
+          "end": 38.3,
+          "matched": true,
+          "asr_word": "gösteriyor."
+        }
+      ]
+    },
+    {
+      "id": "leonida-keys",
+      "start": 38.9,
+      "end": 53.64,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Leonida",
+          "start": 38.9,
+          "end": 39.3,
+          "matched": true,
+          "asr_word": "Leonida"
+        },
+        {
+          "word": "Keys.",
+          "start": 39.3,
+          "end": 39.86,
+          "matched": true,
+          "asr_word": "Keys."
+        },
+        {
+          "word": "Deniz",
+          "start": 40.04,
+          "end": 40.32,
+          "matched": true,
+          "asr_word": "Deniz"
+        },
+        {
+          "word": "uçağının",
+          "start": 40.32,
+          "end": 40.74,
+          "matched": true,
+          "asr_word": "uçağının"
+        },
+        {
+          "word": "altında",
+          "start": 40.74,
+          "end": 41.14,
+          "matched": true,
+          "asr_word": "altında"
+        },
+        {
+          "word": "uzanan",
+          "start": 41.14,
+          "end": 41.5,
+          "matched": true,
+          "asr_word": "uzanan"
+        },
+        {
+          "word": "köprü,",
+          "start": 41.5,
+          "end": 42.0,
+          "matched": true,
+          "asr_word": "köprü,"
+        },
+        {
+          "word": "iki",
+          "start": 42.2,
+          "end": 42.42,
+          "matched": true,
+          "asr_word": "iki"
+        },
+        {
+          "word": "adayı",
+          "start": 42.42,
+          "end": 42.7,
+          "matched": true,
+          "asr_word": "adayı"
+        },
+        {
+          "word": "birbirine",
+          "start": 42.7,
+          "end": 43.2,
+          "matched": true,
+          "asr_word": "birbirine"
+        },
+        {
+          "word": "bağlıyor.",
+          "start": 43.2,
+          "end": 43.66,
+          "matched": true,
+          "asr_word": "bağlıyor."
+        },
+        {
+          "word": "Bir",
+          "start": 43.94,
+          "end": 44.14,
+          "matched": true,
+          "asr_word": "Bir"
+        },
+        {
+          "word": "başka",
+          "start": 44.14,
+          "end": 44.44,
+          "matched": true,
+          "asr_word": "başka"
+        },
+        {
+          "word": "kare",
+          "start": 44.44,
+          "end": 44.72,
+          "matched": true,
+          "asr_word": "kare"
+        },
+        {
+          "word": "suyun",
+          "start": 44.72,
+          "end": 45.04,
+          "matched": true,
+          "asr_word": "suyun"
+        },
+        {
+          "word": "altına",
+          "start": 45.04,
+          "end": 45.42,
+          "matched": true,
+          "asr_word": "altına"
+        },
+        {
+          "word": "iniyor.",
+          "start": 45.42,
+          "end": 45.88,
+          "matched": true,
+          "asr_word": "iniyor."
+        },
+        {
+          "word": "Mercanların",
+          "start": 46.06,
+          "end": 46.58,
+          "matched": true,
+          "asr_word": "Mercanların"
+        },
+        {
+          "word": "arasında",
+          "start": 46.58,
+          "end": 47.1,
+          "matched": true,
+          "asr_word": "arasında"
+        },
+        {
+          "word": "dalgıçlar",
+          "start": 47.1,
+          "end": 47.86,
+          "matched": true,
+          "asr_word": "dalgıçlar"
+        },
+        {
+          "word": "ve",
+          "start": 47.86,
+          "end": 48.02,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "bir",
+          "start": 48.02,
+          "end": 48.18,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "deniz",
+          "start": 48.18,
+          "end": 48.52,
+          "matched": true,
+          "asr_word": "deniz"
+        },
+        {
+          "word": "kaplumbağası",
+          "start": 48.52,
+          "end": 49.12,
+          "matched": true,
+          "asr_word": "kaplumbağası"
+        },
+        {
+          "word": "var.",
+          "start": 49.12,
+          "end": 49.34,
+          "matched": true,
+          "asr_word": "var."
+        },
+        {
+          "word": "Rockstar,",
+          "start": 49.68,
+          "end": 50.14,
+          "matched": true,
+          "asr_word": "Rockstar,"
+        },
+        {
+          "word": "tropik",
+          "start": 50.34,
+          "end": 50.64,
+          "matched": true,
+          "asr_word": "tropik"
+        },
+        {
+          "word": "takımadayı",
+          "start": 50.64,
+          "end": 51.2,
+          "matched": true,
+          "asr_word": "takım adayı",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "suyun",
+          "start": 51.2,
+          "end": 51.54,
+          "matched": true,
+          "asr_word": "suyun"
+        },
+        {
+          "word": "üstünden",
+          "start": 51.54,
+          "end": 52.02,
+          "matched": true,
+          "asr_word": "üstünden"
+        },
+        {
+          "word": "de",
+          "start": 52.02,
+          "end": 52.44,
+          "matched": true,
+          "asr_word": "de"
+        },
+        {
+          "word": "altından",
+          "start": 52.44,
+          "end": 52.9,
+          "matched": true,
+          "asr_word": "altından"
+        },
+        {
+          "word": "da",
+          "start": 52.9,
+          "end": 53.14,
+          "matched": true,
+          "asr_word": "da"
+        },
+        {
+          "word": "gösteriyor.",
+          "start": 53.14,
+          "end": 53.64,
+          "matched": true,
+          "asr_word": "gösteriyor."
+        }
+      ]
+    },
+    {
+      "id": "grassrivers",
+      "start": 53.64,
+      "end": 68.72,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Grassrivers’da",
+          "start": 53.64,
+          "end": 54.96,
+          "matched": true,
+          "asr_word": "Wrath Rivers'da",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "su",
+          "start": 54.96,
+          "end": 55.26,
+          "matched": true,
+          "asr_word": "su"
+        },
+        {
+          "word": "bambaşka",
+          "start": 55.26,
+          "end": 55.82,
+          "matched": true,
+          "asr_word": "bambaşka"
+        },
+        {
+          "word": "bir",
+          "start": 55.82,
+          "end": 56.08,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "manzaraya",
+          "start": 56.08,
+          "end": 56.38,
+          "matched": true,
+          "asr_word": "manzaraya"
+        },
+        {
+          "word": "dönüşüyor.",
+          "start": 56.38,
+          "end": 56.98,
+          "matched": true,
+          "asr_word": "dönüşüyor."
+        },
+        {
+          "word": "Burası",
+          "start": 57.18,
+          "end": 57.6,
+          "matched": true,
+          "asr_word": "Burası"
+        },
+        {
+          "word": "mangrovların",
+          "start": 57.6,
+          "end": 58.3,
+          "matched": true,
+          "asr_word": "mangroveların",
+          "timing": "reviewed_native_word"
+        },
+        {
+          "word": "arasında",
+          "start": 58.3,
+          "end": 58.74,
+          "matched": true,
+          "asr_word": "arasında"
+        },
+        {
+          "word": "uzanan",
+          "start": 58.74,
+          "end": 59.08,
+          "matched": true,
+          "asr_word": "uzanan"
+        },
+        {
+          "word": "bir",
+          "start": 59.08,
+          "end": 59.4,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "sulak",
+          "start": 59.4,
+          "end": 59.68,
+          "matched": true,
+          "asr_word": "sulak"
+        },
+        {
+          "word": "alan.",
+          "start": 59.68,
+          "end": 59.84,
+          "matched": true,
+          "asr_word": "alan."
+        },
+        {
+          "word": "Yukarıdan",
+          "start": 60.1,
+          "end": 60.6,
+          "matched": true,
+          "asr_word": "Yukarıdan"
+        },
+        {
+          "word": "çekilen",
+          "start": 60.6,
+          "end": 60.92,
+          "matched": true,
+          "asr_word": "çekilen"
+        },
+        {
+          "word": "resmî",
+          "start": 60.92,
+          "end": 61.34,
+          "matched": true,
+          "asr_word": "resmi"
+        },
+        {
+          "word": "karede",
+          "start": 61.34,
+          "end": 61.84,
+          "matched": true,
+          "asr_word": "karede"
+        },
+        {
+          "word": "bir",
+          "start": 61.84,
+          "end": 62.14,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "pervaneli",
+          "start": 62.14,
+          "end": 62.7,
+          "matched": true,
+          "asr_word": "pervaneli"
+        },
+        {
+          "word": "teknenin",
+          "start": 62.7,
+          "end": 63.18,
+          "matched": true,
+          "asr_word": "teknenin"
+        },
+        {
+          "word": "etrafını",
+          "start": 63.18,
+          "end": 63.68,
+          "matched": true,
+          "asr_word": "etrafını"
+        },
+        {
+          "word": "timsahlar",
+          "start": 63.68,
+          "end": 64.34,
+          "matched": true,
+          "asr_word": "timsahlar"
+        },
+        {
+          "word": "sarmış.",
+          "start": 64.34,
+          "end": 64.76,
+          "matched": true,
+          "asr_word": "sarmış."
+        },
+        {
+          "word": "Bir",
+          "start": 65.0,
+          "end": 65.16,
+          "matched": true,
+          "asr_word": "Bir"
+        },
+        {
+          "word": "başka",
+          "start": 65.16,
+          "end": 65.5,
+          "matched": true,
+          "asr_word": "başka"
+        },
+        {
+          "word": "karede",
+          "start": 65.5,
+          "end": 66.02,
+          "matched": true,
+          "asr_word": "karede"
+        },
+        {
+          "word": "aynı",
+          "start": 66.02,
+          "end": 66.28,
+          "matched": true,
+          "asr_word": "aynı"
+        },
+        {
+          "word": "coğrafyanın",
+          "start": 66.28,
+          "end": 66.98,
+          "matched": true,
+          "asr_word": "coğrafyanın"
+        },
+        {
+          "word": "içinden",
+          "start": 66.98,
+          "end": 67.34,
+          "matched": true,
+          "asr_word": "içinden"
+        },
+        {
+          "word": "bir",
+          "start": 67.34,
+          "end": 67.7,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "polis",
+          "start": 67.7,
+          "end": 67.9,
+          "matched": true,
+          "asr_word": "polis"
+        },
+        {
+          "word": "takibi",
+          "start": 67.9,
+          "end": 68.26,
+          "matched": true,
+          "asr_word": "takibi"
+        },
+        {
+          "word": "geçiyor.",
+          "start": 68.26,
+          "end": 68.72,
+          "matched": true,
+          "asr_word": "geçiyor."
+        }
+      ]
+    },
+    {
+      "id": "port-gellhorn",
+      "start": 69.16,
+      "end": 85.58,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Port",
+          "start": 69.16,
+          "end": 69.38,
+          "matched": true,
+          "asr_word": "Port"
+        },
+        {
+          "word": "Gellhorn",
+          "start": 69.38,
+          "end": 70.02,
+          "matched": true,
+          "asr_word": "Galhorn'da",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "da",
+          "start": 69.38,
+          "end": 70.02,
+          "matched": true,
+          "asr_word": "Galhorn'da",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "kıyıda.",
+          "start": 70.02,
+          "end": 70.58,
+          "matched": true,
+          "asr_word": "kıyıda."
+        },
+        {
+          "word": "Rockstar",
+          "start": 70.78,
+          "end": 71.18,
+          "matched": true,
+          "asr_word": "Rockstar"
+        },
+        {
+          "word": "burayı",
+          "start": 71.18,
+          "end": 71.6,
+          "matched": true,
+          "asr_word": "burayı"
+        },
+        {
+          "word": "eski",
+          "start": 71.6,
+          "end": 71.96,
+          "matched": true,
+          "asr_word": "eski"
+        },
+        {
+          "word": "bir",
+          "start": 71.96,
+          "end": 72.18,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "tatil",
+          "start": 72.18,
+          "end": 72.52,
+          "matched": true,
+          "asr_word": "tatil"
+        },
+        {
+          "word": "merkezi",
+          "start": 72.52,
+          "end": 72.88,
+          "matched": true,
+          "asr_word": "merkezi"
+        },
+        {
+          "word": "olarak",
+          "start": 72.88,
+          "end": 73.18,
+          "matched": true,
+          "asr_word": "olarak"
+        },
+        {
+          "word": "tanıtıyor.",
+          "start": 73.18,
+          "end": 73.68,
+          "matched": true,
+          "asr_word": "tanıtıyor."
+        },
+        {
+          "word": "Kapanmış",
+          "start": 73.96,
+          "end": 74.38,
+          "matched": true,
+          "asr_word": "Kapanmış"
+        },
+        {
+          "word": "eğlence",
+          "start": 74.38,
+          "end": 74.82,
+          "matched": true,
+          "asr_word": "eğlence"
+        },
+        {
+          "word": "yerleri",
+          "start": 74.82,
+          "end": 75.34,
+          "matched": true,
+          "asr_word": "yerleri"
+        },
+        {
+          "word": "ve",
+          "start": 75.34,
+          "end": 75.56,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "boş",
+          "start": 75.56,
+          "end": 75.78,
+          "matched": true,
+          "asr_word": "boş"
+        },
+        {
+          "word": "alışveriş",
+          "start": 75.78,
+          "end": 76.36,
+          "matched": true,
+          "asr_word": "alışveriş"
+        },
+        {
+          "word": "alanları",
+          "start": 76.36,
+          "end": 76.88,
+          "matched": true,
+          "asr_word": "alanları"
+        },
+        {
+          "word": "o",
+          "start": 76.88,
+          "end": 77.2,
+          "matched": true,
+          "asr_word": "o"
+        },
+        {
+          "word": "eski",
+          "start": 77.2,
+          "end": 77.44,
+          "matched": true,
+          "asr_word": "eski"
+        },
+        {
+          "word": "günlerden",
+          "start": 77.44,
+          "end": 78.0,
+          "matched": true,
+          "asr_word": "günlerden"
+        },
+        {
+          "word": "kalmış.",
+          "start": 78.0,
+          "end": 78.36,
+          "matched": true,
+          "asr_word": "kalmış."
+        },
+        {
+          "word": "Gece",
+          "start": 78.66,
+          "end": 78.9,
+          "matched": true,
+          "asr_word": "Gece"
+        },
+        {
+          "word": "çekilen",
+          "start": 78.9,
+          "end": 79.26,
+          "matched": true,
+          "asr_word": "çekilen"
+        },
+        {
+          "word": "karede",
+          "start": 79.26,
+          "end": 79.78,
+          "matched": true,
+          "asr_word": "karede"
+        },
+        {
+          "word": "motel",
+          "start": 79.78,
+          "end": 80.2,
+          "matched": true,
+          "asr_word": "motel"
+        },
+        {
+          "word": "tabelasının",
+          "start": 80.2,
+          "end": 80.68,
+          "matched": true,
+          "asr_word": "tabelasının"
+        },
+        {
+          "word": "ışığı",
+          "start": 80.68,
+          "end": 81.12,
+          "matched": true,
+          "asr_word": "ışığı"
+        },
+        {
+          "word": "hâlâ",
+          "start": 81.12,
+          "end": 81.5,
+          "matched": true,
+          "asr_word": "hala"
+        },
+        {
+          "word": "yanıyor.",
+          "start": 81.5,
+          "end": 81.94,
+          "matched": true,
+          "asr_word": "yanıyor."
+        },
+        {
+          "word": "Başka",
+          "start": 81.94,
+          "end": 82.46,
+          "matched": true,
+          "asr_word": "Başka"
+        },
+        {
+          "word": "bir",
+          "start": 82.46,
+          "end": 82.66,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "gece",
+          "start": 82.66,
+          "end": 82.88,
+          "matched": true,
+          "asr_word": "gece"
+        },
+        {
+          "word": "karesinde",
+          "start": 82.88,
+          "end": 83.52,
+          "matched": true,
+          "asr_word": "karesinde"
+        },
+        {
+          "word": "bir",
+          "start": 83.52,
+          "end": 83.86,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "kabarenin",
+          "start": 83.86,
+          "end": 84.38,
+          "matched": true,
+          "asr_word": "kabarenin"
+        },
+        {
+          "word": "tabelası",
+          "start": 84.38,
+          "end": 84.74,
+          "matched": true,
+          "asr_word": "tabelası"
+        },
+        {
+          "word": "parlıyor.",
+          "start": 84.74,
+          "end": 85.58,
+          "matched": true,
+          "asr_word": "parlıyor."
+        }
+      ]
+    },
+    {
+      "id": "ambrosia",
+      "start": 85.86,
+      "end": 102.82,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Ambrosia’da",
+          "start": 85.86,
+          "end": 86.56,
+          "matched": true,
+          "asr_word": "Ambrosia'da"
+        },
+        {
+          "word": "gece",
+          "start": 86.56,
+          "end": 86.86,
+          "matched": true,
+          "asr_word": "gece"
+        },
+        {
+          "word": "siluetini",
+          "start": 86.86,
+          "end": 87.42,
+          "matched": true,
+          "asr_word": "silüetini"
+        },
+        {
+          "word": "bacalar",
+          "start": 87.42,
+          "end": 87.86,
+          "matched": true,
+          "asr_word": "bacalar"
+        },
+        {
+          "word": "çiziyor.",
+          "start": 87.86,
+          "end": 88.36,
+          "matched": true,
+          "asr_word": "çiziyor."
+        },
+        {
+          "word": "Rockstar,",
+          "start": 88.62,
+          "end": 89.0,
+          "matched": true,
+          "asr_word": "Rockstar"
+        },
+        {
+          "word": "bölgedeki",
+          "start": 89.0,
+          "end": 89.64,
+          "matched": true,
+          "asr_word": "bölgedeki"
+        },
+        {
+          "word": "istihdamın",
+          "start": 89.64,
+          "end": 90.36,
+          "matched": true,
+          "asr_word": "istihdamın"
+        },
+        {
+          "word": "merkezine",
+          "start": 90.36,
+          "end": 91.04,
+          "matched": true,
+          "asr_word": "merkezine"
+        },
+        {
+          "word": "Allied",
+          "start": 91.04,
+          "end": 91.44,
+          "matched": true,
+          "asr_word": "Allied"
+        },
+        {
+          "word": "Crystal",
+          "start": 91.44,
+          "end": 91.94,
+          "matched": true,
+          "asr_word": "Crystal"
+        },
+        {
+          "word": "şeker",
+          "start": 91.94,
+          "end": 92.36,
+          "matched": true,
+          "asr_word": "şeker"
+        },
+        {
+          "word": "rafinerisini",
+          "start": 92.36,
+          "end": 92.88,
+          "matched": true,
+          "asr_word": "rafinerisini"
+        },
+        {
+          "word": "yerleştiriyor.",
+          "start": 92.88,
+          "end": 93.6,
+          "matched": true,
+          "asr_word": "yerleştiriyor."
+        },
+        {
+          "word": "Bir",
+          "start": 93.88,
+          "end": 94.08,
+          "matched": true,
+          "asr_word": "Bir"
+        },
+        {
+          "word": "diğer",
+          "start": 94.08,
+          "end": 94.34,
+          "matched": true,
+          "asr_word": "diğer"
+        },
+        {
+          "word": "karede,",
+          "start": 94.34,
+          "end": 94.9,
+          "matched": true,
+          "asr_word": "karede"
+        },
+        {
+          "word": "aynı",
+          "start": 94.9,
+          "end": 95.14,
+          "matched": true,
+          "asr_word": "aynı"
+        },
+        {
+          "word": "deri",
+          "start": 95.14,
+          "end": 95.46,
+          "matched": true,
+          "asr_word": "deri"
+        },
+        {
+          "word": "yelekleri",
+          "start": 95.46,
+          "end": 95.92,
+          "matched": true,
+          "asr_word": "yelekleri"
+        },
+        {
+          "word": "giyen",
+          "start": 95.92,
+          "end": 96.1,
+          "matched": true,
+          "asr_word": "giyen"
+        },
+        {
+          "word": "motosikletliler",
+          "start": 96.1,
+          "end": 97.04,
+          "matched": true,
+          "asr_word": "motosikletliler"
+        },
+        {
+          "word": "yola",
+          "start": 97.04,
+          "end": 97.28,
+          "matched": true,
+          "asr_word": "yola"
+        },
+        {
+          "word": "dizilmiş.",
+          "start": 97.28,
+          "end": 97.86,
+          "matched": true,
+          "asr_word": "dizilmiş."
+        },
+        {
+          "word": "Rafineriyle",
+          "start": 98.08,
+          "end": 98.68,
+          "matched": true,
+          "asr_word": "Rafineriyle"
+        },
+        {
+          "word": "yerel",
+          "start": 98.68,
+          "end": 99.0,
+          "matched": true,
+          "asr_word": "yerel"
+        },
+        {
+          "word": "motosiklet",
+          "start": 99.0,
+          "end": 99.6,
+          "matched": true,
+          "asr_word": "motosiklet"
+        },
+        {
+          "word": "çetesi,",
+          "start": 99.6,
+          "end": 100.14,
+          "matched": true,
+          "asr_word": "çetesi"
+        },
+        {
+          "word": "bölgenin",
+          "start": 100.14,
+          "end": 100.78,
+          "matched": true,
+          "asr_word": "bölgenin"
+        },
+        {
+          "word": "iki",
+          "start": 100.78,
+          "end": 101.04,
+          "matched": true,
+          "asr_word": "iki"
+        },
+        {
+          "word": "ayrı",
+          "start": 101.04,
+          "end": 101.36,
+          "matched": true,
+          "asr_word": "ayrı"
+        },
+        {
+          "word": "gücü",
+          "start": 101.36,
+          "end": 101.6,
+          "matched": true,
+          "asr_word": "gücü"
+        },
+        {
+          "word": "olarak",
+          "start": 101.6,
+          "end": 101.92,
+          "matched": true,
+          "asr_word": "olarak"
+        },
+        {
+          "word": "karşımıza",
+          "start": 101.92,
+          "end": 102.5,
+          "matched": true,
+          "asr_word": "karşımıza"
+        },
+        {
+          "word": "çıkıyor.",
+          "start": 102.5,
+          "end": 102.82,
+          "matched": true,
+          "asr_word": "çıkıyor."
+        }
+      ]
+    },
+    {
+      "id": "mount-kalaga",
+      "start": 103.36,
+      "end": 121.16,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Rockstar’ın",
+          "start": 103.36,
+          "end": 103.98,
+          "matched": true,
+          "asr_word": "Rockstar'ın"
+        },
+        {
+          "word": "resmî",
+          "start": 103.98,
+          "end": 104.28,
+          "matched": true,
+          "asr_word": "resmi"
+        },
+        {
+          "word": "rehberi",
+          "start": 104.28,
+          "end": 104.88,
+          "matched": true,
+          "asr_word": "rehberi"
+        },
+        {
+          "word": "bizi",
+          "start": 104.88,
+          "end": 105.1,
+          "matched": true,
+          "asr_word": "bizi"
+        },
+        {
+          "word": "Leonida’nın",
+          "start": 105.1,
+          "end": 105.8,
+          "matched": true,
+          "asr_word": "Leonida'nın"
+        },
+        {
+          "word": "kuzey",
+          "start": 105.8,
+          "end": 106.2,
+          "matched": true,
+          "asr_word": "kuzey"
+        },
+        {
+          "word": "sınırındaki",
+          "start": 106.2,
+          "end": 106.76,
+          "matched": true,
+          "asr_word": "sınırındaki"
+        },
+        {
+          "word": "Mount",
+          "start": 106.76,
+          "end": 107.16,
+          "matched": true,
+          "asr_word": "Mount"
+        },
+        {
+          "word": "Kalaga",
+          "start": 107.16,
+          "end": 107.54,
+          "matched": true,
+          "asr_word": "Kalaga"
+        },
+        {
+          "word": "Ulusal",
+          "start": 107.54,
+          "end": 108.0,
+          "matched": true,
+          "asr_word": "Ulusal"
+        },
+        {
+          "word": "Parkı’na",
+          "start": 108.0,
+          "end": 108.38,
+          "matched": true,
+          "asr_word": "Parkına"
+        },
+        {
+          "word": "kadar",
+          "start": 108.38,
+          "end": 108.64,
+          "matched": true,
+          "asr_word": "kadar"
+        },
+        {
+          "word": "götürüyor.",
+          "start": 108.64,
+          "end": 109.12,
+          "matched": true,
+          "asr_word": "götürüyor."
+        },
+        {
+          "word": "Burada",
+          "start": 109.12,
+          "end": 109.68,
+          "matched": true,
+          "asr_word": "Burada"
+        },
+        {
+          "word": "ormanlık",
+          "start": 109.68,
+          "end": 110.34,
+          "matched": true,
+          "asr_word": "ormanlık"
+        },
+        {
+          "word": "sırtlar,",
+          "start": 110.34,
+          "end": 110.92,
+          "matched": true,
+          "asr_word": "sırtlar,"
+        },
+        {
+          "word": "tepelerin",
+          "start": 111.08,
+          "end": 111.54,
+          "matched": true,
+          "asr_word": "tepelerin"
+        },
+        {
+          "word": "arasından",
+          "start": 111.54,
+          "end": 112.02,
+          "matched": true,
+          "asr_word": "arasından"
+        },
+        {
+          "word": "kıvrılan",
+          "start": 112.02,
+          "end": 112.52,
+          "matched": true,
+          "asr_word": "kıvrılan"
+        },
+        {
+          "word": "yollar",
+          "start": 112.52,
+          "end": 112.92,
+          "matched": true,
+          "asr_word": "yollar"
+        },
+        {
+          "word": "ve",
+          "start": 112.92,
+          "end": 113.32,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "çamurda",
+          "start": 113.32,
+          "end": 113.82,
+          "matched": true,
+          "asr_word": "çamurda"
+        },
+        {
+          "word": "ilerleyen",
+          "start": 113.82,
+          "end": 114.36,
+          "matched": true,
+          "asr_word": "ilerleyen"
+        },
+        {
+          "word": "arazi",
+          "start": 114.36,
+          "end": 114.68,
+          "matched": true,
+          "asr_word": "arazi"
+        },
+        {
+          "word": "motosikletleri",
+          "start": 114.68,
+          "end": 115.42,
+          "matched": true,
+          "asr_word": "motosikletleri"
+        },
+        {
+          "word": "var.",
+          "start": 115.42,
+          "end": 115.72,
+          "matched": true,
+          "asr_word": "var."
+        },
+        {
+          "word": "Sonra",
+          "start": 115.92,
+          "end": 116.22,
+          "matched": true,
+          "asr_word": "Sonra"
+        },
+        {
+          "word": "asfalt",
+          "start": 116.22,
+          "end": 116.86,
+          "matched": true,
+          "asr_word": "asfaltta",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "da",
+          "start": 116.22,
+          "end": 116.86,
+          "matched": true,
+          "asr_word": "asfaltta",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "gözden",
+          "start": 116.86,
+          "end": 117.22,
+          "matched": true,
+          "asr_word": "gözden"
+        },
+        {
+          "word": "kayboluyor.",
+          "start": 117.22,
+          "end": 117.76,
+          "matched": true,
+          "asr_word": "kayboluyor."
+        },
+        {
+          "word": "Bir",
+          "start": 118.04,
+          "end": 118.24,
+          "matched": true,
+          "asr_word": "Bir"
+        },
+        {
+          "word": "kano,",
+          "start": 118.24,
+          "end": 118.64,
+          "matched": true,
+          "asr_word": "Kano,"
+        },
+        {
+          "word": "ağaçların",
+          "start": 118.82,
+          "end": 119.32,
+          "matched": true,
+          "asr_word": "ağaçların"
+        },
+        {
+          "word": "arasından",
+          "start": 119.32,
+          "end": 119.84,
+          "matched": true,
+          "asr_word": "arasından"
+        },
+        {
+          "word": "geçen",
+          "start": 119.84,
+          "end": 120.18,
+          "matched": true,
+          "asr_word": "geçen"
+        },
+        {
+          "word": "akarsuda",
+          "start": 120.18,
+          "end": 120.76,
+          "matched": true,
+          "asr_word": "akarsu da",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "ilerliyor.",
+          "start": 120.76,
+          "end": 121.16,
+          "matched": true,
+          "asr_word": "ilerliyor."
+        }
+      ]
+    },
+    {
+      "id": "limits",
+      "start": 121.44,
+      "end": 140.5,
+      "coverage": 1.0,
+      "words": [
+        {
+          "word": "Rehberin",
+          "start": 121.44,
+          "end": 121.86,
+          "matched": true,
+          "asr_word": "Rehlerin",
+          "timing": "reviewed_native_word"
+        },
+        {
+          "word": "gösterdiği",
+          "start": 121.86,
+          "end": 122.54,
+          "matched": true,
+          "asr_word": "gösterdiği"
+        },
+        {
+          "word": "yerlerin",
+          "start": 122.54,
+          "end": 122.94,
+          "matched": true,
+          "asr_word": "yerlerin"
+        },
+        {
+          "word": "sınırları,",
+          "start": 122.94,
+          "end": 123.6,
+          "matched": true,
+          "asr_word": "sınırları,"
+        },
+        {
+          "word": "aralarındaki",
+          "start": 123.86,
+          "end": 124.36,
+          "matched": true,
+          "asr_word": "aralarındaki"
+        },
+        {
+          "word": "mesafeler",
+          "start": 124.36,
+          "end": 125.02,
+          "matched": true,
+          "asr_word": "mesafeler"
+        },
+        {
+          "word": "ve",
+          "start": 125.02,
+          "end": 125.42,
+          "matched": true,
+          "asr_word": "ve"
+        },
+        {
+          "word": "yolların",
+          "start": 125.42,
+          "end": 126.04,
+          "matched": true,
+          "asr_word": "yolların"
+        },
+        {
+          "word": "tam",
+          "start": 126.04,
+          "end": 126.22,
+          "matched": true,
+          "asr_word": "tam"
+        },
+        {
+          "word": "güzergâhı",
+          "start": 126.22,
+          "end": 127.1,
+          "matched": true,
+          "asr_word": "güzergahı"
+        },
+        {
+          "word": "bu",
+          "start": 127.1,
+          "end": 127.28,
+          "matched": true,
+          "asr_word": "bu"
+        },
+        {
+          "word": "görüntülerden",
+          "start": 127.28,
+          "end": 127.94,
+          "matched": true,
+          "asr_word": "görüntülerden"
+        },
+        {
+          "word": "çıkarılamaz.",
+          "start": 127.94,
+          "end": 128.62,
+          "matched": true,
+          "asr_word": "çıkarılamaz."
+        },
+        {
+          "word": "Ama",
+          "start": 128.98,
+          "end": 129.14,
+          "matched": true,
+          "asr_word": "Ama"
+        },
+        {
+          "word": "resmî",
+          "start": 129.14,
+          "end": 129.58,
+          "matched": true,
+          "asr_word": "resmi"
+        },
+        {
+          "word": "kareler",
+          "start": 129.58,
+          "end": 130.16,
+          "matched": true,
+          "asr_word": "kareler"
+        },
+        {
+          "word": "şimdiden",
+          "start": 130.16,
+          "end": 130.62,
+          "matched": true,
+          "asr_word": "şimdiden"
+        },
+        {
+          "word": "bir",
+          "start": 130.62,
+          "end": 130.84,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "şeyi",
+          "start": 130.84,
+          "end": 130.96,
+          "matched": true,
+          "asr_word": "şeyi"
+        },
+        {
+          "word": "anlatıyor.",
+          "start": 130.96,
+          "end": 131.72,
+          "matched": true,
+          "asr_word": "anlatıyor."
+        },
+        {
+          "word": "Vice",
+          "start": 131.94,
+          "end": 132.12,
+          "matched": true,
+          "asr_word": "Vice"
+        },
+        {
+          "word": "City’nin",
+          "start": 132.12,
+          "end": 132.5,
+          "matched": true,
+          "asr_word": "City'nin"
+        },
+        {
+          "word": "ışıklarından",
+          "start": 132.5,
+          "end": 133.18,
+          "matched": true,
+          "asr_word": "ışıklarından"
+        },
+        {
+          "word": "uzaklaştıkça",
+          "start": 133.18,
+          "end": 134.26,
+          "matched": true,
+          "asr_word": "uzaklaştıkça"
+        },
+        {
+          "word": "Leonida’nın",
+          "start": 134.26,
+          "end": 134.9,
+          "matched": true,
+          "asr_word": "Leonida'nın"
+        },
+        {
+          "word": "ritmi",
+          "start": 134.9,
+          "end": 135.26,
+          "matched": true,
+          "asr_word": "ritmi"
+        },
+        {
+          "word": "değişiyor.",
+          "start": 135.26,
+          "end": 135.78,
+          "matched": true,
+          "asr_word": "değişiyor."
+        },
+        {
+          "word": "Bir",
+          "start": 135.78,
+          "end": 136.26,
+          "matched": true,
+          "asr_word": "Bir"
+        },
+        {
+          "word": "sonraki",
+          "start": 136.26,
+          "end": 136.64,
+          "matched": true,
+          "asr_word": "sonraki"
+        },
+        {
+          "word": "manzarada",
+          "start": 136.64,
+          "end": 137.2,
+          "matched": true,
+          "asr_word": "manzara da",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "denizin",
+          "start": 137.2,
+          "end": 137.56,
+          "matched": true,
+          "asr_word": "denizin"
+        },
+        {
+          "word": "dibine,",
+          "start": 137.56,
+          "end": 138.14,
+          "matched": true,
+          "asr_word": "dibine,"
+        },
+        {
+          "word": "bir",
+          "start": 138.34,
+          "end": 138.48,
+          "matched": true,
+          "asr_word": "bir"
+        },
+        {
+          "word": "sonrakinde",
+          "start": 138.48,
+          "end": 139.2,
+          "matched": true,
+          "asr_word": "sonraki de",
+          "timing": "reviewed_native_phrase"
+        },
+        {
+          "word": "ormanın",
+          "start": 139.2,
+          "end": 139.76,
+          "matched": true,
+          "asr_word": "ormanın"
+        },
+        {
+          "word": "içine",
+          "start": 139.76,
+          "end": 140.0,
+          "matched": true,
+          "asr_word": "içine"
+        },
+        {
+          "word": "bakıyoruz.",
+          "start": 140.0,
+          "end": 140.5,
+          "matched": true,
+          "asr_word": "bakıyoruz."
+        }
+      ]
+    }
+  ],
+  "differences": [],
+  "reviewed_spelling": [
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        24,
+        25
+      ],
+      "canonical": [
+        "altı"
+      ],
+      "asr": [
+        {
+          "word": "6",
+          "start": 12.14,
+          "end": 12.42
+        }
+      ],
+      "note": "Whisper sayıyı rakamla yazdı. Türkçe altyazıda yazıyla yazılan aynı sayı kullanıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        42,
+        44
+      ],
+      "canonical": [
+        "gece",
+        "de"
+      ],
+      "asr": [
+        {
+          "word": "gecede",
+          "start": 20.06,
+          "end": 20.4
+        }
+      ],
+      "note": "Aynı ifade, bağlaç ayrı yazıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        54,
+        55
+      ],
+      "canonical": [
+        "dört"
+      ],
+      "asr": [
+        {
+          "word": "4",
+          "start": 24.48,
+          "end": 24.84
+        }
+      ],
+      "note": "Whisper sayıyı rakamla yazdı. Türkçe altyazıda yazıyla yazılan aynı sayı kullanıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        67,
+        68
+      ],
+      "canonical": [
+        "Tisha-Wocka"
+      ],
+      "asr": [
+        {
+          "word": "Tisha",
+          "start": 30.68,
+          "end": 30.88
+        },
+        {
+          "word": "-Wocka",
+          "start": 30.88,
+          "end": 31.22
+        }
+      ],
+      "note": "Rockstar’ın Tisha-Wocka yazımı kullanıldı, iki Whisper sözcüğü tek adın zaman aralığında birleşti."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        110,
+        111
+      ],
+      "canonical": [
+        "takımadayı"
+      ],
+      "asr": [
+        {
+          "word": "takım",
+          "start": 50.64,
+          "end": 50.92
+        },
+        {
+          "word": "adayı",
+          "start": 50.92,
+          "end": 51.2
+        }
+      ],
+      "note": "Takımada sözcüğünün resmî yazımı korundu."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        117,
+        118
+      ],
+      "canonical": [
+        "Grassrivers’da"
+      ],
+      "asr": [
+        {
+          "word": "Wrath",
+          "start": 53.64,
+          "end": 54.4
+        },
+        {
+          "word": "Rivers'da",
+          "start": 54.4,
+          "end": 54.96
+        }
+      ],
+      "note": "Sulak alanın resmî adı Grassrivers olarak düzeltildi. İki tanınan sözcüğün birleşik zaman aralığı kullanıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        124,
+        125
+      ],
+      "canonical": [
+        "mangrovların"
+      ],
+      "asr": [
+        {
+          "word": "mangroveların",
+          "start": 57.6,
+          "end": 58.3
+        }
+      ],
+      "note": "Ardışık bütün sözcüklerin bağlamı mangrovların olduğunu destekliyor."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        151,
+        153
+      ],
+      "canonical": [
+        "Gellhorn",
+        "da"
+      ],
+      "asr": [
+        {
+          "word": "Galhorn'da",
+          "start": 69.38,
+          "end": 70.02
+        }
+      ],
+      "note": "Rockstar’ın Port Gellhorn yazımı ve cümledeki ayrı bağlaç korundu. Ortak Whisper zaman aralığı kullanıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        251,
+        253
+      ],
+      "canonical": [
+        "asfalt",
+        "da"
+      ],
+      "asr": [
+        {
+          "word": "asfaltta",
+          "start": 116.22,
+          "end": 116.86
+        }
+      ],
+      "note": "Cümlenin bağlamı asfalt sözcüğünü ve ayrı bağlacı destekliyor. Ortak Whisper zaman aralığı kullanıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        260,
+        261
+      ],
+      "canonical": [
+        "akarsuda"
+      ],
+      "asr": [
+        {
+          "word": "akarsu",
+          "start": 120.18,
+          "end": 120.62
+        },
+        {
+          "word": "da",
+          "start": 120.62,
+          "end": 120.76
+        }
+      ],
+      "note": "Akarsu ve bulunma eki birlikte yazıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        262,
+        263
+      ],
+      "canonical": [
+        "Rehberin"
+      ],
+      "asr": [
+        {
+          "word": "Rehlerin",
+          "start": 121.44,
+          "end": 121.86
+        }
+      ],
+      "note": "Rehberin gösterdiği yerler bağlamına uyan sözcük geri kondu."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        291,
+        292
+      ],
+      "canonical": [
+        "manzarada"
+      ],
+      "asr": [
+        {
+          "word": "manzara",
+          "start": 136.64,
+          "end": 137.06
+        },
+        {
+          "word": "da",
+          "start": 137.06,
+          "end": 137.2
+        }
+      ],
+      "note": "Manzara ve bulunma eki birlikte yazıldı."
+    },
+    {
+      "operation": "replace",
+      "canonical_indices": [
+        295,
+        296
+      ],
+      "canonical": [
+        "sonrakinde"
+      ],
+      "asr": [
+        {
+          "word": "sonraki",
+          "start": 138.48,
+          "end": 138.92
+        },
+        {
+          "word": "de",
+          "start": 138.92,
+          "end": 139.2
+        }
+      ],
+      "note": "Bir önceki manzara ile başlayan cümle yapısına göre sözcük yeniden birleştirildi."
+    }
+  ],
+  "subtitle_cues": 37
+}

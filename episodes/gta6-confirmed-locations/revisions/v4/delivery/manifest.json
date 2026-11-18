@@ -1,0 +1,163 @@
+{
+  "status": "RIGHTS_REVIEW",
+  "files": [
+    {
+      "path": "render/review-tr.mp4",
+      "sha256": "cc8534957c5ca3aea6242108cf4fdabb814cb02b1f72901b2ac6d157a4b56626"
+    },
+    {
+      "path": "render/master-clean-1920x1080.mp4",
+      "sha256": "d5a8bd2f96f0c6be7438c2eb4293987caf8c325c91b462ee181c1da8c4dbf376"
+    },
+    {
+      "path": "captions/tr.srt",
+      "sha256": "53bd7c96a2c89db9c051efb255007385cb4cb1524b1b9d9b05dcdf89332841c8"
+    },
+    {
+      "path": "outro/outro-1920x1080.mp4",
+      "sha256": "31b6ae0d52edfd3717890cc932c23dad505ff7d71b0553290c659d27dd042364"
+    },
+    {
+      "path": "outro/outro.png",
+      "sha256": "2c2a7aa4a0724868c15d2116458e96a091333cc34275c72537e08dad25bf67d8"
+    },
+    {
+      "path": "outro/outro.wav",
+      "sha256": "96d7ebd59350e4cb086ae4e8b3ba10e31cf4e5115cf045be979a12ead3fe27a0"
+    },
+    {
+      "path": "composition/assets/brand-icon.svg",
+      "sha256": "f9a464c2b90b3043a12f10456955820db57e90facfd076e8dad066b0669b8300"
+    },
+    {
+      "path": "composition/assets/brand-lockup.svg",
+      "sha256": "3c5cdfcd8e34f6d7108931a0b900afdf032cefe45be9fb9c39f3f2f1d99cd1d4"
+    },
+    {
+      "path": "assets/brand/valea-mark.svg",
+      "sha256": "f9a464c2b90b3043a12f10456955820db57e90facfd076e8dad066b0669b8300"
+    },
+    {
+      "path": "assets/brand/valea-mark.png",
+      "sha256": "a01b92bbe880e6cdc9d7cb435a7af95ee900855e5c388e2cc71018be4541de13"
+    },
+    {
+      "path": "assets/brand/valea-lockup.svg",
+      "sha256": "3c5cdfcd8e34f6d7108931a0b900afdf032cefe45be9fb9c39f3f2f1d99cd1d4"
+    },
+    {
+      "path": "assets/brand/valea-lockup.png",
+      "sha256": "eb23ecec6265e263c43b3cccb71b1eae18f9dc6642da8195acec920c5d5ab48e"
+    },
+    {
+      "path": "delivery/audio-mix.json",
+      "sha256": "f823d7666eeb89d0a691142510e116825754697b36bf4e312b1f20e2f86f5a51"
+    },
+    {
+      "path": "research/edit-reference.md",
+      "sha256": "6306fa5f9205858d24733160e89ae50a8a6425a363651109f18ac7d7e7bfb58f"
+    },
+    {
+      "path": "script/script-tr.json",
+      "sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c"
+    },
+    {
+      "path": "audio/tr/narration-tr.wav",
+      "sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d"
+    },
+    {
+      "path": "audio/tr/whisper-tr.json",
+      "sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e"
+    },
+    {
+      "path": "audio/tr/word-map-tr.json",
+      "sha256": "71cb80407ea885a58acef85a250f222479d069beda1de40ff05c33b43945d07a"
+    },
+    {
+      "path": "research/claims.json",
+      "sha256": "e2b767ce3b5de5eb7e051ba0962cad38685fd97115f01917a068b70336af8343"
+    },
+    {
+      "path": "assets/source-register.json",
+      "sha256": "a9c21c8819c18b140eb3c16b83e408294b31036a6c57db31f1a007efe8bc2b18"
+    },
+    {
+      "path": "storyboard/timeline.json",
+      "sha256": "44878227c92847c468cdfc5fa3378dba4765278c6e800974f99cf360d39a1dce"
+    },
+    {
+      "path": "storyboard/cut.json",
+      "sha256": "115a90e340d934cda403673bd68cf803bccc8360f8e53b29dded0fbd3a3f23e4"
+    },
+    {
+      "path": "delivery/qa.json",
+      "sha256": "d04b22c89d10b455ada3908a4f2a2278569430a14cf932a55203f0fc26a7e3ae"
+    },
+    {
+      "path": "covers/01-vice-city-alti-bolge-1280x720.png",
+      "sha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1"
+    },
+    {
+      "path": "covers/02-sehrin-otesi-1280x720.png",
+      "sha256": "b2d346a39f6552fa4a2747d8caef2e6d4d79be2661d06d86f77e435f3783b886"
+    },
+    {
+      "path": "covers/03-leonida-sulakalan-1280x720.png",
+      "sha256": "d9bbb04d3cd5c2811b896444ac4a15d96a0194f1c018cc4d860afa1d4c77bf91"
+    },
+    {
+      "path": "covers/art-master-1920x1080.png",
+      "sha256": "253e49d7473631eb082ea949d225b255ca0b43955e530502eb0b19ed6fd5158c"
+    },
+    {
+      "path": "covers/cover-register.json",
+      "sha256": "98e85fad8b374a40b62911a268c8e4abff6b519fcbc2d84b9c3dc0eac0e6782a"
+    },
+    {
+      "path": "covers/thumbnail-1280x720.png",
+      "sha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1"
+    },
+    {
+      "path": "delivery/summary.md",
+      "sha256": "1c757845963b9cc956de68deff6783ae5f4e7ad2f115583d88982d8010462d0e"
+    },
+    {
+      "path": "delivery/opening-comparison.jpg",
+      "sha256": "5f2ad40178d2fabf7e5eae7202aacfa8c80b38345bfab9fe11a76753ebfc0150"
+    },
+    {
+      "path": "delivery/audio-mix-analysis.md",
+      "sha256": "16977b2abb019e557f672b8d1dab707cf2a66d5f19aed3ce902a18bc37135757"
+    },
+    {
+      "path": "delivery/audio-mix-validation.json",
+      "sha256": "5f96c89cd5857531d48f753a14d4ea7052c83d8203e4be549d944a5e9648cb1c"
+    },
+    {
+      "path": "assets/audio/sound-register.json",
+      "sha256": "3d9c6dd33a7ad3841214071adcaabbf029c1a16a8c7553dc001b386270e8e7dc"
+    },
+    {
+      "path": "research/outro-media.md",
+      "sha256": "7339d6afb851f7fabce104c3ada9cf7c53ba73fcf376f71ea042abd2e4fd4fcf"
+    },
+    {
+      "path": "storyboard/outro-media.json",
+      "sha256": "389ce8ac74927a24564b2f778e7387be19b498218d84ab88ef71e03953dafc8a"
+    },
+    {
+      "path": "covers/cover-review.md",
+      "sha256": "a44b6497475776640eea27bf6a26bc770f0ae3b947238cfd64840f037641dbe7"
+    },
+    {
+      "path": "delivery/asset-rights-review.md",
+      "sha256": "034dd69fce4b8586d14ddcb87457f6291f2a07782849946fbe9e11322cdd4e24"
+    }
+  ],
+  "cover": {
+    "rights_status": "REVIEW",
+    "source_asset_id": "vice-city-22",
+    "headline": "GTA VI / 6 BÖLGE",
+    "alternatives": "covers/cover-register.json"
+  }
+}

@@ -1,0 +1,3213 @@
+{
+  "text": " GTA altının dünyasını anlamak için Vice City'nin ışıklarından biraz uzaklaşmak gerekiyor. Rockstar, Jason ve Lucia'nın hikayesini Leonida eyaletine yayıyor. Stüdyonun resmi rehberinde öne çıkan 6 yer var. Önce şehre bakalım, sonra suyun ve asfaltın bizi nereye götürdüğünü görelim. Vice City. Gündüz sahilde, gecede ışıl ışıl bir dönme dolabın önündeyiz. Rockstar aynı şehrin içinde 4 ayrı adresi özellikle anıyor. Art Deco otelleriyle Ocean Beach, fırınlarıyla Little Cuba, Tisha-Wocka Bit Pazarı ve Kruvaziyer Limanı VC Port. Şehir sahil şeridinden içeri girdikçe bambaşka yüzler gösteriyor. Leonida Keys. Deniz uçağının altında uzanan köprü, iki adayı birbirine bağlıyor. Bir başka kare suyun altına iniyor. Mercanların arasında dalgıçlar ve bir deniz kaplumbağası var. Rockstar, tropik takım adayı suyun üstünden de altından da gösteriyor. Wrath Rivers'da su bambaşka bir manzaraya dönüşüyor. Burası mangroveların arasında uzanan bir sulak alan. Yukarıdan çekilen resmi karede bir pervaneli teknenin etrafını timsahlar sarmış. Bir başka karede aynı coğrafyanın içinden bir polis takibi geçiyor. Port Galhorn'da kıyıda. Rockstar burayı eski bir tatil merkezi olarak tanıtıyor. Kapanmış eğlence yerleri ve boş alışveriş alanları o eski günlerden kalmış. Gece çekilen karede motel tabelasının ışığı hala yanıyor. Başka bir gece karesinde bir kabarenin tabelası parlıyor. Ambrosia'da gece silüetini bacalar çiziyor. Rockstar bölgedeki istihdamın merkezine Allied Crystal şeker rafinerisini yerleştiriyor. Bir diğer karede aynı deri yelekleri giyen motosikletliler yola dizilmiş. Rafineriyle yerel motosiklet çetesi bölgenin iki ayrı gücü olarak karşımıza çıkıyor. Rockstar'ın resmi rehberi bizi Leonida'nın kuzey sınırındaki Mount Kalaga Ulusal Parkına kadar götürüyor. Burada ormanlık sırtlar, tepelerin arasından kıvrılan yollar ve çamurda ilerleyen arazi motosikletleri var. Sonra asfaltta gözden kayboluyor. Bir Kano, ağaçların arasından geçen akarsu da ilerliyor. Rehlerin gösterdiği yerlerin sınırları, aralarındaki mesafeler ve yolların tam güzergahı bu görüntülerden çıkarılamaz. Ama resmi kareler şimdiden bir şeyi anlatıyor. Vice City'nin ışıklarından uzaklaştıkça Leonida'nın ritmi değişiyor. Bir sonraki manzara da denizin dibine, bir sonraki de ormanın içine bakıyoruz.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.5,
+      "text": " GTA altının dünyasını anlamak için Vice City'nin ışıklarından biraz uzaklaşmak gerekiyor.",
+      "tokens": [
+        50364,
+        35575,
+        4955,
+        21006,
+        32262,
+        296,
+        7760,
+        28940,
+        514,
+        8457,
+        13276,
+        4392,
+        6,
+        22955,
+        220,
+        4951,
+        4157,
+        2200,
+        16293,
+        19696,
+        16851,
+        514,
+        16803,
+        8520,
+        45038,
+        2454,
+        13,
+        50635
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " GTA",
+          "start": 0.0,
+          "end": 0.56,
+          "probability": 0.5926887392997742
+        },
+        {
+          "word": " altının",
+          "start": 0.56,
+          "end": 1.12,
+          "probability": 0.5217225048691034
+        },
+        {
+          "word": " dünyasını",
+          "start": 1.12,
+          "end": 1.7,
+          "probability": 0.9940818945566813
+        },
+        {
+          "word": " anlamak",
+          "start": 1.7,
+          "end": 2.2,
+          "probability": 0.9972245991230011
+        },
+        {
+          "word": " için",
+          "start": 2.2,
+          "end": 2.54,
+          "probability": 0.9996687173843384
+        },
+        {
+          "word": " Vice",
+          "start": 2.54,
+          "end": 2.88,
+          "probability": 0.06650881469249725
+        },
+        {
+          "word": " City",
+          "start": 2.88,
+          "end": 2.98,
+          "probability": 0.9758963584899902
+        },
+        {
+          "word": "'nin",
+          "start": 2.98,
+          "end": 3.12,
+          "probability": 0.9758799970149994
+        },
+        {
+          "word": " ışıklarından",
+          "start": 3.12,
+          "end": 3.9,
+          "probability": 0.9931660532951355
+        },
+        {
+          "word": " biraz",
+          "start": 3.9,
+          "end": 4.2,
+          "probability": 0.9829556941986084
+        },
+        {
+          "word": " uzaklaşmak",
+          "start": 4.2,
+          "end": 4.84,
+          "probability": 0.9970744103193283
+        },
+        {
+          "word": " gerekiyor.",
+          "start": 4.84,
+          "end": 5.5,
+          "probability": 0.9985040128231049
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 5.74,
+      "end": 9.74,
+      "text": " Rockstar, Jason ve Lucia'nın hikayesini Leonida eyaletine yayıyor.",
+      "tokens": [
+        50635,
+        6922,
+        9710,
+        11,
+        11181,
+        1241,
+        5047,
+        2755,
+        6,
+        33484,
+        4879,
+        789,
+        279,
+        3812,
+        13244,
+        2887,
+        308,
+        7265,
+        302,
+        533,
+        23986,
+        7618,
+        13,
+        50851
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Rockstar,",
+          "start": 5.74,
+          "end": 6.16,
+          "probability": 0.9718432724475861
+        },
+        {
+          "word": " Jason",
+          "start": 6.38,
+          "end": 6.74,
+          "probability": 0.9876422882080078
+        },
+        {
+          "word": " ve",
+          "start": 6.74,
+          "end": 6.9,
+          "probability": 0.9353402256965637
+        },
+        {
+          "word": " Lucia",
+          "start": 6.9,
+          "end": 7.24,
+          "probability": 0.6378003060817719
+        },
+        {
+          "word": "'nın",
+          "start": 7.24,
+          "end": 7.42,
+          "probability": 0.9940425753593445
+        },
+        {
+          "word": " hikayesini",
+          "start": 7.42,
+          "end": 8.16,
+          "probability": 0.9885893762111664
+        },
+        {
+          "word": " Leonida",
+          "start": 8.16,
+          "end": 8.64,
+          "probability": 0.8754532933235168
+        },
+        {
+          "word": " eyaletine",
+          "start": 8.64,
+          "end": 9.24,
+          "probability": 0.9696096926927567
+        },
+        {
+          "word": " yayıyor.",
+          "start": 9.24,
+          "end": 9.74,
+          "probability": 0.9815820753574371
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.02,
+      "end": 12.88,
+      "text": " Stüdyonun resmi rehberinde öne çıkan 6 yer var.",
+      "tokens": [
+        50851,
+        745,
+        774,
+        3173,
+        266,
+        409,
+        725,
+        3057,
+        22355,
+        607,
+        8274,
+        4044,
+        716,
+        12208,
+        282,
+        1386,
+        12954,
+        1374,
+        13,
+        51010
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Stüdyonun",
+          "start": 10.02,
+          "end": 10.42,
+          "probability": 0.8907224655151367
+        },
+        {
+          "word": " resmi",
+          "start": 10.42,
+          "end": 10.8,
+          "probability": 0.9926369190216064
+        },
+        {
+          "word": " rehberinde",
+          "start": 10.8,
+          "end": 11.46,
+          "probability": 0.9915607770284017
+        },
+        {
+          "word": " öne",
+          "start": 11.46,
+          "end": 11.78,
+          "probability": 0.9906667768955231
+        },
+        {
+          "word": " çıkan",
+          "start": 11.78,
+          "end": 12.14,
+          "probability": 0.9977952837944031
+        },
+        {
+          "word": " 6",
+          "start": 12.14,
+          "end": 12.42,
+          "probability": 0.6743735671043396
+        },
+        {
+          "word": " yer",
+          "start": 12.42,
+          "end": 12.6,
+          "probability": 0.981227695941925
+        },
+        {
+          "word": " var.",
+          "start": 12.6,
+          "end": 12.88,
+          "probability": 0.9963473677635193
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 13.18,
+      "end": 17.68,
+      "text": " Önce şehre bakalım, sonra suyun ve asfaltın bizi nereye götürdüğünü görelim.",
+      "tokens": [
+        51010,
+        9158,
+        77,
+        384,
+        49755,
+        265,
+        28812,
+        11,
+        13800,
+        459,
+        21505,
+        1241,
+        382,
+        69,
+        3198,
+        2263,
+        36033,
+        297,
+        41333,
+        39630,
+        39717,
+        22719,
+        29598,
+        21032,
+        4197,
+        13,
+        51241
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Önce",
+          "start": 13.18,
+          "end": 13.38,
+          "probability": 0.9943358302116394
+        },
+        {
+          "word": " şehre",
+          "start": 13.38,
+          "end": 13.68,
+          "probability": 0.9800748229026794
+        },
+        {
+          "word": " bakalım,",
+          "start": 13.68,
+          "end": 14.12,
+          "probability": 0.985993504524231
+        },
+        {
+          "word": " sonra",
+          "start": 14.46,
+          "end": 14.7,
+          "probability": 0.9894948601722717
+        },
+        {
+          "word": " suyun",
+          "start": 14.7,
+          "end": 15.12,
+          "probability": 0.9951741695404053
+        },
+        {
+          "word": " ve",
+          "start": 15.12,
+          "end": 15.36,
+          "probability": 0.9928845763206482
+        },
+        {
+          "word": " asfaltın",
+          "start": 15.36,
+          "end": 15.94,
+          "probability": 0.9942302703857422
+        },
+        {
+          "word": " bizi",
+          "start": 15.94,
+          "end": 16.16,
+          "probability": 0.9959179759025574
+        },
+        {
+          "word": " nereye",
+          "start": 16.16,
+          "end": 16.5,
+          "probability": 0.9912412166595459
+        },
+        {
+          "word": " götürdüğünü",
+          "start": 16.5,
+          "end": 17.02,
+          "probability": 0.9954334795475006
+        },
+        {
+          "word": " görelim.",
+          "start": 17.02,
+          "end": 17.68,
+          "probability": 0.9991527795791626
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.88,
+      "end": 18.58,
+      "text": " Vice City.",
+      "tokens": [
+        51241,
+        13276,
+        4392,
+        13,
+        51293
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Vice",
+          "start": 17.88,
+          "end": 18.06,
+          "probability": 0.5409718155860901
+        },
+        {
+          "word": " City.",
+          "start": 18.06,
+          "end": 18.58,
+          "probability": 0.9934946894645691
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.82,
+      "end": 22.58,
+      "text": " Gündüz sahilde, gecede ışıl ışıl bir dönme dolabın önündeyiz.",
+      "tokens": [
+        51293,
+        460,
+        9541,
+        4934,
+        19292,
+        15956,
+        11,
+        1519,
+        29815,
+        220,
+        4951,
+        5492,
+        220,
+        4951,
+        5492,
+        1904,
+        24782,
+        1398,
+        17858,
+        455,
+        2263,
+        12253,
+        9541,
+        2030,
+        590,
+        13,
+        51497
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Gündüz",
+          "start": 18.82,
+          "end": 19.14,
+          "probability": 0.9718515674273173
+        },
+        {
+          "word": " sahilde,",
+          "start": 19.14,
+          "end": 19.78,
+          "probability": 0.9908780157566071
+        },
+        {
+          "word": " gecede",
+          "start": 20.06,
+          "end": 20.4,
+          "probability": 0.9502403736114502
+        },
+        {
+          "word": " ışıl",
+          "start": 20.4,
+          "end": 20.88,
+          "probability": 0.9707507491111755
+        },
+        {
+          "word": " ışıl",
+          "start": 20.88,
+          "end": 21.14,
+          "probability": 0.9946783383687338
+        },
+        {
+          "word": " bir",
+          "start": 21.14,
+          "end": 21.38,
+          "probability": 0.9866846203804016
+        },
+        {
+          "word": " dönme",
+          "start": 21.38,
+          "end": 21.66,
+          "probability": 0.9983424246311188
+        },
+        {
+          "word": " dolabın",
+          "start": 21.66,
+          "end": 21.98,
+          "probability": 0.9251668453216553
+        },
+        {
+          "word": " önündeyiz.",
+          "start": 21.98,
+          "end": 22.58,
+          "probability": 0.9976576566696167
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.82,
+      "end": 26.48,
+      "text": " Rockstar aynı şehrin içinde 4 ayrı adresi özellikle anıyor.",
+      "tokens": [
+        51497,
+        6922,
+        9710,
+        30281,
+        3382,
+        68,
+        1703,
+        259,
+        34283,
+        1017,
+        35767,
+        699,
+        614,
+        495,
+        72,
+        27010,
+        898,
+        40177,
+        364,
+        7618,
+        13,
+        51693
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13856368526335686,
+      "compression_ratio": 1.4838709677419355,
+      "no_speech_prob": 0.10015399008989334,
+      "words": [
+        {
+          "word": " Rockstar",
+          "start": 22.82,
+          "end": 23.34,
+          "probability": 0.9948923289775848
+        },
+        {
+          "word": " aynı",
+          "start": 23.34,
+          "end": 23.72,
+          "probability": 0.5083068609237671
+        },
+        {
+          "word": " şehrin",
+          "start": 23.72,
+          "end": 24.18,
+          "probability": 0.9909761250019073
+        },
+        {
+          "word": " içinde",
+          "start": 24.18,
+          "end": 24.48,
+          "probability": 0.9835895299911499
+        },
+        {
+          "word": " 4",
+          "start": 24.48,
+          "end": 24.84,
+          "probability": 0.6687518358230591
+        },
+        {
+          "word": " ayrı",
+          "start": 24.84,
+          "end": 25.2,
+          "probability": 0.989421546459198
+        },
+        {
+          "word": " adresi",
+          "start": 25.2,
+          "end": 25.58,
+          "probability": 0.9852946599324545
+        },
+        {
+          "word": " özellikle",
+          "start": 25.58,
+          "end": 26.1,
+          "probability": 0.9971220890680949
+        },
+        {
+          "word": " anıyor.",
+          "start": 26.1,
+          "end": 26.48,
+          "probability": 0.9921184778213501
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2648,
+      "start": 26.48,
+      "end": 34.12,
+      "text": " Art Deco otelleriyle Ocean Beach, fırınlarıyla Little Cuba, Tisha-Wocka Bit Pazarı ve Kruvaziyer Limanı VC Port.",
+      "tokens": [
+        50369,
+        5735,
+        1346,
+        1291,
+        4337,
+        14983,
+        72,
+        2072,
+        18101,
+        14866,
+        11,
+        47305,
+        2263,
+        2200,
+        25077,
+        8022,
+        20604,
+        11,
+        314,
+        16546,
+        12,
+        54,
+        1560,
+        64,
+        9101,
+        430,
+        921,
+        18318,
+        1241,
+        591,
+        894,
+        85,
+        921,
+        4727,
+        260,
+        16406,
+        35869,
+        41922,
+        6733,
+        13,
+        50749
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Art",
+          "start": 26.48,
+          "end": 26.98,
+          "probability": 0.9195193648338318
+        },
+        {
+          "word": " Deco",
+          "start": 26.98,
+          "end": 27.26,
+          "probability": 0.9232509732246399
+        },
+        {
+          "word": " otelleriyle",
+          "start": 27.26,
+          "end": 27.94,
+          "probability": 0.846178874373436
+        },
+        {
+          "word": " Ocean",
+          "start": 27.94,
+          "end": 28.34,
+          "probability": 0.9518210291862488
+        },
+        {
+          "word": " Beach,",
+          "start": 28.34,
+          "end": 28.7,
+          "probability": 0.9793301224708557
+        },
+        {
+          "word": " fırınlarıyla",
+          "start": 28.98,
+          "end": 29.54,
+          "probability": 0.9240113943815231
+        },
+        {
+          "word": " Little",
+          "start": 29.54,
+          "end": 29.88,
+          "probability": 0.9773568511009216
+        },
+        {
+          "word": " Cuba,",
+          "start": 29.88,
+          "end": 30.3,
+          "probability": 0.9848025441169739
+        },
+        {
+          "word": " Tisha",
+          "start": 30.68,
+          "end": 30.88,
+          "probability": 0.6470411866903305
+        },
+        {
+          "word": "-Wocka",
+          "start": 30.88,
+          "end": 31.22,
+          "probability": 0.4081819294951856
+        },
+        {
+          "word": " Bit",
+          "start": 31.22,
+          "end": 31.4,
+          "probability": 0.5025189518928528
+        },
+        {
+          "word": " Pazarı",
+          "start": 31.4,
+          "end": 31.84,
+          "probability": 0.8946472406387329
+        },
+        {
+          "word": " ve",
+          "start": 31.84,
+          "end": 32.18,
+          "probability": 0.9418935775756836
+        },
+        {
+          "word": " Kruvaziyer",
+          "start": 32.18,
+          "end": 32.8,
+          "probability": 0.6772592986623446
+        },
+        {
+          "word": " Limanı",
+          "start": 32.8,
+          "end": 33.26,
+          "probability": 0.7697527706623077
+        },
+        {
+          "word": " VC",
+          "start": 33.26,
+          "end": 33.74,
+          "probability": 0.18243607878684998
+        },
+        {
+          "word": " Port.",
+          "start": 33.74,
+          "end": 34.12,
+          "probability": 0.7511287927627563
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2648,
+      "start": 34.44,
+      "end": 38.3,
+      "text": " Şehir sahil şeridinden içeri girdikçe bambaşka yüzler gösteriyor.",
+      "tokens": [
+        50749,
+        7918,
+        13301,
+        347,
+        19292,
+        388,
+        3382,
+        260,
+        327,
+        10291,
+        6058,
+        16310,
+        48219,
+        1035,
+        32115,
+        272,
+        23337,
+        1165,
+        2330,
+        16162,
+        1918,
+        40968,
+        8436,
+        13,
+        50967
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Şehir",
+          "start": 34.44,
+          "end": 34.82,
+          "probability": 0.9502975543340048
+        },
+        {
+          "word": " sahil",
+          "start": 34.82,
+          "end": 35.28,
+          "probability": 0.9370686411857605
+        },
+        {
+          "word": " şeridinden",
+          "start": 35.28,
+          "end": 35.78,
+          "probability": 0.982755184173584
+        },
+        {
+          "word": " içeri",
+          "start": 35.78,
+          "end": 36.12,
+          "probability": 0.9984443187713623
+        },
+        {
+          "word": " girdikçe",
+          "start": 36.12,
+          "end": 36.74,
+          "probability": 0.9901549617449442
+        },
+        {
+          "word": " bambaşka",
+          "start": 36.74,
+          "end": 37.3,
+          "probability": 0.9806244671344757
+        },
+        {
+          "word": " yüzler",
+          "start": 37.3,
+          "end": 37.72,
+          "probability": 0.9978228807449341
+        },
+        {
+          "word": " gösteriyor.",
+          "start": 37.72,
+          "end": 38.3,
+          "probability": 0.9984413385391235
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2648,
+      "start": 38.9,
+      "end": 39.86,
+      "text": " Leonida Keys.",
+      "tokens": [
+        50967,
+        13244,
+        2887,
+        43733,
+        13,
+        51033
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Leonida",
+          "start": 38.9,
+          "end": 39.3,
+          "probability": 0.8475124537944794
+        },
+        {
+          "word": " Keys.",
+          "start": 39.3,
+          "end": 39.86,
+          "probability": 0.8124297261238098
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2648,
+      "start": 40.04,
+      "end": 43.66,
+      "text": " Deniz uçağının altında uzanan köprü, iki adayı birbirine bağlıyor.",
+      "tokens": [
+        51033,
+        6458,
+        590,
+        344,
+        5297,
+        1640,
+        21006,
+        4955,
+        8431,
+        16851,
+        29915,
+        15881,
+        48715,
+        11,
+        20739,
+        614,
+        18376,
+        1904,
+        10119,
+        533,
+        4773,
+        14142,
+        7618,
+        13,
+        51229
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Deniz",
+          "start": 40.04,
+          "end": 40.32,
+          "probability": 0.9979246556758881
+        },
+        {
+          "word": " uçağının",
+          "start": 40.32,
+          "end": 40.74,
+          "probability": 0.9932154268026352
+        },
+        {
+          "word": " altında",
+          "start": 40.74,
+          "end": 41.14,
+          "probability": 0.982764333486557
+        },
+        {
+          "word": " uzanan",
+          "start": 41.14,
+          "end": 41.5,
+          "probability": 0.9902447164058685
+        },
+        {
+          "word": " köprü,",
+          "start": 41.5,
+          "end": 42.0,
+          "probability": 0.882070928812027
+        },
+        {
+          "word": " iki",
+          "start": 42.2,
+          "end": 42.42,
+          "probability": 0.9682223796844482
+        },
+        {
+          "word": " adayı",
+          "start": 42.42,
+          "end": 42.7,
+          "probability": 0.9684490263462067
+        },
+        {
+          "word": " birbirine",
+          "start": 42.7,
+          "end": 43.2,
+          "probability": 0.9839517076810201
+        },
+        {
+          "word": " bağlıyor.",
+          "start": 43.2,
+          "end": 43.66,
+          "probability": 0.8816717465718588
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2648,
+      "start": 43.94,
+      "end": 45.88,
+      "text": " Bir başka kare suyun altına iniyor.",
+      "tokens": [
+        51229,
+        7145,
+        27883,
+        350,
+        543,
+        459,
+        21505,
+        4955,
+        9236,
+        7408,
+        2454,
+        13,
+        51335
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Bir",
+          "start": 43.94,
+          "end": 44.14,
+          "probability": 0.989575982093811
+        },
+        {
+          "word": " başka",
+          "start": 44.14,
+          "end": 44.44,
+          "probability": 0.9977484345436096
+        },
+        {
+          "word": " kare",
+          "start": 44.44,
+          "end": 44.72,
+          "probability": 0.9878022372722626
+        },
+        {
+          "word": " suyun",
+          "start": 44.72,
+          "end": 45.04,
+          "probability": 0.9095557928085327
+        },
+        {
+          "word": " altına",
+          "start": 45.04,
+          "end": 45.42,
+          "probability": 0.9962858557701111
+        },
+        {
+          "word": " iniyor.",
+          "start": 45.42,
+          "end": 45.88,
+          "probability": 0.9217112362384796
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2648,
+      "start": 46.06,
+      "end": 49.34,
+      "text": " Mercanların arasında dalgıçlar ve bir deniz kaplumbağası var.",
+      "tokens": [
+        51335,
+        18897,
+        282,
+        14716,
+        594,
+        33119,
+        11702,
+        70,
+        699,
+        1138,
+        2200,
+        1241,
+        1904,
+        1441,
+        590,
+        6799,
+        564,
+        49353,
+        1640,
+        12700,
+        1374,
+        13,
+        51513
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Mercanların",
+          "start": 46.06,
+          "end": 46.58,
+          "probability": 0.943276564280192
+        },
+        {
+          "word": " arasında",
+          "start": 46.58,
+          "end": 47.1,
+          "probability": 0.9875137209892273
+        },
+        {
+          "word": " dalgıçlar",
+          "start": 47.1,
+          "end": 47.86,
+          "probability": 0.9835110068321228
+        },
+        {
+          "word": " ve",
+          "start": 47.86,
+          "end": 48.02,
+          "probability": 0.9804219603538513
+        },
+        {
+          "word": " bir",
+          "start": 48.02,
+          "end": 48.18,
+          "probability": 0.8400610685348511
+        },
+        {
+          "word": " deniz",
+          "start": 48.18,
+          "end": 48.52,
+          "probability": 0.9956555962562561
+        },
+        {
+          "word": " kaplumbağası",
+          "start": 48.52,
+          "end": 49.12,
+          "probability": 0.9374622941017151
+        },
+        {
+          "word": " var.",
+          "start": 49.12,
+          "end": 49.34,
+          "probability": 0.9939101934432983
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2648,
+      "start": 49.68,
+      "end": 53.64,
+      "text": " Rockstar, tropik takım adayı suyun üstünden de altından da gösteriyor.",
+      "tokens": [
+        51513,
+        6922,
+        9710,
+        11,
+        9006,
+        1035,
+        991,
+        2648,
+        614,
+        18376,
+        459,
+        21505,
+        28816,
+        27687,
+        368,
+        4955,
+        16293,
+        1120,
+        40968,
+        8436,
+        13,
+        51733
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.16526182138236464,
+      "compression_ratio": 1.4871794871794872,
+      "no_speech_prob": 0.1050276905298233,
+      "words": [
+        {
+          "word": " Rockstar,",
+          "start": 49.68,
+          "end": 50.14,
+          "probability": 0.9393695592880249
+        },
+        {
+          "word": " tropik",
+          "start": 50.34,
+          "end": 50.64,
+          "probability": 0.9731006920337677
+        },
+        {
+          "word": " takım",
+          "start": 50.64,
+          "end": 50.92,
+          "probability": 0.983581006526947
+        },
+        {
+          "word": " adayı",
+          "start": 50.92,
+          "end": 51.2,
+          "probability": 0.9910562336444855
+        },
+        {
+          "word": " suyun",
+          "start": 51.2,
+          "end": 51.54,
+          "probability": 0.9917864799499512
+        },
+        {
+          "word": " üstünden",
+          "start": 51.54,
+          "end": 52.02,
+          "probability": 0.9761492908000946
+        },
+        {
+          "word": " de",
+          "start": 52.02,
+          "end": 52.44,
+          "probability": 0.9847089052200317
+        },
+        {
+          "word": " altından",
+          "start": 52.44,
+          "end": 52.9,
+          "probability": 0.9744324088096619
+        },
+        {
+          "word": " da",
+          "start": 52.9,
+          "end": 53.14,
+          "probability": 0.9519190788269043
+        },
+        {
+          "word": " gösteriyor.",
+          "start": 53.14,
+          "end": 53.64,
+          "probability": 0.9994446635246277
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5364,
+      "start": 53.64,
+      "end": 56.98,
+      "text": " Wrath Rivers'da su bambaşka bir manzaraya dönüşüyor.",
+      "tokens": [
+        50381,
+        10159,
+        998,
+        36646,
+        1116,
+        64,
+        459,
+        272,
+        23337,
+        1165,
+        2330,
+        1904,
+        587,
+        26236,
+        4427,
+        24782,
+        8743,
+        18644,
+        13,
+        50533
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Wrath",
+          "start": 53.64,
+          "end": 54.4,
+          "probability": 0.4997727139852941
+        },
+        {
+          "word": " Rivers'da",
+          "start": 54.4,
+          "end": 54.96,
+          "probability": 0.676147441069285
+        },
+        {
+          "word": " su",
+          "start": 54.96,
+          "end": 55.26,
+          "probability": 0.9067786335945129
+        },
+        {
+          "word": " bambaşka",
+          "start": 55.26,
+          "end": 55.82,
+          "probability": 0.9873625189065933
+        },
+        {
+          "word": " bir",
+          "start": 55.82,
+          "end": 56.08,
+          "probability": 0.9856793284416199
+        },
+        {
+          "word": " manzaraya",
+          "start": 56.08,
+          "end": 56.38,
+          "probability": 0.9942493637402853
+        },
+        {
+          "word": " dönüşüyor.",
+          "start": 56.38,
+          "end": 56.98,
+          "probability": 0.9976553718249003
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5364,
+      "start": 57.18,
+      "end": 59.84,
+      "text": " Burası mangroveların arasında uzanan bir sulak alan.",
+      "tokens": [
+        50533,
+        7031,
+        12700,
+        587,
+        17427,
+        303,
+        14716,
+        594,
+        33119,
+        16851,
+        29915,
+        1904,
+        17603,
+        514,
+        48146,
+        13,
+        50681
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Burası",
+          "start": 57.18,
+          "end": 57.6,
+          "probability": 0.9932225942611694
+        },
+        {
+          "word": " mangroveların",
+          "start": 57.6,
+          "end": 58.3,
+          "probability": 0.6943487152457237
+        },
+        {
+          "word": " arasında",
+          "start": 58.3,
+          "end": 58.74,
+          "probability": 0.9791380167007446
+        },
+        {
+          "word": " uzanan",
+          "start": 58.74,
+          "end": 59.08,
+          "probability": 0.9904857277870178
+        },
+        {
+          "word": " bir",
+          "start": 59.08,
+          "end": 59.4,
+          "probability": 0.9920967817306519
+        },
+        {
+          "word": " sulak",
+          "start": 59.4,
+          "end": 59.68,
+          "probability": 0.9385397136211395
+        },
+        {
+          "word": " alan.",
+          "start": 59.68,
+          "end": 59.84,
+          "probability": 0.9640965461730957
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5364,
+      "start": 60.1,
+      "end": 64.76,
+      "text": " Yukarıdan çekilen resmi karede bir pervaneli teknenin etrafını timsahlar sarmış.",
+      "tokens": [
+        50681,
+        27975,
+        18318,
+        10312,
+        22559,
+        17471,
+        725,
+        3057,
+        350,
+        543,
+        1479,
+        1904,
+        680,
+        9768,
+        10148,
+        16624,
+        2866,
+        259,
+        1030,
+        10437,
+        7760,
+        524,
+        82,
+        545,
+        2200,
+        262,
+        4452,
+        4951,
+        13,
+        50927
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Yukarıdan",
+          "start": 60.1,
+          "end": 60.6,
+          "probability": 0.960964024066925
+        },
+        {
+          "word": " çekilen",
+          "start": 60.6,
+          "end": 60.92,
+          "probability": 0.9954153597354889
+        },
+        {
+          "word": " resmi",
+          "start": 60.92,
+          "end": 61.34,
+          "probability": 0.9646158516407013
+        },
+        {
+          "word": " karede",
+          "start": 61.34,
+          "end": 61.84,
+          "probability": 0.8602022131284078
+        },
+        {
+          "word": " bir",
+          "start": 61.84,
+          "end": 62.14,
+          "probability": 0.879439115524292
+        },
+        {
+          "word": " pervaneli",
+          "start": 62.14,
+          "end": 62.7,
+          "probability": 0.978335956732432
+        },
+        {
+          "word": " teknenin",
+          "start": 62.7,
+          "end": 63.18,
+          "probability": 0.8581092357635498
+        },
+        {
+          "word": " etrafını",
+          "start": 63.18,
+          "end": 63.68,
+          "probability": 0.9918568929036459
+        },
+        {
+          "word": " timsahlar",
+          "start": 63.68,
+          "end": 64.34,
+          "probability": 0.99344901740551
+        },
+        {
+          "word": " sarmış.",
+          "start": 64.34,
+          "end": 64.76,
+          "probability": 0.8744578957557678
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5364,
+      "start": 65.0,
+      "end": 68.72,
+      "text": " Bir başka karede aynı coğrafyanın içinden bir polis takibi geçiyor.",
+      "tokens": [
+        50927,
+        7145,
+        27883,
+        350,
+        543,
+        1479,
+        30281,
+        598,
+        1640,
+        10437,
+        6277,
+        2263,
+        6058,
+        10291,
+        1904,
+        1180,
+        271,
+        991,
+        25515,
+        13110,
+        8436,
+        13,
+        51133
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Bir",
+          "start": 65.0,
+          "end": 65.16,
+          "probability": 0.9913002848625183
+        },
+        {
+          "word": " başka",
+          "start": 65.16,
+          "end": 65.5,
+          "probability": 0.9982872605323792
+        },
+        {
+          "word": " karede",
+          "start": 65.5,
+          "end": 66.02,
+          "probability": 0.9650895198186239
+        },
+        {
+          "word": " aynı",
+          "start": 66.02,
+          "end": 66.28,
+          "probability": 0.898334801197052
+        },
+        {
+          "word": " coğrafyanın",
+          "start": 66.28,
+          "end": 66.98,
+          "probability": 0.9920548915863037
+        },
+        {
+          "word": " içinden",
+          "start": 66.98,
+          "end": 67.34,
+          "probability": 0.9877352118492126
+        },
+        {
+          "word": " bir",
+          "start": 67.34,
+          "end": 67.7,
+          "probability": 0.9880361557006836
+        },
+        {
+          "word": " polis",
+          "start": 67.7,
+          "end": 67.9,
+          "probability": 0.996809333562851
+        },
+        {
+          "word": " takibi",
+          "start": 67.9,
+          "end": 68.26,
+          "probability": 0.9729524552822113
+        },
+        {
+          "word": " geçiyor.",
+          "start": 68.26,
+          "end": 68.72,
+          "probability": 0.9983298480510712
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5364,
+      "start": 69.16,
+      "end": 70.58,
+      "text": " Port Galhorn'da kıyıda.",
+      "tokens": [
+        51133,
+        6733,
+        7336,
+        31990,
+        1116,
+        64,
+        350,
+        48684,
+        2675,
+        13,
+        51213
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Port",
+          "start": 69.16,
+          "end": 69.38,
+          "probability": 0.8981835842132568
+        },
+        {
+          "word": " Galhorn'da",
+          "start": 69.38,
+          "end": 70.02,
+          "probability": 0.7934917733073235
+        },
+        {
+          "word": " kıyıda.",
+          "start": 70.02,
+          "end": 70.58,
+          "probability": 0.95340363184611
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5364,
+      "start": 70.78,
+      "end": 73.68,
+      "text": " Rockstar burayı eski bir tatil merkezi olarak tanıtıyor.",
+      "tokens": [
+        51213,
+        6922,
+        9710,
+        2779,
+        18376,
+        785,
+        2984,
+        1904,
+        9600,
+        388,
+        3551,
+        330,
+        3992,
+        17728,
+        7603,
+        44610,
+        7618,
+        13,
+        51373
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Rockstar",
+          "start": 70.78,
+          "end": 71.18,
+          "probability": 0.9652192890644073
+        },
+        {
+          "word": " burayı",
+          "start": 71.18,
+          "end": 71.6,
+          "probability": 0.9638643264770508
+        },
+        {
+          "word": " eski",
+          "start": 71.6,
+          "end": 71.96,
+          "probability": 0.9961433708667755
+        },
+        {
+          "word": " bir",
+          "start": 71.96,
+          "end": 72.18,
+          "probability": 0.9971867203712463
+        },
+        {
+          "word": " tatil",
+          "start": 72.18,
+          "end": 72.52,
+          "probability": 0.995202898979187
+        },
+        {
+          "word": " merkezi",
+          "start": 72.52,
+          "end": 72.88,
+          "probability": 0.9970419605573019
+        },
+        {
+          "word": " olarak",
+          "start": 72.88,
+          "end": 73.18,
+          "probability": 0.9991752505302429
+        },
+        {
+          "word": " tanıtıyor.",
+          "start": 73.18,
+          "end": 73.68,
+          "probability": 0.9888729453086853
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5364,
+      "start": 73.96,
+      "end": 78.36,
+      "text": " Kapanmış eğlence yerleri ve boş alışveriş alanları o eski günlerden kalmış.",
+      "tokens": [
+        51373,
+        591,
+        3140,
+        11370,
+        308,
+        14142,
+        655,
+        12954,
+        11478,
+        1241,
+        37636,
+        419,
+        4951,
+        331,
+        9496,
+        48146,
+        10197,
+        277,
+        785,
+        2984,
+        14472,
+        1918,
+        1556,
+        7788,
+        11370,
+        13,
+        51609
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Kapanmış",
+          "start": 73.96,
+          "end": 74.38,
+          "probability": 0.9656814336776733
+        },
+        {
+          "word": " eğlence",
+          "start": 74.38,
+          "end": 74.82,
+          "probability": 0.9950949748357137
+        },
+        {
+          "word": " yerleri",
+          "start": 74.82,
+          "end": 75.34,
+          "probability": 0.9968692362308502
+        },
+        {
+          "word": " ve",
+          "start": 75.34,
+          "end": 75.56,
+          "probability": 0.9912512898445129
+        },
+        {
+          "word": " boş",
+          "start": 75.56,
+          "end": 75.78,
+          "probability": 0.9917226433753967
+        },
+        {
+          "word": " alışveriş",
+          "start": 75.78,
+          "end": 76.36,
+          "probability": 0.9959024637937546
+        },
+        {
+          "word": " alanları",
+          "start": 76.36,
+          "end": 76.88,
+          "probability": 0.9974875450134277
+        },
+        {
+          "word": " o",
+          "start": 76.88,
+          "end": 77.2,
+          "probability": 0.9325462579727173
+        },
+        {
+          "word": " eski",
+          "start": 77.2,
+          "end": 77.44,
+          "probability": 0.9978176057338715
+        },
+        {
+          "word": " günlerden",
+          "start": 77.44,
+          "end": 78.0,
+          "probability": 0.9993664820988973
+        },
+        {
+          "word": " kalmış.",
+          "start": 78.0,
+          "end": 78.36,
+          "probability": 0.998067319393158
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5364,
+      "start": 78.66,
+      "end": 81.94,
+      "text": " Gece çekilen karede motel tabelasının ışığı hala yanıyor.",
+      "tokens": [
+        51609,
+        2876,
+        384,
+        22559,
+        17471,
+        350,
+        543,
+        1479,
+        2184,
+        338,
+        4421,
+        32098,
+        21006,
+        220,
+        4951,
+        15977,
+        276,
+        5159,
+        17700,
+        7618,
+        13,
+        51785
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.13141410113775243,
+      "compression_ratio": 1.5815384615384616,
+      "no_speech_prob": 0.022188471630215645,
+      "words": [
+        {
+          "word": " Gece",
+          "start": 78.66,
+          "end": 78.9,
+          "probability": 0.9953514337539673
+        },
+        {
+          "word": " çekilen",
+          "start": 78.9,
+          "end": 79.26,
+          "probability": 0.9969010949134827
+        },
+        {
+          "word": " karede",
+          "start": 79.26,
+          "end": 79.78,
+          "probability": 0.9886252482732137
+        },
+        {
+          "word": " motel",
+          "start": 79.78,
+          "end": 80.2,
+          "probability": 0.8138936758041382
+        },
+        {
+          "word": " tabelasının",
+          "start": 80.2,
+          "end": 80.68,
+          "probability": 0.9399864077568054
+        },
+        {
+          "word": " ışığı",
+          "start": 80.68,
+          "end": 81.12,
+          "probability": 0.9958418409029642
+        },
+        {
+          "word": " hala",
+          "start": 81.12,
+          "end": 81.5,
+          "probability": 0.8939590752124786
+        },
+        {
+          "word": " yanıyor.",
+          "start": 81.5,
+          "end": 81.94,
+          "probability": 0.9987293183803558
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8194,
+      "start": 81.94,
+      "end": 85.58,
+      "text": " Başka bir gece karesinde bir kabarenin tabelası parlıyor.",
+      "tokens": [
+        50369,
+        28942,
+        2330,
+        1904,
+        48173,
+        350,
+        8643,
+        8274,
+        1904,
+        27835,
+        4484,
+        259,
+        4421,
+        338,
+        12700,
+        13734,
+        7618,
+        13,
+        50541
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Başka",
+          "start": 81.94,
+          "end": 82.46,
+          "probability": 0.539598174393177
+        },
+        {
+          "word": " bir",
+          "start": 82.46,
+          "end": 82.66,
+          "probability": 0.991224467754364
+        },
+        {
+          "word": " gece",
+          "start": 82.66,
+          "end": 82.88,
+          "probability": 0.8556685447692871
+        },
+        {
+          "word": " karesinde",
+          "start": 82.88,
+          "end": 83.52,
+          "probability": 0.6006395171085993
+        },
+        {
+          "word": " bir",
+          "start": 83.52,
+          "end": 83.86,
+          "probability": 0.9161291718482971
+        },
+        {
+          "word": " kabarenin",
+          "start": 83.86,
+          "end": 84.38,
+          "probability": 0.7722543279329935
+        },
+        {
+          "word": " tabelası",
+          "start": 84.38,
+          "end": 84.74,
+          "probability": 0.9856844147046407
+        },
+        {
+          "word": " parlıyor.",
+          "start": 84.74,
+          "end": 85.58,
+          "probability": 0.979128360748291
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8194,
+      "start": 85.86,
+      "end": 88.36,
+      "text": " Ambrosia'da gece silüetini bacalar çiziyor.",
+      "tokens": [
+        50541,
+        2012,
+        29781,
+        654,
+        1116,
+        64,
+        48173,
+        3425,
+        774,
+        302,
+        3812,
+        6857,
+        12031,
+        1844,
+        590,
+        8436,
+        13,
+        50687
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Ambrosia'da",
+          "start": 85.86,
+          "end": 86.56,
+          "probability": 0.7607085704803467
+        },
+        {
+          "word": " gece",
+          "start": 86.56,
+          "end": 86.86,
+          "probability": 0.9375069737434387
+        },
+        {
+          "word": " silüetini",
+          "start": 86.86,
+          "end": 87.42,
+          "probability": 0.9018047153949738
+        },
+        {
+          "word": " bacalar",
+          "start": 87.42,
+          "end": 87.86,
+          "probability": 0.9924462139606476
+        },
+        {
+          "word": " çiziyor.",
+          "start": 87.86,
+          "end": 88.36,
+          "probability": 0.9972290198008219
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8194,
+      "start": 88.62,
+      "end": 93.6,
+      "text": " Rockstar bölgedeki istihdamın merkezine Allied Crystal şeker rafinerisini yerleştiriyor.",
+      "tokens": [
+        50687,
+        6922,
+        9710,
+        36413,
+        3004,
+        14753,
+        1418,
+        4247,
+        10170,
+        2263,
+        3551,
+        330,
+        89,
+        533,
+        45620,
+        23489,
+        18850,
+        260,
+        367,
+        2792,
+        4564,
+        47321,
+        12954,
+        33284,
+        24000,
+        8436,
+        13,
+        50953
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Rockstar",
+          "start": 88.62,
+          "end": 89.0,
+          "probability": 0.9421568214893341
+        },
+        {
+          "word": " bölgedeki",
+          "start": 89.0,
+          "end": 89.64,
+          "probability": 0.9487924377123514
+        },
+        {
+          "word": " istihdamın",
+          "start": 89.64,
+          "end": 90.36,
+          "probability": 0.9765689820051193
+        },
+        {
+          "word": " merkezine",
+          "start": 90.36,
+          "end": 91.04,
+          "probability": 0.9961103200912476
+        },
+        {
+          "word": " Allied",
+          "start": 91.04,
+          "end": 91.44,
+          "probability": 0.5718287229537964
+        },
+        {
+          "word": " Crystal",
+          "start": 91.44,
+          "end": 91.94,
+          "probability": 0.9333268404006958
+        },
+        {
+          "word": " şeker",
+          "start": 91.94,
+          "end": 92.36,
+          "probability": 0.8655736744403839
+        },
+        {
+          "word": " rafinerisini",
+          "start": 92.36,
+          "end": 92.88,
+          "probability": 0.9523511379957199
+        },
+        {
+          "word": " yerleştiriyor.",
+          "start": 92.88,
+          "end": 93.6,
+          "probability": 0.9984049946069717
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8194,
+      "start": 93.88,
+      "end": 97.86,
+      "text": " Bir diğer karede aynı deri yelekleri giyen motosikletliler yola dizilmiş.",
+      "tokens": [
+        50953,
+        7145,
+        44525,
+        350,
+        543,
+        1479,
+        30281,
+        1163,
+        72,
+        606,
+        29205,
+        11478,
+        1735,
+        16580,
+        2184,
+        329,
+        1035,
+        2631,
+        75,
+        5441,
+        288,
+        4711,
+        12098,
+        388,
+        10510,
+        13,
+        51163
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Bir",
+          "start": 93.88,
+          "end": 94.08,
+          "probability": 0.9926878213882446
+        },
+        {
+          "word": " diğer",
+          "start": 94.08,
+          "end": 94.34,
+          "probability": 0.9687166810035706
+        },
+        {
+          "word": " karede",
+          "start": 94.34,
+          "end": 94.9,
+          "probability": 0.9541541934013367
+        },
+        {
+          "word": " aynı",
+          "start": 94.9,
+          "end": 95.14,
+          "probability": 0.9287793636322021
+        },
+        {
+          "word": " deri",
+          "start": 95.14,
+          "end": 95.46,
+          "probability": 0.9584372937679291
+        },
+        {
+          "word": " yelekleri",
+          "start": 95.46,
+          "end": 95.92,
+          "probability": 0.9796428481737772
+        },
+        {
+          "word": " giyen",
+          "start": 95.92,
+          "end": 96.1,
+          "probability": 0.9822129309177399
+        },
+        {
+          "word": " motosikletliler",
+          "start": 96.1,
+          "end": 97.04,
+          "probability": 0.9773329496383667
+        },
+        {
+          "word": " yola",
+          "start": 97.04,
+          "end": 97.28,
+          "probability": 0.993364691734314
+        },
+        {
+          "word": " dizilmiş.",
+          "start": 97.28,
+          "end": 97.86,
+          "probability": 0.9987441698710123
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8194,
+      "start": 98.08,
+      "end": 102.82,
+      "text": " Rafineriyle yerel motosiklet çetesi bölgenin iki ayrı gücü olarak karşımıza çıkıyor.",
+      "tokens": [
+        51163,
+        29611,
+        4564,
+        72,
+        2072,
+        288,
+        39796,
+        2184,
+        329,
+        1035,
+        2631,
+        1844,
+        302,
+        21181,
+        36413,
+        1766,
+        259,
+        20739,
+        35767,
+        699,
+        18148,
+        49694,
+        17728,
+        21742,
+        22569,
+        2394,
+        12208,
+        7618,
+        13,
+        51419
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Rafineriyle",
+          "start": 98.08,
+          "end": 98.68,
+          "probability": 0.7479303777217865
+        },
+        {
+          "word": " yerel",
+          "start": 98.68,
+          "end": 99.0,
+          "probability": 0.8432499170303345
+        },
+        {
+          "word": " motosiklet",
+          "start": 99.0,
+          "end": 99.6,
+          "probability": 0.9957363456487656
+        },
+        {
+          "word": " çetesi",
+          "start": 99.6,
+          "end": 100.14,
+          "probability": 0.921253482500712
+        },
+        {
+          "word": " bölgenin",
+          "start": 100.14,
+          "end": 100.78,
+          "probability": 0.9715228279431661
+        },
+        {
+          "word": " iki",
+          "start": 100.78,
+          "end": 101.04,
+          "probability": 0.9866712689399719
+        },
+        {
+          "word": " ayrı",
+          "start": 101.04,
+          "end": 101.36,
+          "probability": 0.984696626663208
+        },
+        {
+          "word": " gücü",
+          "start": 101.36,
+          "end": 101.6,
+          "probability": 0.9987622499465942
+        },
+        {
+          "word": " olarak",
+          "start": 101.6,
+          "end": 101.92,
+          "probability": 0.9980804920196533
+        },
+        {
+          "word": " karşımıza",
+          "start": 101.92,
+          "end": 102.5,
+          "probability": 0.9945336977640787
+        },
+        {
+          "word": " çıkıyor.",
+          "start": 102.5,
+          "end": 102.82,
+          "probability": 0.9989202618598938
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8194,
+      "start": 103.36,
+      "end": 109.12,
+      "text": " Rockstar'ın resmi rehberi bizi Leonida'nın kuzey sınırındaki Mount Kalaga Ulusal Parkına kadar götürüyor.",
+      "tokens": [
+        51419,
+        6922,
+        9710,
+        6,
+        2263,
+        725,
+        3057,
+        22355,
+        607,
+        72,
+        36033,
+        13244,
+        2887,
+        6,
+        33484,
+        17807,
+        1381,
+        88,
+        262,
+        2263,
+        3702,
+        47028,
+        8426,
+        12655,
+        9286,
+        624,
+        3063,
+        304,
+        4964,
+        9236,
+        10456,
+        39630,
+        1655,
+        18644,
+        13,
+        51729
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.14517029523849487,
+      "compression_ratio": 1.5362776025236593,
+      "no_speech_prob": 0.004087621346116066,
+      "words": [
+        {
+          "word": " Rockstar",
+          "start": 103.36,
+          "end": 103.76,
+          "probability": 0.992682933807373
+        },
+        {
+          "word": "'ın",
+          "start": 103.76,
+          "end": 103.98,
+          "probability": 0.9853741824626923
+        },
+        {
+          "word": " resmi",
+          "start": 103.98,
+          "end": 104.28,
+          "probability": 0.9917621612548828
+        },
+        {
+          "word": " rehberi",
+          "start": 104.28,
+          "end": 104.88,
+          "probability": 0.9948948423067728
+        },
+        {
+          "word": " bizi",
+          "start": 104.88,
+          "end": 105.1,
+          "probability": 0.9463077187538147
+        },
+        {
+          "word": " Leonida",
+          "start": 105.1,
+          "end": 105.6,
+          "probability": 0.7050252109766006
+        },
+        {
+          "word": "'nın",
+          "start": 105.6,
+          "end": 105.8,
+          "probability": 0.9950707852840424
+        },
+        {
+          "word": " kuzey",
+          "start": 105.8,
+          "end": 106.2,
+          "probability": 0.9607716997464498
+        },
+        {
+          "word": " sınırındaki",
+          "start": 106.2,
+          "end": 106.76,
+          "probability": 0.9934229701757431
+        },
+        {
+          "word": " Mount",
+          "start": 106.76,
+          "end": 107.16,
+          "probability": 0.8719037771224976
+        },
+        {
+          "word": " Kalaga",
+          "start": 107.16,
+          "end": 107.54,
+          "probability": 0.7774277329444885
+        },
+        {
+          "word": " Ulusal",
+          "start": 107.54,
+          "end": 108.0,
+          "probability": 0.9611415266990662
+        },
+        {
+          "word": " Parkına",
+          "start": 108.0,
+          "end": 108.38,
+          "probability": 0.7438399791717529
+        },
+        {
+          "word": " kadar",
+          "start": 108.38,
+          "end": 108.64,
+          "probability": 0.9951643943786621
+        },
+        {
+          "word": " götürüyor.",
+          "start": 108.64,
+          "end": 109.12,
+          "probability": 0.9968473315238953
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 10912,
+      "start": 109.12,
+      "end": 115.72,
+      "text": " Burada ormanlık sırtlar, tepelerin arasından kıvrılan yollar ve çamurda ilerleyen arazi motosikletleri var.",
+      "tokens": [
+        50371,
+        43776,
+        420,
+        1601,
+        22359,
+        38572,
+        83,
+        2200,
+        11,
+        535,
+        79,
+        6185,
+        259,
+        594,
+        296,
+        16293,
+        25470,
+        85,
+        81,
+        50095,
+        288,
+        30486,
+        1241,
+        1844,
+        335,
+        374,
+        2675,
+        1930,
+        260,
+        3420,
+        268,
+        15186,
+        3992,
+        2184,
+        329,
+        1035,
+        2631,
+        11478,
+        1374,
+        13,
+        50695
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Burada",
+          "start": 109.12,
+          "end": 109.68,
+          "probability": 0.4991174340248108
+        },
+        {
+          "word": " ormanlık",
+          "start": 109.68,
+          "end": 110.34,
+          "probability": 0.951535145441691
+        },
+        {
+          "word": " sırtlar,",
+          "start": 110.34,
+          "end": 110.92,
+          "probability": 0.99422154823939
+        },
+        {
+          "word": " tepelerin",
+          "start": 111.08,
+          "end": 111.54,
+          "probability": 0.9756925255060196
+        },
+        {
+          "word": " arasından",
+          "start": 111.54,
+          "end": 112.02,
+          "probability": 0.9886433084805807
+        },
+        {
+          "word": " kıvrılan",
+          "start": 112.02,
+          "end": 112.52,
+          "probability": 0.9929581433534622
+        },
+        {
+          "word": " yollar",
+          "start": 112.52,
+          "end": 112.92,
+          "probability": 0.9777205288410187
+        },
+        {
+          "word": " ve",
+          "start": 112.92,
+          "end": 113.32,
+          "probability": 0.9199656844139099
+        },
+        {
+          "word": " çamurda",
+          "start": 113.32,
+          "end": 113.82,
+          "probability": 0.9868351519107819
+        },
+        {
+          "word": " ilerleyen",
+          "start": 113.82,
+          "end": 114.36,
+          "probability": 0.9988487958908081
+        },
+        {
+          "word": " arazi",
+          "start": 114.36,
+          "end": 114.68,
+          "probability": 0.9936730563640594
+        },
+        {
+          "word": " motosikletleri",
+          "start": 114.68,
+          "end": 115.42,
+          "probability": 0.9758103013038635
+        },
+        {
+          "word": " var.",
+          "start": 115.42,
+          "end": 115.72,
+          "probability": 0.9959802627563477
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 10912,
+      "start": 115.92,
+      "end": 117.76,
+      "text": " Sonra asfaltta gözden kayboluyor.",
+      "tokens": [
+        50695,
+        41379,
+        382,
+        69,
+        3198,
+        1328,
+        23234,
+        1556,
+        12446,
+        17460,
+        13649,
+        13,
+        50803
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Sonra",
+          "start": 115.92,
+          "end": 116.22,
+          "probability": 0.9354864358901978
+        },
+        {
+          "word": " asfaltta",
+          "start": 116.22,
+          "end": 116.86,
+          "probability": 0.8641037344932556
+        },
+        {
+          "word": " gözden",
+          "start": 116.86,
+          "end": 117.22,
+          "probability": 0.9894081056118011
+        },
+        {
+          "word": " kayboluyor.",
+          "start": 117.22,
+          "end": 117.76,
+          "probability": 0.9904579321543375
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 10912,
+      "start": 118.04,
+      "end": 121.16,
+      "text": " Bir Kano, ağaçların arasından geçen akarsu da ilerliyor.",
+      "tokens": [
+        50803,
+        7145,
+        591,
+        3730,
+        11,
+        21294,
+        64,
+        1138,
+        14716,
+        594,
+        296,
+        16293,
+        13110,
+        268,
+        9308,
+        685,
+        84,
+        1120,
+        1930,
+        260,
+        49309,
+        13,
+        50975
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Bir",
+          "start": 118.04,
+          "end": 118.24,
+          "probability": 0.9654309153556824
+        },
+        {
+          "word": " Kano,",
+          "start": 118.24,
+          "end": 118.64,
+          "probability": 0.6727835536003113
+        },
+        {
+          "word": " ağaçların",
+          "start": 118.82,
+          "end": 119.32,
+          "probability": 0.9898033738136292
+        },
+        {
+          "word": " arasından",
+          "start": 119.32,
+          "end": 119.84,
+          "probability": 0.9790125886599222
+        },
+        {
+          "word": " geçen",
+          "start": 119.84,
+          "end": 120.18,
+          "probability": 0.9991434812545776
+        },
+        {
+          "word": " akarsu",
+          "start": 120.18,
+          "end": 120.62,
+          "probability": 0.9153199593226115
+        },
+        {
+          "word": " da",
+          "start": 120.62,
+          "end": 120.76,
+          "probability": 0.9621150493621826
+        },
+        {
+          "word": " ilerliyor.",
+          "start": 120.76,
+          "end": 121.16,
+          "probability": 0.999159574508667
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 10912,
+      "start": 121.44,
+      "end": 128.62,
+      "text": " Rehlerin gösterdiği yerlerin sınırları, aralarındaki mesafeler ve yolların tam güzergahı bu görüntülerden çıkarılamaz.",
+      "tokens": [
+        50975,
+        1300,
+        71,
+        22417,
+        40968,
+        4504,
+        12498,
+        12954,
+        22417,
+        262,
+        2263,
+        3702,
+        10197,
+        11,
+        594,
+        12031,
+        47028,
+        3813,
+        2792,
+        6185,
+        1241,
+        288,
+        30486,
+        2263,
+        7677,
+        18148,
+        4527,
+        70,
+        545,
+        699,
+        758,
+        8362,
+        774,
+        580,
+        29297,
+        1556,
+        41097,
+        5492,
+        30148,
+        13,
+        51349
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Rehlerin",
+          "start": 121.44,
+          "end": 121.86,
+          "probability": 0.9814967115720113
+        },
+        {
+          "word": " gösterdiği",
+          "start": 121.86,
+          "end": 122.54,
+          "probability": 0.9976539214452108
+        },
+        {
+          "word": " yerlerin",
+          "start": 122.54,
+          "end": 122.94,
+          "probability": 0.986228346824646
+        },
+        {
+          "word": " sınırları,",
+          "start": 122.94,
+          "end": 123.6,
+          "probability": 0.9981834888458252
+        },
+        {
+          "word": " aralarındaki",
+          "start": 123.86,
+          "end": 124.36,
+          "probability": 0.9848688840866089
+        },
+        {
+          "word": " mesafeler",
+          "start": 124.36,
+          "end": 125.02,
+          "probability": 0.9949295322100321
+        },
+        {
+          "word": " ve",
+          "start": 125.02,
+          "end": 125.42,
+          "probability": 0.9812900424003601
+        },
+        {
+          "word": " yolların",
+          "start": 125.42,
+          "end": 126.04,
+          "probability": 0.9705626765886942
+        },
+        {
+          "word": " tam",
+          "start": 126.04,
+          "end": 126.22,
+          "probability": 0.9967963099479675
+        },
+        {
+          "word": " güzergahı",
+          "start": 126.22,
+          "end": 127.1,
+          "probability": 0.9144945025444031
+        },
+        {
+          "word": " bu",
+          "start": 127.1,
+          "end": 127.28,
+          "probability": 0.8906739950180054
+        },
+        {
+          "word": " görüntülerden",
+          "start": 127.28,
+          "end": 127.94,
+          "probability": 0.9968391418457031
+        },
+        {
+          "word": " çıkarılamaz.",
+          "start": 127.94,
+          "end": 128.62,
+          "probability": 0.8600393335024515
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 10912,
+      "start": 128.98,
+      "end": 131.72,
+      "text": " Ama resmi kareler şimdiden bir şeyi anlatıyor.",
+      "tokens": [
+        51349,
+        14171,
+        725,
+        3057,
+        350,
+        543,
+        1918,
+        3382,
+        332,
+        67,
+        4380,
+        1904,
+        31735,
+        27691,
+        7618,
+        13,
+        51495
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Ama",
+          "start": 128.98,
+          "end": 129.14,
+          "probability": 0.9748867750167847
+        },
+        {
+          "word": " resmi",
+          "start": 129.14,
+          "end": 129.58,
+          "probability": 0.9794309139251709
+        },
+        {
+          "word": " kareler",
+          "start": 129.58,
+          "end": 130.16,
+          "probability": 0.9588699142138163
+        },
+        {
+          "word": " şimdiden",
+          "start": 130.16,
+          "end": 130.62,
+          "probability": 0.9889642596244812
+        },
+        {
+          "word": " bir",
+          "start": 130.62,
+          "end": 130.84,
+          "probability": 0.9915814995765686
+        },
+        {
+          "word": " şeyi",
+          "start": 130.84,
+          "end": 130.96,
+          "probability": 0.7051642537117004
+        },
+        {
+          "word": " anlatıyor.",
+          "start": 130.96,
+          "end": 131.72,
+          "probability": 0.998523622751236
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 10912,
+      "start": 131.94,
+      "end": 135.78,
+      "text": " Vice City'nin ışıklarından uzaklaştıkça Leonida'nın ritmi değişiyor.",
+      "tokens": [
+        51495,
+        13276,
+        4392,
+        6,
+        22955,
+        220,
+        4951,
+        4157,
+        2200,
+        16293,
+        16851,
+        514,
+        16803,
+        83,
+        4157,
+        5297,
+        13244,
+        2887,
+        6,
+        33484,
+        11289,
+        3057,
+        30435,
+        8436,
+        13,
+        51705
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.11236916290470428,
+      "compression_ratio": 1.5508196721311476,
+      "no_speech_prob": 0.09425268322229385,
+      "words": [
+        {
+          "word": " Vice",
+          "start": 131.94,
+          "end": 132.12,
+          "probability": 0.7495206594467163
+        },
+        {
+          "word": " City",
+          "start": 132.12,
+          "end": 132.34,
+          "probability": 0.9710885882377625
+        },
+        {
+          "word": "'nin",
+          "start": 132.34,
+          "end": 132.5,
+          "probability": 0.9867493212223053
+        },
+        {
+          "word": " ışıklarından",
+          "start": 132.5,
+          "end": 133.18,
+          "probability": 0.9949300169944764
+        },
+        {
+          "word": " uzaklaştıkça",
+          "start": 133.18,
+          "end": 134.26,
+          "probability": 0.9961120088895162
+        },
+        {
+          "word": " Leonida",
+          "start": 134.26,
+          "end": 134.74,
+          "probability": 0.6632460057735443
+        },
+        {
+          "word": "'nın",
+          "start": 134.74,
+          "end": 134.9,
+          "probability": 0.9922350347042084
+        },
+        {
+          "word": " ritmi",
+          "start": 134.9,
+          "end": 135.26,
+          "probability": 0.9971838295459747
+        },
+        {
+          "word": " değişiyor.",
+          "start": 135.26,
+          "end": 135.78,
+          "probability": 0.998240053653717
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 13578,
+      "start": 135.78,
+      "end": 140.5,
+      "text": " Bir sonraki manzara da denizin dibine, bir sonraki de ormanın içine bakıyoruz.",
+      "tokens": [
+        50374,
+        7145,
+        13800,
+        2984,
+        587,
+        89,
+        2419,
+        1120,
+        1441,
+        36367,
+        23064,
+        533,
+        11,
+        1904,
+        13800,
+        2984,
+        368,
+        420,
+        1601,
+        2263,
+        6058,
+        533,
+        5657,
+        24459,
+        13,
+        50609
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2730864772090205,
+      "compression_ratio": 1.051948051948052,
+      "no_speech_prob": 0.013839184306561947,
+      "words": [
+        {
+          "word": " Bir",
+          "start": 135.78,
+          "end": 136.26,
+          "probability": 0.6783338785171509
+        },
+        {
+          "word": " sonraki",
+          "start": 136.26,
+          "end": 136.64,
+          "probability": 0.9873624742031097
+        },
+        {
+          "word": " manzara",
+          "start": 136.64,
+          "end": 137.06,
+          "probability": 0.8461968104044596
+        },
+        {
+          "word": " da",
+          "start": 137.06,
+          "end": 137.2,
+          "probability": 0.9752799272537231
+        },
+        {
+          "word": " denizin",
+          "start": 137.2,
+          "end": 137.56,
+          "probability": 0.9821946620941162
+        },
+        {
+          "word": " dibine,",
+          "start": 137.56,
+          "end": 138.14,
+          "probability": 0.996138721704483
+        },
+        {
+          "word": " bir",
+          "start": 138.34,
+          "end": 138.48,
+          "probability": 0.9280534982681274
+        },
+        {
+          "word": " sonraki",
+          "start": 138.48,
+          "end": 138.92,
+          "probability": 0.8428946733474731
+        },
+        {
+          "word": " de",
+          "start": 138.92,
+          "end": 139.2,
+          "probability": 0.4508289694786072
+        },
+        {
+          "word": " ormanın",
+          "start": 139.2,
+          "end": 139.76,
+          "probability": 0.9954074025154114
+        },
+        {
+          "word": " içine",
+          "start": 139.76,
+          "end": 140.0,
+          "probability": 0.9962838292121887
+        },
+        {
+          "word": " bakıyoruz.",
+          "start": 140.0,
+          "end": 140.5,
+          "probability": 0.9969090521335602
+        }
+      ]
+    }
+  ],
+  "language": "tr",
+  "_provenance": {
+    "model": "medium",
+    "language": "tr",
+    "word_timestamps": true,
+    "device": "cpu",
+    "implementation": "openai-whisper",
+    "whisper_version": "20250625",
+    "audio_sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d",
+    "duration": 140.709646,
+    "initial_prompt": "GTA altı, Vice City, Leonida, Jason, Lucia, Ocean Beach, Little Cuba, Tisha-Wocka, VC Port, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Allied Crystal, Mount Kalaga.",
+    "created_at": "2026-11-18T09:21:03.627852+00:00"
+  }
+}

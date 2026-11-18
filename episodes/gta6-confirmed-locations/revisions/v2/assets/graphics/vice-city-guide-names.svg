@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title">
+  <title id="title">Vice City addresses listed by Rockstar Games</title>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#110f14"/>
+      <stop offset=".54" stop-color="#17131a"/>
+      <stop offset="1" stop-color="#211720"/>
+    </linearGradient>
+    <radialGradient id="skyglow" cx="100%" cy="4%" r="83%">
+      <stop stop-color="#79504d" stop-opacity=".36"/>
+      <stop offset=".48" stop-color="#533744" stop-opacity=".31"/>
+      <stop offset="1" stop-color="#261c23" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#base)"/>
+  <rect width="1920" height="1080" fill="url(#skyglow)"/>
+  <g font-family="Avenir Next, Century Gothic, Arial, sans-serif" font-weight="600" fill="#fff4e9">
+    <text x="111" y="321" font-size="128" font-weight="700" letter-spacing="-7">Vice City</text>
+    <g font-size="67" letter-spacing="-2">
+      <text x="121" y="525">Ocean Beach</text>
+      <text x="853" y="525">Little Cuba</text>
+      <text x="121" y="644">Tisha-Wocka</text>
+      <text x="853" y="644">VC Port</text>
+    </g>
+    <text x="122" y="901" font-size="25" letter-spacing="3.2" fill="#e5b29c">ROCKSTAR GAMES · ONLY IN LEONIDA</text>
+  </g>
+</svg>

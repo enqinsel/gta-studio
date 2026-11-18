@@ -1,0 +1,34 @@
+{
+  "rests": [
+    {
+      "atFrame": 390,
+      "frames": 24,
+      "purpose": "Altı bölgenin adlarını okumak için rehber kartına süre tanır."
+    },
+    {
+      "atFrame": 1158,
+      "frames": 27,
+      "purpose": "Vice City’den adalara geçmeden önce kent planını tutar."
+    },
+    {
+      "atFrame": 2068,
+      "frames": 24,
+      "purpose": "Sulak alandan Port Gellhorn’a geçişi ayırır."
+    },
+    {
+      "atFrame": 3092,
+      "frames": 27,
+      "purpose": "Sanayi bölgesinden ulusal parka geçişi ayırır."
+    },
+    {
+      "atFrame": 3862,
+      "frames": 24,
+      "purpose": "Konum adları ile coğrafi ölçüler arasındaki ayrımı okuma payı verir."
+    }
+  ],
+  "closingFrames": 66,
+  "outro": {
+    "assetId": "vice-city-22",
+    "nextTitle": "GTA 6 ve GTA 5 · Neler değişti?"
+  }
+}

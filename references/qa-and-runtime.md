@@ -1,0 +1,46 @@
+# Rendering, QA, Mac resource safety and delivery
+
+## Renderer sources
+Reuse intelligently from Bay Referee: local FFmpeg/ffprobe handling, HyperFrames deterministic absolute-time composition, GSAP motion, Sharp image manipulation, episode schema ideas, asset provenance, runtime diagnostics, Whisper adapter and quality checks. New GTA code must accept 1920×1080 layouts and genuine variable-length scenes; old vertical safe-zone/caption/avatar QA assumptions are **invalid**. Test the currently installed package versions and CLI commands; do not assume API compatibility from old docs.
+
+## Cross-project Mac mini M4/16GB guard — not optional
+Bay Referee has `scripts/heavy-job.py` and `engine/runtime/heavy_job.py`, with a stable POSIX `flock` under `/private/tmp/bay-referee-heavy-<uid>.lock` on macOS. If adapting, preserve the **same lock path across both repositories** (or a proven shared compatible guard) so concurrent Codex sessions in different repos do not both start heavy work. Never unlink lock files, bypass busy state, race two Whisper processes, or launch FFmpeg and render concurrently. Every heavy subprocess and child should complete before the next starts. Lightweight source research/JSON edits can proceed independently.
+
+Keep **Whisper medium** and 1920×1080/30fps production quality. Don't reduce quality to fit memory; serialize jobs and use supported intermediate disk caches. Use the wrapper for custom render, ffmpeg decode/encode, transcription, heavy Python/AI jobs. If guarded execution fails because process inspection is denied, preserve failure and rerun through authorized execution scope; no unguarded fallback.
+
+## Pilot media and editorial preflight
+Before generating the final narration, require a `claim-to-media` table with actual local files/timecodes and explicit unusable/gap markers. If the official clips cover only a few beats, refine the narrative to those proven subjects. When the final timeline is compiled, check for repeated media in unrelated sections, visually inert passages, motion without explanatory purpose, subtle critical details cropped out, and mismatched narration vs images. Choose shot lengths based on the evidence and editorial rhythm.
+
+## Minimal machine QA gates
+- `MEDIA_EXISTS`: actual files at declared paths; no fake completion, no failed/unfinished Higgsfield URL counted as local media.
+- `FACT_SOURCE`: every claim in the final spoken script has a valid listed source/observation and uncertainty labeling; no unsupported gameplay feature or fake confirmed location.
+- `MEDIA_PROVENANCE`: every used video/still references original source, timecode, real vs generated classification, hash where possible, and `APPROVED`/`REVIEW`/`RESTRICTED` state. `RESTRICTED` cannot appear; `REVIEW` is private-cut only.
+- `AUDIO_WORD_AUTHORITY`: the final WAV hash matches the Whisper run for the recorded language and its storyboard alignment. Check speech completeness, first and last sentences, levels, silence and musical cues.
+- `TIMELINE`: total video duration follows audio and intentional visually warranted pauses; zero missing assets, black/error frames, freeze placeholders, awkward jump/cut, label over critical evidence or excessive repetitive stills.
+- `SOURCE CUT`: inspect a full frame strip across any disputed cut in the export and the corresponding source region. Mark internal source scene changes, the exact visible action duration and the new in/out. Preserve intended fast cuts and judge the action and neighboring evidence at 1×.
+- `TECHNICAL`: ffprobe confirms intended 1920×1080/30fps landscape H.264/AAC; playable from first to last frame, complete audio mux, sane peak/headroom, no clipping, full decode success.
+- `VISUAL`: inspect representative frames, cut boundaries and full 1× playback, including map details/comparisons, caption optionality, restrained typography, and cover readability at mobile size.
+- `MOTION`: inspect before/after frames at named-item cues, the first frame of each selected transition, and the logo's settled tail. Verify cue frames against the adjusted Whisper clock. Check that title and logo visibility follow their planned reveal and the source framing remains consistent.
+- `SOUND`: verify original or cleared score hashes, exact transition and logo cue placement, cleaned video-only master, and separate voice and sound levels. Inspect the audible cut separately when listening is available. Check that the standalone outro uses the same score, marks and frame clock.
+- `LOUDNESS`: measure narration and individual SFX/score levels and the decoded final AAC. Use roughly −16 to −14 LUFS-I and ≤ −1 dBTP as reference points. Check each cue at its actual timeline window against voice, add music ducking where speech overlaps and record how it was verified. Record headphones and laptop speaker 1× listening independently. Leave unavailable listening pending.
+- `SUBTITLES`: Validate each SRT independently against the exact final WAV and check the paired MP3 playback clock. Preserve the approved source subtitle file alongside any publishing derivative.
+- `DELIVERY`: include video, true cover file, SRT, audio authority, source manifest, factual claim log, short technical QA summary and rights-review list.
+
+`READY_TECHNICAL` means measured local technical checks pass, not that the user has seen, approved, copyrighted, cleared or uploaded the video. If any imported media remains uncertain, use `RIGHTS_REVIEW` explicitly even if MP4 is technically perfect. Do not claim machine checks establish legal fair use.
+
+## Publication package QA
+
+- Verify that `03_video/` contains exactly one English-audio publication MP4. Compare its picture stream with the frozen clean source and match its AAC stream to the approved English WAV and its time alignment. Verify the archived source hashes and the TR caption copy’s SHA-256. Confirm the selected revision and V4 archive preservation in the delivery record. Read `07_assets/provenance.json` to resolve source paths.
+- For each audio language, probe the final WAV and decoded MP3 at the locked picture duration and verify start, channels, sample rate, peak and integrated loudness. Check full scene coverage, no extra leading or trailing speech, matching music/effects cue windows and actual word anchors. Preserve native phrase tempo and test recovered pickups at the scene where they were placed. Mark any language with no valid full mix or subtitle as pending, and list the precise blocker.
+- Tie the language's final SRT and verified word map to the hash of the exact final WAV analyzed by Whisper medium. Check SRT ordering, text, timing and endpoints against final speech. Verify MP3 decoder delay and padding against the aligned WAV. Save both mapped and unmatched evidence. Serial model runs belong under the shared guard.
+- Verify the original video language and default title, description and cover are English. Check all four languages for natural search phrasing and accurate claims. Public descriptions contain episode content, useful chapter timestamps and matching hashtags. Check that sources, any links and language options are documented internally and that `06_social/youtube-tags.txt` is the sole Studio tag list, covers all four languages and uses at most 500 characters under YouTube's counting rule.
+- Verify that `05_cover/` contains exactly four final 1280×720 PNGs, one per language, and that `thumbnail-en-1280x720.png` is the default. Test each localized graphic at phone size. Verify cover provenance and rights separately from image quality.
+- Keep `08_delivery/` machine-readable QA, file hashes with actual paths, a short outcome report and separate language-level listening and rights status. Record headphones and laptop speaker 1× listening only when actually conducted. Measurements, automated transcript alignment and muted playback establish different facts and leave unavailable listening pending. The package remains local until separate publishing authorization and rights clearance.
+
+Run `python3 scripts/verify-publishing.py videolar/<slug>` to verify the archived source hashes, single English MP4, WAV/MP3 lengths, SRT structure, cover dimensions and final Whisper WAV provenance. Reconcile the generated manifest with the human listening and rights records.
+
+## Suggested one-line report
+`EP01 | video=<existing path> | 1920x1080 30fps | duration=measured | EN original=Engin/elevenlabs_v4 | TR/ES/DE tracks=PASS/FAIL | SRT EN/TR/ES/DE=PASS/FAIL | rights=APPROVED/REVIEW | thumbnail=<existing path> | user-review=PENDING`
+
+## Privacy/publication
+Do not commit account tokens, secret URLs, unlicensed raw libraries or user's private voice media to GitHub. Do not auto-publish to YouTube. Actual rights decisions and final title/thumbnail approval can occur after generating the **private** review cut as the user requested; do not omit source tracking up front because of that. Archive revisions rather than mutating earlier approved exports.

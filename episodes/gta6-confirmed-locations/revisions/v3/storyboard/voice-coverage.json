@@ -1,0 +1,255 @@
+{
+  "status": "PASS",
+  "review_notes": "Yerel Rockstar ekran görüntüleri kaynak notlarındaki görsel kanıtla ve kayıt SHA-256 değerleriyle eşleşiyor. Alt yer adları Rockstar konum metninden geliyor ve kurgu listesinde ayrı kaynak kartıyla gösterilecek.",
+  "script_sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c",
+  "sections": [
+    {
+      "section_id": "intro",
+      "claim_ids": [
+        "world-leonida",
+        "guide-six"
+      ],
+      "sources": [
+        {
+          "id": "vice-city-01",
+          "path": "assets/images/vice-city-01.jpg",
+          "sha256": "6cf14b23ae2c205799067464904f8c9dc99f87935632ef6924b87f59af7a6225",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "leonida-keys-01",
+          "path": "assets/images/leonida-keys-01.jpg",
+          "sha256": "90bb51136148ee7c4c44750e54fb77cf1cb9790c584e904e0c5839094769e2e1",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "mount-kalaga-02",
+          "path": "assets/images/mount-kalaga-02.jpg",
+          "sha256": "828ad45819b4121f3a341b25cbc93cd6595099eb2d53068d1cef4f1853ab38d4",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "vice-city",
+      "claim_ids": [
+        "vice-city-guide",
+        "vice-city-beach-and-skyline"
+      ],
+      "sources": [
+        {
+          "id": "vice-city-05",
+          "path": "assets/images/vice-city-05.jpg",
+          "sha256": "8fd0b3af06d6a2b9242f4775f0e979d55f43e16d0f450d7faedfdec877d15f46",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "vice-city-08",
+          "path": "assets/images/vice-city-08.jpg",
+          "sha256": "41c707910e15c7d2ffc50c5977bacce83c5f04f795c895cc039c16cb5c7cb7b8",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "vice-city-01",
+          "path": "assets/images/vice-city-01.jpg",
+          "sha256": "6cf14b23ae2c205799067464904f8c9dc99f87935632ef6924b87f59af7a6225",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "leonida-keys",
+      "claim_ids": [
+        "keys-archipelago",
+        "keys-water"
+      ],
+      "sources": [
+        {
+          "id": "leonida-keys-01",
+          "path": "assets/images/leonida-keys-01.jpg",
+          "sha256": "90bb51136148ee7c4c44750e54fb77cf1cb9790c584e904e0c5839094769e2e1",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "leonida-keys-03",
+          "path": "assets/images/leonida-keys-03.jpg",
+          "sha256": "f5cdaa8ccf1d74ba3011ac82aac2cb63dda342d6c5caabeedd54f18f84ac55d1",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "leonida-keys-04",
+          "path": "assets/images/leonida-keys-04.jpg",
+          "sha256": "800b091c1c69e2885c71d7278aac0fae9f1284c6bdedf6e08a5dbab298c9e0c3",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "grassrivers",
+      "claim_ids": [
+        "grassrivers-wetlands",
+        "grassrivers-airboat"
+      ],
+      "sources": [
+        {
+          "id": "grassrivers-02",
+          "path": "assets/images/grassrivers-02.jpg",
+          "sha256": "89574ed17bfc0c6aaae59c25813644c2bcfad2b777739ecb855b23692b841858",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "grassrivers-03",
+          "path": "assets/images/grassrivers-03.jpg",
+          "sha256": "8120c16f300f27500fca1360d561c69c9185bd8a3611d9258bf7b7e90517b79d",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "grassrivers-04",
+          "path": "assets/images/grassrivers-04.jpg",
+          "sha256": "c3585cf30edfe1760390eb0e2127fba9547f1341a8dc28a58af0ca279910d1c1",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "port-gellhorn",
+      "claim_ids": [
+        "gellhorn-resort",
+        "gellhorn-visual"
+      ],
+      "sources": [
+        {
+          "id": "port-gellhorn-01",
+          "path": "assets/images/port-gellhorn-01.jpg",
+          "sha256": "7775f041a852069d43e357d112d1715f471adc4c4346337e79aa33a7940a8425",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "port-gellhorn-04",
+          "path": "assets/images/port-gellhorn-04.jpg",
+          "sha256": "47f3dbb0631c6072665b67f9d035e3bd4693b320a76dd6fe801102d1ef2e0050",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "port-gellhorn-05",
+          "path": "assets/images/port-gellhorn-05.jpg",
+          "sha256": "eb417596cf53c6a13b89fc3e0845a08b25d6997530a0774b43beebf287208561",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "ambrosia",
+      "claim_ids": [
+        "ambrosia-refinery",
+        "ambrosia-visual"
+      ],
+      "sources": [
+        {
+          "id": "ambrosia-02",
+          "path": "assets/images/ambrosia-02.jpg",
+          "sha256": "b1804c192c61277e083b57677fe9b7520e59dc30aaf86c3b77305e3bdde872c7",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "ambrosia-04",
+          "path": "assets/images/ambrosia-04.jpg",
+          "sha256": "b261c794035d85579ac85c769c8e8aeecaa1b6190a70dcb572dbe7184663c429",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "ambrosia-01",
+          "path": "assets/images/ambrosia-01.jpg",
+          "sha256": "a5b0d185aa5de42d7492220119254b136efb05ea75212cac46730a9fbd862769",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "mount-kalaga",
+      "claim_ids": [
+        "kalaga-border",
+        "kalaga-trails"
+      ],
+      "sources": [
+        {
+          "id": "mount-kalaga-02",
+          "path": "assets/images/mount-kalaga-02.jpg",
+          "sha256": "828ad45819b4121f3a341b25cbc93cd6595099eb2d53068d1cef4f1853ab38d4",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "mount-kalaga-04",
+          "path": "assets/images/mount-kalaga-04.jpg",
+          "sha256": "2b973cf17237cec6f6729ea939f15bc9b8f056eab12598be79b0bd5201187679",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "mount-kalaga-01",
+          "path": "assets/images/mount-kalaga-01.jpg",
+          "sha256": "6f06847e2173385df416ef162e1dfbb9f6270bfcc7bf0e080f02a4803d7473b3",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "mount-kalaga-06",
+          "path": "assets/images/mount-kalaga-06.jpg",
+          "sha256": "290b5eb17a45ab4c8c318fb173e6c400bf0e80a74b529591da554d214fddd32a",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "section_id": "limits",
+      "claim_ids": [
+        "guide-six",
+        "map-scope",
+        "world-geographic-variety"
+      ],
+      "sources": [
+        {
+          "id": "vice-city-08",
+          "path": "assets/images/vice-city-08.jpg",
+          "sha256": "41c707910e15c7d2ffc50c5977bacce83c5f04f795c895cc039c16cb5c7cb7b8",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "leonida-keys-04",
+          "path": "assets/images/leonida-keys-04.jpg",
+          "sha256": "800b091c1c69e2885c71d7278aac0fae9f1284c6bdedf6e08a5dbab298c9e0c3",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        },
+        {
+          "id": "mount-kalaga-02",
+          "path": "assets/images/mount-kalaga-02.jpg",
+          "sha256": "828ad45819b4121f3a341b25cbc93cd6595099eb2d53068d1cef4f1853ab38d4",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "rights_status": "REVIEW"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "rests": [
+    {
+      "atFrame": 390,
+      "frames": 24,
+      "purpose": "Altı bölgenin adlarını okumak için rehber kartına süre tanır."
+    },
+    {
+      "atFrame": 1158,
+      "frames": 27,
+      "purpose": "Vice City’den adalara geçmeden önce kent planını tutar."
+    },
+    {
+      "atFrame": 2068,
+      "frames": 24,
+      "purpose": "Sulak alandan Port Gellhorn’a geçişi ayırır."
+    },
+    {
+      "atFrame": 3092,
+      "frames": 27,
+      "purpose": "Sanayi bölgesinden ulusal parka geçişi ayırır."
+    },
+    {
+      "atFrame": 3862,
+      "frames": 24,
+      "purpose": "Konum adları ile coğrafi ölçüler arasındaki ayrımı okuma payı verir."
+    }
+  ],
+  "closingFrames": 66,
+  "transitions": [
+    {
+      "sectionId": "leonida-keys",
+      "style": "dissolve",
+      "frames": 15,
+      "sound": {
+        "path": "assets/audio/deepframe-water-air.wav",
+        "sha256": "eb45d4f9a3164515e53c5eb9897b845d53fc81f52b133c5564c98ac6819f50b1",
+        "offsetFrames": -10,
+        "gainDb": 0
+      }
+    },
+    {
+      "sectionId": "port-gellhorn",
+      "style": "cut",
+      "sound": {
+        "path": "assets/audio/deepframe-soft-arrival.wav",
+        "sha256": "dd03767c787a04609faf6d6d87c7a7c9e2ef7b2c1791d6e3b1271fe3e9b7dc4b",
+        "offsetFrames": -8,
+        "gainDb": -2
+      }
+    },
+    {
+      "sectionId": "mount-kalaga",
+      "style": "focus",
+      "frames": 14,
+      "sound": {
+        "path": "assets/audio/deepframe-summit-air.wav",
+        "sha256": "ef0438a03067be681c63f0488dc1c943b284e203a14c302dffb5b0716814d67d",
+        "offsetFrames": -14,
+        "gainDb": 0
+      }
+    }
+  ],
+  "outro": {
+    "identityAt": 134,
+    "matte": 108,
+    "shots": [
+      {
+        "assetId": "deepframe-leonida-coast",
+        "frames": 41,
+        "sourceIn": 0
+      },
+      {
+        "assetId": "deepframe-vice-city-sunset",
+        "frames": 77,
+        "sourceIn": 0
+      },
+      {
+        "assetId": "vice-city-27",
+        "frames": 85,
+        "push": 1.025
+      }
+    ],
+    "music": {
+      "path": "assets/audio/deepframe-outro-score.wav",
+      "sha256": "96d7ebd59350e4cb086ae4e8b3ba10e31cf4e5115cf045be979a12ead3fe27a0",
+      "gainDb": 0
+    }
+  }
+}

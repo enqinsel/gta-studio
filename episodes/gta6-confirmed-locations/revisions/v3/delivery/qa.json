@@ -1,0 +1,227 @@
+{
+  "status": "RIGHTS_REVIEW",
+  "technical": {
+    "status": "PASS",
+    "duration": 153.9,
+    "frames": 4617,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "codec": "h264",
+    "audio": "aac",
+    "full_decode": true,
+    "black_intervals": [],
+    "peak_dbfs": -9.9,
+    "mean_dbfs": -24.8
+  },
+  "fact_and_media": "PASS_MACHINE_LINKS",
+  "audio_sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d",
+  "outro": {
+    "duration": 6.766667,
+    "frames": 203,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "codec": "h264",
+    "audio": "aac"
+  },
+  "subtitles": {
+    "status": "PASS_MACHINE",
+    "timing": "PASS_MACHINE",
+    "coverage": 1,
+    "alignment": "PASS",
+    "end": 144.7,
+    "cues": 38,
+    "same_as_v2": true
+  },
+  "visual_and_listening_review": {
+    "visual": "PASS_TIMED_CARD_AND_TRANSITION_SAMPLES",
+    "representative_shots": 30,
+    "cut_boundaries": 29,
+    "playback": {
+      "status": "PASS",
+      "mode": "local Chrome muted",
+      "duration": 153.9,
+      "currentTime": 153.9,
+      "rate": 1,
+      "frameWidth": 1920,
+      "frameHeight": 1080,
+      "totalFrames": 4617,
+      "droppedFrames": 0,
+      "waits": [],
+      "wallSeconds": 153.947
+    },
+    "pronunciation_and_mix_listening": "PENDING"
+  },
+  "rights_review_asset_ids": [
+    "vice-city-27",
+    "trailer-1-jason-lucia",
+    "vice-city-15",
+    "trailer-1-vice-city-beach",
+    "vice-city-08",
+    "vice-city-09",
+    "leonida-keys-01",
+    "leonida-keys-04",
+    "grassrivers-05",
+    "grassrivers-03",
+    "grassrivers-04",
+    "port-gellhorn-06",
+    "port-gellhorn-01",
+    "port-gellhorn-04",
+    "ambrosia-02",
+    "ambrosia-04",
+    "ambrosia-01",
+    "mount-kalaga-02",
+    "mount-kalaga-04",
+    "mount-kalaga-01",
+    "mount-kalaga-06",
+    "vice-city-10",
+    "leonida-keys-07",
+    "mount-kalaga-05",
+    "deepframe-leonida-coast",
+    "deepframe-vice-city-sunset"
+  ],
+  "motion": {
+    "cards": [
+      {
+        "name": "LEONIDA",
+        "cues": [
+          {
+            "label": "Vice City",
+            "frame": 301,
+            "time": 10.033333333333333
+          },
+          {
+            "label": "Leonida Keys",
+            "frame": 304,
+            "time": 10.133333333333333
+          },
+          {
+            "label": "Grassrivers",
+            "frame": 307,
+            "time": 10.233333333333333
+          },
+          {
+            "label": "Port Gellhorn",
+            "frame": 344,
+            "time": 11.466666666666667
+          },
+          {
+            "label": "Ambrosia",
+            "frame": 347,
+            "time": 11.566666666666666
+          },
+          {
+            "label": "Mount Kalaga",
+            "frame": 350,
+            "time": 11.666666666666666
+          }
+        ]
+      },
+      {
+        "name": "Vice City",
+        "cues": [
+          {
+            "label": "Ocean Beach",
+            "frame": 862,
+            "time": 28.733333333333334
+          },
+          {
+            "label": "Little Cuba",
+            "frame": 910,
+            "time": 30.333333333333332
+          },
+          {
+            "label": "Tisha-Wocka",
+            "frame": 944,
+            "time": 31.466666666666665
+          },
+          {
+            "label": "VC Port",
+            "frame": 1022,
+            "time": 34.06666666666667
+          }
+        ]
+      },
+      {
+        "name": "Rehberin kapsamı",
+        "cues": [
+          {
+            "label": "6 ana bölge",
+            "frame": 3745,
+            "time": 124.83333333333333
+          },
+          {
+            "label": "Sınırlar, mesafeler",
+            "frame": 3778,
+            "time": 125.93333333333334
+          }
+        ]
+      }
+    ],
+    "vice_city_first_spoken_word_mapping": "PASS",
+    "transitions": [
+      {
+        "sectionId": "leonida-keys",
+        "startFrame": 1218,
+        "style": "dissolve",
+        "frames": 15
+      },
+      {
+        "sectionId": "port-gellhorn",
+        "startFrame": 2150,
+        "style": "cut",
+        "frames": 0
+      },
+      {
+        "sectionId": "mount-kalaga",
+        "startFrame": 3203,
+        "style": "focus",
+        "frames": 14
+      }
+    ],
+    "outro": {
+      "logo_frame": 134,
+      "frames": 203,
+      "matte_pixels": 108,
+      "independent_build": "PASS"
+    }
+  },
+  "audio_edit": {
+    "status": "PASS_WAVEFORM_SAMPLE_ALIGNMENT",
+    "comparison": [
+      {
+        "source_frame": 244,
+        "added_frames": 0,
+        "correlation": 0.99987
+      },
+      {
+        "source_frame": 620,
+        "added_frames": 24,
+        "correlation": 0.99999
+      },
+      {
+        "source_frame": 1444,
+        "added_frames": 51,
+        "correlation": 0.99999
+      },
+      {
+        "source_frame": 2242,
+        "added_frames": 75,
+        "correlation": 0.99999
+      },
+      {
+        "source_frame": 3672,
+        "added_frames": 102,
+        "correlation": 0.99999
+      },
+      {
+        "source_frame": 4029,
+        "added_frames": 126,
+        "correlation": 0.99968
+      }
+    ],
+    "stereo": true,
+    "verified_transition_cues": 3
+  }
+}

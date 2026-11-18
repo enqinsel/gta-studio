@@ -1,0 +1,72 @@
+[
+  {
+    "id": "compare-world",
+    "status": "unknown",
+    "category": "Dünya ve kent dokusu",
+    "question": "Serbest dolaşımda merkez, kıyı ve kırsal çevre örneklerinde arazi geçişi, trafik ve yaya yoğunluğu nasıl görünüyor?",
+    "required_evidence": "Aynı koşullarda kent merkezi ve kent dışı çekimler; varsa ayrı ölçek ölçümü için tanımlı uç noktalar ve birimler.",
+    "pair": {
+      "gtav": null,
+      "gtavi": null,
+      "parity_notes": null
+    },
+    "sources": [],
+    "finding": null
+  },
+  {
+    "id": "compare-npc",
+    "status": "unknown",
+    "category": "Yayaların tepkileri",
+    "question": "Benzer olaylarda hangi yaya tepkileri kaydedilebiliyor, ne sıklıkta?",
+    "required_evidence": "Benzer NPC ve koşullar, aynı tanımlı olayın birkaç kesintisiz tekrarı.",
+    "pair": {
+      "gtav": null,
+      "gtavi": null,
+      "parity_notes": null
+    },
+    "sources": [],
+    "finding": null
+  },
+  {
+    "id": "compare-visuals",
+    "status": "unknown",
+    "category": "Işık, animasyon ve görüntü modu",
+    "question": "Benzer gece ve gündüz sahnelerinde hangi farklar gözlemlenebiliyor veya ölçülebiliyor?",
+    "required_evidence": "Aynı konsol modeli, benzer kamera, hava ve çıktı; grafik modu ile orijinal kayıt özellikleri.",
+    "pair": {
+      "gtav": null,
+      "gtavi": null,
+      "parity_notes": null
+    },
+    "sources": [],
+    "finding": null
+  },
+  {
+    "id": "compare-systems",
+    "status": "unknown",
+    "category": "Görevler, polis ve araçlar",
+    "question": "Benzer oyun içi durumlarda gözlemlenebilir görev geçişleri ve araç tepkileri nasıl değişiyor?",
+    "required_evidence": "Eşleştirilmiş görev/serbest dolaşım koşulu, aynı araç sınıfı ve kesintisiz oyun kaydı.",
+    "pair": {
+      "gtav": null,
+      "gtavi": null,
+      "parity_notes": null
+    },
+    "sources": [],
+    "finding": null
+  },
+  {
+    "id": "compare-immersion",
+    "status": "unknown",
+    "category": "Çevre ve etkileşim ayrıntıları",
+    "question": "İki oyunda erişilebilen benzer ortamlarda hangi ayrıntılar gözlemleniyor?",
+    "required_evidence": "Benzer ortam ve erişim koşullarında en az iki seçili örnek; etkileşim ile dekor ayrımı.",
+    "pair": {
+      "gtav": null,
+      "gtavi": null,
+      "parity_notes": null
+    },
+    "sources": [],
+    "finding": null
+  }
+]

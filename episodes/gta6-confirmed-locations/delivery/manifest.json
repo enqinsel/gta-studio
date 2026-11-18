@@ -1,0 +1,104 @@
+{
+  "status": "RIGHTS_REVIEW",
+  "files": [
+    {
+      "path": "render/review-tr.mp4",
+      "sha256": "0a03dc08883c1d158b9d70b59a178d8cabd854468fa71ac31e87fc14fc9c7c5e"
+    },
+    {
+      "path": "render/master-clean-1920x1080.mp4",
+      "sha256": "744f45a8c0ba9271fa431fea3c3bc69fc8da81aba29fe0edf7a0cd2aa5642141"
+    },
+    {
+      "path": "captions/tr.srt",
+      "sha256": "504af91b03eca76eb07cbc5ef9f37715a7624c140362de8c44f34d43aaeb7dea"
+    },
+    {
+      "path": "covers/thumbnail-1280x720.png",
+      "sha256": "410e0bfabbcfcee53a5f0f3c8766ce4f5d68207943aad97c587377484b88ed0d"
+    },
+    {
+      "path": "covers/art-master-1920x1080.png",
+      "sha256": "41c4d71b23760bc7349a726ddc176b0cf854754789a5e88bc5a3c8f5154e5a03"
+    },
+    {
+      "path": "script/script-tr.json",
+      "sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c"
+    },
+    {
+      "path": "audio/tr/narration-tr.wav",
+      "sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d"
+    },
+    {
+      "path": "audio/tr/whisper-tr.json",
+      "sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e"
+    },
+    {
+      "path": "audio/tr/word-map-tr.json",
+      "sha256": "71cb80407ea885a58acef85a250f222479d069beda1de40ff05c33b43945d07a"
+    },
+    {
+      "path": "research/claims.json",
+      "sha256": "e2b767ce3b5de5eb7e051ba0962cad38685fd97115f01917a068b70336af8343"
+    },
+    {
+      "path": "assets/source-register.json",
+      "sha256": "8877e4d8fb5ab66d13af10c2277a50004e1947cf6a9d519b4a31cb3176dc2cef"
+    },
+    {
+      "path": "storyboard/timeline.json",
+      "sha256": "dc1630e2c6ec67f3ac38e4369dcbfc17dc3e80fbc5a34e243716044cb0f5c818"
+    },
+    {
+      "path": "delivery/qa.json",
+      "sha256": "2fe6bb890559266afa7e72f36649aa1960464fe58c15a22933bac06e97ae2f43"
+    },
+    {
+      "path": "delivery/summary.md",
+      "sha256": "4f239a0ee76b861b2d7af6e4fd6384595cb9df29dd422d874c589fe51dbfc76e"
+    },
+    {
+      "path": "delivery/asset-rights-review.md",
+      "sha256": "4aa87c7b6a40cc7e8e97ef0bb2055bbaa909b470ec7690c99d64eb01dadcdb26"
+    },
+    {
+      "path": "audio/tr/whisper-spelling-review.json",
+      "sha256": "54d59662e1d743ca211a6b305da0fcb060f0473f5c1d0ac522b1437c62d53e67"
+    },
+    {
+      "path": "research/source-notes.md",
+      "sha256": "b43d163714942008939827cfe89933dd1a4f30055128da7ab4a4644153906c54"
+    }
+  ],
+  "cover": {
+    "source_asset_id": "vice-city-22",
+    "publisher": "Rockstar Games",
+    "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+    "original_url": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+    "source_sha256": "3d28d73e35ad59f8b0dfebdf5fd2c12292fc927fd8712fa2db81dafc4bd2f564",
+    "rights_status": "REVIEW",
+    "headline": "THE WORLD",
+    "treatment": "Continuous original screenshot, subtle color adjustment and localized darkening, custom type and one accent line.",
+    "output_files": [
+      {
+        "path": "covers/art-master-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 3259255,
+        "sha256": "41c4d71b23760bc7349a726ddc176b0cf854754789a5e88bc5a3c8f5154e5a03"
+      },
+      {
+        "path": "covers/thumbnail-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "bytes": 369380,
+        "sha256": "410e0bfabbcfcee53a5f0f3c8766ce4f5d68207943aad97c587377484b88ed0d"
+      }
+    ],
+    "visually_checked_widths_px": [
+      1280,
+      640,
+      320
+    ]
+  }
+}

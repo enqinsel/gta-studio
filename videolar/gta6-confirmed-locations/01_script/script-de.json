@@ -1,0 +1,75 @@
+[
+  {
+    "id": "intro",
+    "title": "LEONIDA",
+    "claim_ids": [
+      "world-leonida",
+      "guide-six"
+    ],
+    "text": "Wer GTA sechs verstehen will, muss die Lichter von Vice City hinter sich lassen. Rockstar erzählt die Geschichte von Jason und Lucia im ganzen Bundesstaat Leonida. Der offizielle Guide stellt sechs Orte vor. Wir starten in der Stadt und folgen dem Wasser und den Straßen."
+  },
+  {
+    "id": "vice-city",
+    "title": "VICE CITY",
+    "claim_ids": [
+      "vice-city-guide",
+      "vice-city-beach-and-skyline"
+    ],
+    "text": "Vice City. Tagsüber Strand. Nachts ein leuchtendes Riesenrad. Rockstar nennt vier Orte: Ocean Beach mit Art-déco-Hotels, Little Cuba mit seinen Bäckereien, den Flohmarkt Tisha-Wocka und den Kreuzfahrthafen VC Port. Je weiter man sich von der Küste entfernt, desto anders wirkt die Stadt."
+  },
+  {
+    "id": "leonida-keys",
+    "title": "LEONIDA KEYS",
+    "claim_ids": [
+      "keys-archipelago",
+      "keys-water"
+    ],
+    "text": "Leonida Keys. Unter dem Wasserflugzeug verbindet eine Brücke zwei Inseln. Zwischen Korallen tauchen Menschen und eine Meeresschildkröte. Rockstar zeigt die tropische Inselgruppe über und unter Wasser."
+  },
+  {
+    "id": "grassrivers",
+    "title": "GRASSRIVERS",
+    "claim_ids": [
+      "grassrivers-wetlands",
+      "grassrivers-airboat"
+    ],
+    "text": "In Grassrivers entsteht eine ganz andere Wasserlandschaft: Feuchtgebiete zwischen Mangroven. Auf Rockstars Luftaufnahme umringen Alligatoren ein Propellerboot. Ein weiteres Bild zeigt eine Polizeiverfolgung durch genau diese Landschaft."
+  },
+  {
+    "id": "port-gellhorn",
+    "title": "PORT GELLHORN",
+    "claim_ids": [
+      "gellhorn-resort",
+      "gellhorn-visual"
+    ],
+    "text": "Port Gellhorn liegt an der Küste. Rockstar beschreibt einen einstigen Ferienort. Geschlossene Attraktionen und leere Einkaufszonen erinnern daran. Nachts leuchtet ein Motelschild. Ein anderes Bild zeigt das leuchtende Schild eines Kabaretts."
+  },
+  {
+    "id": "ambrosia",
+    "title": "AMBROSIA",
+    "claim_ids": [
+      "ambrosia-refinery",
+      "ambrosia-visual"
+    ],
+    "text": "Nachts prägen Schornsteine Ambrosias Silhouette. Rockstar stellt die Zuckerraffinerie Allied Crystal ins Zentrum der örtlichen Arbeitswelt. Ein anderes Bild zeigt Motorradfahrer in einer Reihe, mit gleichen Lederwesten. Die Raffinerie und die örtliche Motorradgang sind zwei Kräfte in der Region."
+  },
+  {
+    "id": "mount-kalaga",
+    "title": "MOUNT KALAGA",
+    "claim_ids": [
+      "kalaga-border",
+      "kalaga-trails"
+    ],
+    "text": "Rockstars offizieller Guide führt zum Mount Kalaga Nationalpark an Leonidas Nordgrenze. Bewaldete Höhen, kurvige Straßen durch die Hügel und Geländemotorräder im Schlamm. Dann endet der Asphalt. Ein Kajak fährt auf einem Bach zwischen den Bäumen."
+  },
+  {
+    "id": "limits",
+    "title": "Leonida",
+    "claim_ids": [
+      "guide-six",
+      "map-scope",
+      "world-geographic-variety"
+    ],
+    "text": "Aus diesen Bildern lassen sich weder Grenzen noch Entfernungen oder genaue Straßenverläufe ableiten. Sie zeigen aber, wie sich Leonidas Rhythmus verändert, je weiter wir uns von Vice Citys Lichtern entfernen. Eben noch unter Wasser. Im nächsten Bild mitten im Wald."
+  }
+]

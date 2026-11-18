@@ -1,0 +1,412 @@
+{
+  "status": "PASS",
+  "sections": [
+    {
+      "id": "intro",
+      "claim_ids": [
+        "world-leonida",
+        "guide-six"
+      ],
+      "shots": [
+        {
+          "asset_id": "trailer-1-leonida-dawn-clean",
+          "purpose": "Açılışta resmî fragmandan güneş doğarken su ve yolun aynı çerçevede göründüğü kısa genel plan. Devam planı: Rockstar’ın yayımladığı gece silueti Vice City’nin ışıklarını gösterir.",
+          "fallback_asset_id": "vice-city-27",
+          "source_in": 0,
+          "source_out": 1.5,
+          "local_path": "assets/video/trailer-1-leonida-dawn-clean.mp4",
+          "source_url": "https://www.rockstargames.com/VI/media/videos",
+          "sha256": "dfa01fb4f4a7b1267c375b5915977a9e803cd0b2773cf6f19b741c9678969012",
+          "rights_status": "REVIEW",
+          "fallback": {
+            "local_path": "assets/images/vice-city-27.jpg",
+            "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+            "sha256": "f0725fd61298ccfe7de30328ecf1651f7455eaf122a0b2f66031b819dd45d0e1",
+            "rights_status": "REVIEW"
+          }
+        },
+        {
+          "asset_id": "vice-city-17",
+          "purpose": "Şehirden kıyı geçişine köprü ve kanal manzarası.",
+          "push": 1.06,
+          "on": "Vice City’nin ışıklarından biraz",
+          "local_path": "assets/images/vice-city-17.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "9c7a0e7617604bee25c9b4b74aac47da294036dd16b7d22605f7b10530e8f14a",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "trailer-1-jason-lucia",
+          "purpose": "Rockstar’ın tanıttığı iki ana karakter aynı fragman sahnesinde. Devam planı: Leonida dünyasına geçişte Rockstar’ın kalabalık kıyı görüntüsü.",
+          "on": "Rockstar, Jason ve Lucia’nın hikâyesini",
+          "fallback_asset_id": "leonida-keys-05",
+          "source_in": 0,
+          "source_out": 3.9,
+          "local_path": "assets/video/trailer-1-jason-lucia.mp4",
+          "source_url": "https://www.rockstargames.com/VI/media/videos",
+          "sha256": "6060cd07b5e54b99e7ae9c1ebf49e9d3667735cb00b095b4c33f54e1adaf6396",
+          "rights_status": "REVIEW",
+          "fallback": {
+            "local_path": "assets/images/leonida-keys-05.jpg",
+            "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+            "sha256": "5f2226e90602403ac0b8feea520a501c2872015627456448c0be85768d5ef7ae",
+            "rights_status": "REVIEW"
+          }
+        },
+        {
+          "asset_id": "vice-city-15",
+          "purpose": "Vice City’ye girerken marinalar ve şehir silueti.",
+          "push": 1.04,
+          "on": "Stüdyonun resmî rehberinde",
+          "local_path": "assets/images/vice-city-15.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "bcdd989596461c2c0178326055ed75c9cad231ac67895fced8c31237dd51b259",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "trailer-1-wetlands",
+          "purpose": "Gün doğumunda sulak alanlar ve kuşlar. İlk fragmanda gözlemlenen coğrafya, kesin bölge adı kullanılmadan gösterilir.",
+          "on": "sonra suyun ve asfaltın",
+          "source_in": 0,
+          "source_out": 2.7333333333333334,
+          "fallback_asset_id": "vice-city-15",
+          "local_path": "assets/video/trailer-1-wetlands.mp4",
+          "source_url": "https://www.rockstargames.com/VI/media/videos",
+          "sha256": "2c7bb4998af62f6c3381a0deddf4779372b5950542be242c9beee2728c33258d",
+          "rights_status": "REVIEW",
+          "fallback": {
+            "local_path": "assets/images/vice-city-15.jpg",
+            "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+            "sha256": "bcdd989596461c2c0178326055ed75c9cad231ac67895fced8c31237dd51b259",
+            "rights_status": "REVIEW"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vice-city",
+      "claim_ids": [
+        "vice-city-guide",
+        "vice-city-beach-and-skyline"
+      ],
+      "shots": [
+        {
+          "asset_id": "trailer-1-vice-city-beach",
+          "purpose": "Gündüz sahil, açık su ve kent silueti için resmî fragmandaki hava çekimi. Devam planı: Rockstar’ın etiketlediği Vice City plajı gündüz kalabalığını gösterir.",
+          "fallback_asset_id": "vice-city-05",
+          "source_in": 0,
+          "source_out": 3.2,
+          "local_path": "assets/video/trailer-1-vice-city-beach.mp4",
+          "source_url": "https://www.rockstargames.com/VI/media/videos",
+          "sha256": "d0ae8abf9c8fdb355bd028c049eaf5dd2191180a5a6b57791a02015888ce1561",
+          "rights_status": "REVIEW",
+          "fallback": {
+            "local_path": "assets/images/vice-city-05.jpg",
+            "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+            "sha256": "8fd0b3af06d6a2b9242f4775f0e979d55f43e16d0f450d7faedfdec877d15f46",
+            "rights_status": "REVIEW"
+          }
+        },
+        {
+          "asset_id": "vice-city-08",
+          "purpose": "Aynı şehirde gece, ışıklı dönme dolap ve şehir kıyısı.",
+          "push": 1.05,
+          "on": "gece de ışıl ışıl",
+          "local_path": "assets/images/vice-city-08.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "41c707910e15c7d2ffc50c5977bacce83c5f04f795c895cc039c16cb5c7cb7b8",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "vice-city-guide-names",
+          "purpose": "Dört alt konumun adını doğrudan Rockstar’ın Only in Leonida rehberine bağlayan kaynaklı özgün kart.",
+          "push": 1,
+          "on": "Rockstar, aynı şehrin içinde",
+          "local_path": "assets/graphics/vice-city-guide-names.png",
+          "source_url": "https://www.rockstargames.com/VI/only-in-leonida",
+          "sha256": "e6d09679f9199a30d5cfdf7bdb305e89cd97de543455867259b6cdef4a6eb182",
+          "rights_status": "APPROVED"
+        },
+        {
+          "asset_id": "vice-city-09",
+          "purpose": "Sahilden sokak ölçeğine geçişi kent içindeki duvar resimleriyle gösterir.",
+          "push": 1.038,
+          "on": "Şehir, sahil şeridinden",
+          "local_path": "assets/images/vice-city-09.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "37d826f8ed719cfa3f8cb7a8d773b5d8b81503f70f96bf490863c1c928b892ed",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "leonida-keys",
+      "claim_ids": [
+        "keys-archipelago",
+        "keys-water"
+      ],
+      "shots": [
+        {
+          "asset_id": "leonida-keys-01",
+          "purpose": "Takımada, adalar arası köprü ve deniz uçağı aynı Rockstar karesinde.",
+          "push": 1.05,
+          "local_path": "assets/images/leonida-keys-01.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "90bb51136148ee7c4c44750e54fb77cf1cb9790c584e904e0c5839094769e2e1",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "leonida-keys-04",
+          "purpose": "Rockstar galerisinde dalgıç, kaplumbağa ve denizaltı habitatı.",
+          "push": 1.035,
+          "on": "Bir başka kare suyun altına",
+          "local_path": "assets/images/leonida-keys-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "800b091c1c69e2885c71d7278aac0fae9f1284c6bdedf6e08a5dbab298c9e0c3",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "leonida-keys-07",
+          "purpose": "Aynı takımadanın farklı bir sualtı karesi ve resif dokusu.",
+          "push": 1.03,
+          "on": "Rockstar, tropik takımadayı",
+          "local_path": "assets/images/leonida-keys-07.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "7a9f67b7c1c31720be8bcd86ab171102e40fc9e3bc546e0498bca095e2376c30",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "grassrivers",
+      "claim_ids": [
+        "grassrivers-wetlands",
+        "grassrivers-airboat"
+      ],
+      "shots": [
+        {
+          "asset_id": "grassrivers-05",
+          "purpose": "Sulak alan ve ağaçlık habitat coğrafyasının genel görünümü.",
+          "push": 1.042,
+          "local_path": "assets/images/grassrivers-05.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "6549fce7cebcb03dd43385f73f1c0d3748d5b819de3c7b0577645630e7958be5",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "grassrivers-02",
+          "purpose": "Sulak alanda kıyı, kanal ve kazıklar üzerinde yapılar.",
+          "push": 1.036,
+          "on": "Burası mangrovların arasında",
+          "local_path": "assets/images/grassrivers-02.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "89574ed17bfc0c6aaae59c25813644c2bcfad2b777739ecb855b23692b841858",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "grassrivers-03",
+          "purpose": "Pervaneli tekneyi çevreleyen timsahları yukarıdan doğrudan gösterir.",
+          "push": 1.046,
+          "on": "Yukarıdan çekilen resmî karede",
+          "local_path": "assets/images/grassrivers-03.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "8120c16f300f27500fca1360d561c69c9185bd8a3611d9258bf7b7e90517b79d",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "grassrivers-04",
+          "purpose": "Aynı sulak alandaki araç ve polis takip sahnesi.",
+          "push": 1.03,
+          "on": "Bir başka karede aynı coğrafyanın",
+          "local_path": "assets/images/grassrivers-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "c3585cf30edfe1760390eb0e2127fba9547f1341a8dc28a58af0ca279910d1c1",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "port-gellhorn",
+      "claim_ids": [
+        "gellhorn-resort",
+        "gellhorn-visual"
+      ],
+      "shots": [
+        {
+          "asset_id": "port-gellhorn-06",
+          "purpose": "Rockstar’ın etiketlediği Port Gellhorn yerleşiminin gün batımı manzarası.",
+          "push": 1.044,
+          "local_path": "assets/images/port-gellhorn-06.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "094c23fcef7629ed2949e33fd29462a225762da4ffa0af08fcbfe2565d36b94f",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "port-gellhorn-01",
+          "purpose": "Gece yanan motel tabelasının asıl Rockstar karesi.",
+          "push": 1.044,
+          "on": "Gece çekilen karede motel",
+          "local_path": "assets/images/port-gellhorn-01.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "7775f041a852069d43e357d112d1715f471adc4c4346337e79aa33a7940a8425",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "port-gellhorn-04",
+          "purpose": "Gece kabare tabelası, ışık ve sokak.",
+          "push": 1.04,
+          "on": "Başka bir gece karesinde",
+          "local_path": "assets/images/port-gellhorn-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "47f3dbb0631c6072665b67f9d035e3bd4693b320a76dd6fe801102d1ef2e0050",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "ambrosia",
+      "claim_ids": [
+        "ambrosia-refinery",
+        "ambrosia-visual"
+      ],
+      "shots": [
+        {
+          "asset_id": "ambrosia-02",
+          "purpose": "Kent siluetinin önündeki baca ve endüstriyel aydınlatma.",
+          "push": 1.045,
+          "local_path": "assets/images/ambrosia-02.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "b1804c192c61277e083b57677fe9b7520e59dc30aaf86c3b77305e3bdde872c7",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "ambrosia-04",
+          "purpose": "Ambrosia’nın ekili arazisini gösteren Rockstar görseli. Allied Crystal şeker rafinerisinin bölgedeki rolü Only in Leonida rehberinde doğrulanır.",
+          "push": 1.036,
+          "on": "Rockstar, bölgedeki istihdamın",
+          "local_path": "assets/images/ambrosia-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "b261c794035d85579ac85c769c8e8aeecaa1b6190a70dcb572dbe7184663c429",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "ambrosia-01",
+          "purpose": "Motosikletliler ve aynı yeleklerle konvoy sahnesi. Rehberde anlatılan yerel motosiklet grubuna doğrudan görsel bağ.",
+          "push": 1.04,
+          "on": "Bir diğer karede, aynı deri",
+          "local_path": "assets/images/ambrosia-01.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "a5b0d185aa5de42d7492220119254b136efb05ea75212cac46730a9fbd862769",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "mount-kalaga",
+      "claim_ids": [
+        "kalaga-border",
+        "kalaga-trails"
+      ],
+      "shots": [
+        {
+          "asset_id": "mount-kalaga-02",
+          "purpose": "Ormanlık dağ sırtı ve helikopter, resmî Mount Kalaga galerisinden.",
+          "push": 1.03,
+          "local_path": "assets/images/mount-kalaga-02.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "828ad45819b4121f3a341b25cbc93cd6595099eb2d53068d1cef4f1853ab38d4",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "mount-kalaga-04",
+          "purpose": "Yüksek kaya yüzleri arasından uzanan kıvrımlı yol.",
+          "push": 1.046,
+          "on": "tepelerin arasından kıvrılan yollar",
+          "local_path": "assets/images/mount-kalaga-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "2b973cf17237cec6f6729ea939f15bc9b8f056eab12598be79b0bd5201187679",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "mount-kalaga-01",
+          "purpose": "Çamur sahnesini ve iki arazi motosikletini doğrudan gösterir.",
+          "push": 1.03,
+          "on": "çamurda ilerleyen arazi motosikletleri",
+          "local_path": "assets/images/mount-kalaga-01.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "6f06847e2173385df416ef162e1dfbb9f6270bfcc7bf0e080f02a4803d7473b3",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "mount-kalaga-03",
+          "purpose": "Parkta yürüyüş yapan iki kişi ve ağaçların arasında patika.",
+          "push": 1.04,
+          "on": "Sonra asfalt da gözden",
+          "local_path": "assets/images/mount-kalaga-03.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "55fbe316ad65dac4ef95a6f4572bfdae756ca343899ab6bfdf84609b6c4bf3da",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "mount-kalaga-06",
+          "purpose": "Ağaçlarla çevrili su üzerinde kano ve köprü.",
+          "push": 1.032,
+          "on": "Bir kano, ağaçların arasından",
+          "local_path": "assets/images/mount-kalaga-06.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "290b5eb17a45ab4c8c318fb173e6c400bf0e80a74b529591da554d214fddd32a",
+          "rights_status": "REVIEW"
+        }
+      ]
+    },
+    {
+      "id": "limits",
+      "claim_ids": [
+        "guide-six",
+        "map-scope",
+        "world-geographic-variety"
+      ],
+      "shots": [
+        {
+          "asset_id": "vice-city-11",
+          "purpose": "Şehir yolları ve kıyı görünür. Kadraj, rehberdeki yerlerin bütün sınırlarını veya güzergâhlarını göstermez.",
+          "push": 1.032,
+          "local_path": "assets/images/vice-city-11.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "6401a9b2a5068cef29cc9ed5edc8e7a179feff4f909de4dae41ce06553983cc6",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "vice-city-10",
+          "purpose": "Şehir ve kanal son kez iç içe görünür, kara ve su ayrımına geçiş.",
+          "push": 1.043,
+          "on": "Vice City’nin ışıklarından uzaklaştıkça",
+          "local_path": "assets/images/vice-city-10.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "56d7af39cba3bb4a1425c056b36fdc9fe816fe835dabd5c48e93b56a146ec800",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "leonida-keys-04",
+          "purpose": "Kapanışta daha önce kanıtlanan resif ortamına kısa geri dönüş.",
+          "push": 1.027,
+          "on": "Bir sonraki manzarada denizin dibine",
+          "local_path": "assets/images/leonida-keys-04.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "800b091c1c69e2885c71d7278aac0fae9f1284c6bdedf6e08a5dbab298c9e0c3",
+          "rights_status": "REVIEW"
+        },
+        {
+          "asset_id": "mount-kalaga-05",
+          "purpose": "Ormanın içindeki su ve hayvanlar finalin son gerçek coğrafya örneği.",
+          "push": 1.04,
+          "on": "bir sonrakinde ormanın içine",
+          "local_path": "assets/images/mount-kalaga-05.jpg",
+          "source_url": "https://www.rockstargames.com/VI/media/screenshots",
+          "sha256": "531c700304fbea3fb25e78d90d3a8c50d1ac7f157b76888be891e78c53bde78a",
+          "rights_status": "REVIEW"
+        }
+      ]
+    }
+  ]
+}

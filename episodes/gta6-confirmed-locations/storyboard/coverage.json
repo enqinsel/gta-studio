@@ -1,0 +1,228 @@
+[
+  {
+    "id": "intro",
+    "shots": [
+      {
+        "asset_id": "trailer-1-leonida-dawn-clean",
+        "purpose": "Açılışta resmî fragmandan güneş doğarken su ve yolun aynı çerçevede göründüğü kısa genel plan. Devam planı: Rockstar’ın yayımladığı gece silueti Vice City’nin ışıklarını gösterir.",
+        "fallback_asset_id": "vice-city-27",
+        "source_in": 0,
+        "source_out": 1.5
+      },
+      {
+        "asset_id": "vice-city-17",
+        "purpose": "Şehirden kıyı geçişine köprü ve kanal manzarası.",
+        "push": 1.06,
+        "on": "Vice City’nin ışıklarından biraz"
+      },
+      {
+        "asset_id": "trailer-1-jason-lucia",
+        "purpose": "Rockstar’ın tanıttığı iki ana karakter aynı fragman sahnesinde. Devam planı: Leonida dünyasına geçişte Rockstar’ın kalabalık kıyı görüntüsü.",
+        "on": "Rockstar, Jason ve Lucia’nın hikâyesini",
+        "fallback_asset_id": "leonida-keys-05",
+        "source_in": 0,
+        "source_out": 3.9
+      },
+      {
+        "asset_id": "vice-city-15",
+        "purpose": "Vice City’ye girerken marinalar ve şehir silueti.",
+        "push": 1.04,
+        "on": "Stüdyonun resmî rehberinde"
+      },
+      {
+        "asset_id": "trailer-1-wetlands",
+        "purpose": "Gün doğumunda sulak alanlar ve kuşlar. İlk fragmanda gözlemlenen coğrafya, kesin bölge adı kullanılmadan gösterilir.",
+        "on": "sonra suyun ve asfaltın",
+        "source_in": 0,
+        "source_out": 2.7333333333333334,
+        "fallback_asset_id": "vice-city-15"
+      }
+    ]
+  },
+  {
+    "id": "vice-city",
+    "shots": [
+      {
+        "asset_id": "trailer-1-vice-city-beach",
+        "purpose": "Gündüz sahil, açık su ve kent silueti için resmî fragmandaki hava çekimi. Devam planı: Rockstar’ın etiketlediği Vice City plajı gündüz kalabalığını gösterir.",
+        "fallback_asset_id": "vice-city-05",
+        "source_in": 0,
+        "source_out": 3.2
+      },
+      {
+        "asset_id": "vice-city-08",
+        "purpose": "Aynı şehirde gece, ışıklı dönme dolap ve şehir kıyısı.",
+        "push": 1.05,
+        "on": "gece de ışıl ışıl"
+      },
+      {
+        "asset_id": "vice-city-guide-names",
+        "purpose": "Dört alt konumun adını doğrudan Rockstar’ın Only in Leonida rehberine bağlayan kaynaklı özgün kart.",
+        "push": 1,
+        "on": "Rockstar, aynı şehrin içinde"
+      },
+      {
+        "asset_id": "vice-city-09",
+        "purpose": "Sahilden sokak ölçeğine geçişi kent içindeki duvar resimleriyle gösterir.",
+        "push": 1.038,
+        "on": "Şehir, sahil şeridinden"
+      }
+    ]
+  },
+  {
+    "id": "leonida-keys",
+    "shots": [
+      {
+        "asset_id": "leonida-keys-01",
+        "purpose": "Takımada, adalar arası köprü ve deniz uçağı aynı Rockstar karesinde.",
+        "push": 1.05
+      },
+      {
+        "asset_id": "leonida-keys-04",
+        "purpose": "Rockstar galerisinde dalgıç, kaplumbağa ve denizaltı habitatı.",
+        "push": 1.035,
+        "on": "Bir başka kare suyun altına"
+      },
+      {
+        "asset_id": "leonida-keys-07",
+        "purpose": "Aynı takımadanın farklı bir sualtı karesi ve resif dokusu.",
+        "push": 1.03,
+        "on": "Rockstar, tropik takımadayı"
+      }
+    ]
+  },
+  {
+    "id": "grassrivers",
+    "shots": [
+      {
+        "asset_id": "grassrivers-05",
+        "purpose": "Sulak alan ve ağaçlık habitat coğrafyasının genel görünümü.",
+        "push": 1.042
+      },
+      {
+        "asset_id": "grassrivers-02",
+        "purpose": "Sulak alanda kıyı, kanal ve kazıklar üzerinde yapılar.",
+        "push": 1.036,
+        "on": "Burası mangrovların arasında"
+      },
+      {
+        "asset_id": "grassrivers-03",
+        "purpose": "Pervaneli tekneyi çevreleyen timsahları yukarıdan doğrudan gösterir.",
+        "push": 1.046,
+        "on": "Yukarıdan çekilen resmî karede"
+      },
+      {
+        "asset_id": "grassrivers-04",
+        "purpose": "Aynı sulak alandaki araç ve polis takip sahnesi.",
+        "push": 1.03,
+        "on": "Bir başka karede aynı coğrafyanın"
+      }
+    ]
+  },
+  {
+    "id": "port-gellhorn",
+    "shots": [
+      {
+        "asset_id": "port-gellhorn-06",
+        "purpose": "Rockstar’ın etiketlediği Port Gellhorn yerleşiminin gün batımı manzarası.",
+        "push": 1.044
+      },
+      {
+        "asset_id": "port-gellhorn-01",
+        "purpose": "Gece yanan motel tabelasının asıl Rockstar karesi.",
+        "push": 1.044,
+        "on": "Gece çekilen karede motel"
+      },
+      {
+        "asset_id": "port-gellhorn-04",
+        "purpose": "Gece kabare tabelası, ışık ve sokak.",
+        "push": 1.04,
+        "on": "Başka bir gece karesinde"
+      }
+    ]
+  },
+  {
+    "id": "ambrosia",
+    "shots": [
+      {
+        "asset_id": "ambrosia-02",
+        "purpose": "Kent siluetinin önündeki baca ve endüstriyel aydınlatma.",
+        "push": 1.045
+      },
+      {
+        "asset_id": "ambrosia-04",
+        "purpose": "Ambrosia’nın ekili arazisini gösteren Rockstar görseli. Allied Crystal şeker rafinerisinin bölgedeki rolü Only in Leonida rehberinde doğrulanır.",
+        "push": 1.036,
+        "on": "Rockstar, bölgedeki istihdamın"
+      },
+      {
+        "asset_id": "ambrosia-01",
+        "purpose": "Motosikletliler ve aynı yeleklerle konvoy sahnesi. Rehberde anlatılan yerel motosiklet grubuna doğrudan görsel bağ.",
+        "push": 1.04,
+        "on": "Bir diğer karede, aynı deri"
+      }
+    ]
+  },
+  {
+    "id": "mount-kalaga",
+    "shots": [
+      {
+        "asset_id": "mount-kalaga-02",
+        "purpose": "Ormanlık dağ sırtı ve helikopter, resmî Mount Kalaga galerisinden.",
+        "push": 1.03
+      },
+      {
+        "asset_id": "mount-kalaga-04",
+        "purpose": "Yüksek kaya yüzleri arasından uzanan kıvrımlı yol.",
+        "push": 1.046,
+        "on": "tepelerin arasından kıvrılan yollar"
+      },
+      {
+        "asset_id": "mount-kalaga-01",
+        "purpose": "Çamur sahnesini ve iki arazi motosikletini doğrudan gösterir.",
+        "push": 1.03,
+        "on": "çamurda ilerleyen arazi motosikletleri"
+      },
+      {
+        "asset_id": "mount-kalaga-03",
+        "purpose": "Parkta yürüyüş yapan iki kişi ve ağaçların arasında patika.",
+        "push": 1.04,
+        "on": "Sonra asfalt da gözden"
+      },
+      {
+        "asset_id": "mount-kalaga-06",
+        "purpose": "Ağaçlarla çevrili su üzerinde kano ve köprü.",
+        "push": 1.032,
+        "on": "Bir kano, ağaçların arasından"
+      }
+    ]
+  },
+  {
+    "id": "limits",
+    "shots": [
+      {
+        "asset_id": "vice-city-11",
+        "purpose": "Şehir yolları ve kıyı görünür. Kadraj, rehberdeki yerlerin bütün sınırlarını veya güzergâhlarını göstermez.",
+        "push": 1.032
+      },
+      {
+        "asset_id": "vice-city-10",
+        "purpose": "Şehir ve kanal son kez iç içe görünür, kara ve su ayrımına geçiş.",
+        "push": 1.043,
+        "on": "Vice City’nin ışıklarından uzaklaştıkça"
+      },
+      {
+        "asset_id": "leonida-keys-04",
+        "purpose": "Kapanışta daha önce kanıtlanan resif ortamına kısa geri dönüş.",
+        "push": 1.027,
+        "on": "Bir sonraki manzarada denizin dibine"
+      },
+      {
+        "asset_id": "mount-kalaga-05",
+        "purpose": "Ormanın içindeki su ve hayvanlar finalin son gerçek coğrafya örneği.",
+        "push": 1.04,
+        "on": "bir sonrakinde ormanın içine"
+      }
+    ]
+  }
+]

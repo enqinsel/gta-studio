@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 200" width="680" height="200" role="img">
+  <title>VALEA</title>
+  <svg x="18" y="16" width="168" height="168" viewBox="0 0 112 112"><path fill="#FFF4E9" d="M12 24h16l7 5 21 40 22-44 11-8h11L63 94l-10 6Z"/></svg>
+  <g fill="#FFF4E9" fill-rule="evenodd">
+    <path transform="translate(206 60)" d="M0 0h14l23 63L60 0h14L44 80H30Z"/>
+    <path transform="translate(278 60)" d="M29 0h16l30 80H61l-8-22H22l-8 22H0Zm-3 46h23L37 15Z"/>
+    <path transform="translate(376 60)" d="M0 0h13v68h49v12H0Z"/>
+    <path transform="translate(462 60)" d="M0 0h63v12H13v22h42v12H13v22h51v12H0Z"/>
+    <path transform="translate(543 60)" d="M29 0h16l30 80H61l-8-22H22l-8 22H0Zm-3 46h23L37 15Z"/>
+  </g>
+</svg>

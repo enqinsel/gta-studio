@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "sourceRevision": "episodes/gta6-confirmed-locations/revisions/v4",
+  "sourceStatus": "RIGHTS_REVIEW",
+  "pathBasis": "The paths embedded in source records are relative to the frozen source revision.",
+  "files": [
+    {
+      "source": "research/claims.json",
+      "path": "01_script/claims-sources.json",
+      "sha256": "e2b767ce3b5de5eb7e051ba0962cad38685fd97115f01917a068b70336af8343"
+    },
+    {
+      "source": "assets/source-register.json",
+      "path": "07_assets/asset-manifest.json",
+      "sha256": "a9c21c8819c18b140eb3c16b83e408294b31036a6c57db31f1a007efe8bc2b18"
+    },
+    {
+      "source": "research/source-notes.md",
+      "path": "07_assets/sources.md",
+      "sha256": "b43d163714942008939827cfe89933dd1a4f30055128da7ab4a4644153906c54"
+    },
+    {
+      "source": "storyboard/timeline.json",
+      "path": "07_assets/timeline.json",
+      "sha256": "44878227c92847c468cdfc5fa3378dba4765278c6e800974f99cf360d39a1dce"
+    },
+    {
+      "source": "delivery/manifest.json",
+      "path": "07_assets/master-source-manifest.json",
+      "sha256": "a377462ae5d95a0ffd48ead51c368879749b410cacaa8123d0387f2cca697400"
+    },
+    {
+      "source": "render/master-clean-1920x1080.mp4",
+      "role": "locked-picture",
+      "sha256": "d5a8bd2f96f0c6be7438c2eb4293987caf8c325c91b462ee181c1da8c4dbf376"
+    },
+    {
+      "source": "render/review-tr.mp4",
+      "role": "tr-test-mp4",
+      "sha256": "cc8534957c5ca3aea6242108cf4fdabb814cb02b1f72901b2ac6d157a4b56626"
+    },
+    {
+      "source": "script/script-tr.md",
+      "path": "01_script/script-tr.md",
+      "sha256": "9e743a51a34c03d81cdfa78c458560384b3e7b65156a2c7c24fc439b69314bb9"
+    },
+    {
+      "source": "script/script-tr.json",
+      "path": "01_script/script-tr.json",
+      "sha256": "d1667fed0f74e217001e15cb11eebb1cdbd310f584c4f66d9966559f126fe01c"
+    },
+    {
+      "source": "audio/tr/narration-tr.wav",
+      "path": "02_audio/tr/narration-tr.wav",
+      "sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d"
+    },
+    {
+      "source": "audio/tr/provider-job.json",
+      "path": "02_audio/tr/provider-job.json",
+      "sha256": "0bc1afc130981dd1f5ca2b728448d48a002197782e1a49bbcb29762ce1d5a4df"
+    },
+    {
+      "source": "audio/tr/whisper-tr.json",
+      "path": "02_audio/tr/whisper-tr.json",
+      "sha256": "4462a34fc1635fd4b99d9dd64f2b8f1ae3abcf6788c15371cb3295abf39ce04e"
+    },
+    {
+      "source": "audio/tr/word-map-tr.json",
+      "path": "02_audio/tr/word-map-tr.json",
+      "sha256": "71cb80407ea885a58acef85a250f222479d069beda1de40ff05c33b43945d07a"
+    },
+    {
+      "source": "captions/tr.srt",
+      "path": "04_captions/captions-tr.srt",
+      "sha256": "53bd7c96a2c89db9c051efb255007385cb4cb1524b1b9d9b05dcdf89332841c8"
+    },
+    {
+      "source": "audio/tr/whisper-spelling-review.json",
+      "path": "02_audio/tr/whisper-spelling-review.json",
+      "sha256": "54d59662e1d743ca211a6b305da0fcb060f0473f5c1d0ac522b1437c62d53e67"
+    },
+    {
+      "source": "delivery/audio-mix.json",
+      "path": "02_audio/tr/audio-mix.json",
+      "sha256": "f823d7666eeb89d0a691142510e116825754697b36bf4e312b1f20e2f86f5a51"
+    },
+    {
+      "source": "delivery/audio-mix-validation.json",
+      "path": "02_audio/tr/audio-mix-validation.json",
+      "sha256": "5f96c89cd5857531d48f753a14d4ea7052c83d8203e4be549d944a5e9648cb1c"
+    },
+    {
+      "source": "captions/tr-source.srt",
+      "path": "04_captions/captions-tr-source.srt",
+      "sha256": "504af91b03eca76eb07cbc5ef9f37715a7624c140362de8c44f34d43aaeb7dea"
+    },
+    {
+      "source": "assets/audio/sound-register.json",
+      "path": "07_assets/audio/sound-register.json",
+      "sha256": "3d9c6dd33a7ad3841214071adcaabbf029c1a16a8c7553dc001b386270e8e7dc"
+    },
+    {
+      "source": "research/edit-reference.md",
+      "path": "07_assets/edit-reference.md",
+      "sha256": "6306fa5f9205858d24733160e89ae50a8a6425a363651109f18ac7d7e7bfb58f"
+    },
+    {
+      "source": "storyboard/cut.json",
+      "path": "07_assets/cut.json",
+      "sha256": "115a90e340d934cda403673bd68cf803bccc8360f8e53b29dded0fbd3a3f23e4"
+    },
+    {
+      "source": "storyboard/semantic-beats.json",
+      "path": "07_assets/semantic-beats.json",
+      "sha256": "f085efb2acd695f0ed319e18c003c1a8ee918fd38bc80f8a8fa4b38181cf39d5"
+    },
+    {
+      "source": "storyboard/claim-to-media.json",
+      "path": "07_assets/claim-to-media.json",
+      "sha256": "45b6bfc82ddf42a6c309a1311848998571779ab15df324970281c694b71483ed"
+    },
+    {
+      "source": "storyboard/outro-media.json",
+      "path": "07_assets/outro-media.json",
+      "sha256": "389ce8ac74927a24564b2f778e7387be19b498218d84ab88ef71e03953dafc8a"
+    },
+    {
+      "source": "assets/audio/deepframe-water-air.wav",
+      "path": "07_assets/audio/deepframe-water-air.wav",
+      "sha256": "eb45d4f9a3164515e53c5eb9897b845d53fc81f52b133c5564c98ac6819f50b1"
+    },
+    {
+      "source": "assets/audio/deepframe-soft-arrival.wav",
+      "path": "07_assets/audio/deepframe-soft-arrival.wav",
+      "sha256": "dd03767c787a04609faf6d6d87c7a7c9e2ef7b2c1791d6e3b1271fe3e9b7dc4b"
+    },
+    {
+      "source": "assets/audio/deepframe-summit-air.wav",
+      "path": "07_assets/audio/deepframe-summit-air.wav",
+      "sha256": "ef0438a03067be681c63f0488dc1c943b284e203a14c302dffb5b0716814d67d"
+    },
+    {
+      "source": "assets/audio/deepframe-outro-score.wav",
+      "path": "07_assets/audio/deepframe-outro-score.wav",
+      "sha256": "96d7ebd59350e4cb086ae4e8b3ba10e31cf4e5115cf045be979a12ead3fe27a0"
+    }
+  ]
+}

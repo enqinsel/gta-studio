@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "channel": "VALEA",
+  "slug": "gta6-confirmed-locations",
+  "topic": "GTA 6's World Explained: 6 Confirmed Destinations in Leonida",
+  "sourceRevision": "episodes/gta6-confirmed-locations/revisions/v4",
+  "status": "RIGHTS_REVIEW",
+  "masterLanguage": "en",
+  "originalAudioLanguage": "en",
+  "alternateAudioLanguages": [
+    "tr",
+    "es",
+    "de"
+  ],
+  "picture": {
+    "source": "render/master-clean-1920x1080.mp4",
+    "path": "03_video/gta6-confirmed-locations-valea-en.mp4",
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "frames": 4617
+  }
+}

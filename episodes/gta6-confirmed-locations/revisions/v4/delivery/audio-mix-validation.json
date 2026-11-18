@@ -1,0 +1,367 @@
+{
+  "settings": {
+    "targetLufs": -15,
+    "maxTruePeakDbtp": -1,
+    "scoreGainDb": 3,
+    "effectsGainDb": {
+      "deepframe-water-air.wav": 12,
+      "deepframe-soft-arrival.wav": 11,
+      "deepframe-summit-air.wav": 13
+    },
+    "effectsPresence": {
+      "deepframe-soft-arrival.wav": {
+        "frequencyHz": 170,
+        "gainDb": 7
+      }
+    }
+  },
+  "original": {
+    "integratedLufs": -21.9,
+    "rangeLu": 3.3,
+    "truePeakDbtp": -9.9
+  },
+  "originalOutro": {
+    "integratedLufs": -26.1,
+    "rangeLu": 4.2,
+    "truePeakDbtp": -12.5
+  },
+  "final": {
+    "integratedLufs": -15.1,
+    "rangeLu": 3,
+    "truePeakDbtp": -2.5
+  },
+  "method": "FFmpeg EBU R128 with oversampled true peak, stereo 48 kHz PCM premaster",
+  "target": {
+    "integratedLufs": -15,
+    "maxTruePeakDbtp": -1,
+    "pcmCeilingDbtp": -1.8
+  },
+  "narration": {
+    "original": {
+      "integratedLufs": -21.8,
+      "rangeLu": 2.3,
+      "truePeakDbtp": -6.8
+    },
+    "conditionedBeforeGain": {
+      "integratedLufs": -23.8,
+      "rangeLu": 1.9,
+      "truePeakDbtp": -8.3
+    },
+    "gainDb": 8.8,
+    "filters": [
+      "highpass=f=65",
+      "equalizer=f=245:t=o:w=1.15:g=-1.3",
+      "equalizer=f=2800:t=o:w=1.3:g=1.4",
+      "acompressor=threshold=0.112:ratio=1.9:attack=14:release=145:knee=2.5"
+    ],
+    "conditioned": {
+      "integratedLufs": -15,
+      "rangeLu": 1.9,
+      "truePeakDbtp": 0.5
+    },
+    "lastSpeechFrame": 4341
+  },
+  "effects": [
+    {
+      "path": "assets/audio/deepframe-water-air.wav",
+      "startFrame": 1208,
+      "duration": 0.85,
+      "gainDb": 12,
+      "adjustmentDb": 12,
+      "source": {
+        "integratedLufs": -42.8,
+        "rangeLu": 0,
+        "truePeakDbtp": -31
+      }
+    },
+    {
+      "path": "assets/audio/deepframe-soft-arrival.wav",
+      "startFrame": 2142,
+      "duration": 0.8,
+      "gainDb": 9,
+      "adjustmentDb": 11,
+      "presence": {
+        "frequencyHz": 170,
+        "gainDb": 7
+      },
+      "source": {
+        "integratedLufs": -42.2,
+        "rangeLu": 0,
+        "truePeakDbtp": -30
+      }
+    },
+    {
+      "path": "assets/audio/deepframe-summit-air.wav",
+      "startFrame": 3189,
+      "duration": 0.95,
+      "gainDb": 13,
+      "adjustmentDb": 13,
+      "source": {
+        "integratedLufs": -42.4,
+        "rangeLu": 0,
+        "truePeakDbtp": -32.9
+      }
+    }
+  ],
+  "music": {
+    "startFrame": 4414,
+    "gainDb": 3,
+    "hasSpeechOverlap": false,
+    "ducked": false,
+    "source": {
+      "integratedLufs": -26.1,
+      "rangeLu": 4.2,
+      "truePeakDbtp": -12.5
+    }
+  },
+  "pcm": {
+    "integratedLufs": -15.1,
+    "rangeLu": 3,
+    "truePeakDbtp": -2.5
+  },
+  "verificationMedia": "Audio-only AAC with the exact final mix recipe and 192 kbps setting",
+  "signalProjection": {
+    "v3": {
+      "effects": {
+        "deepframe-water-air.wav": {
+          "window_seconds": [
+            40.266667,
+            41.116667
+          ],
+          "whole_cue": {
+            "recoveredGainDb": -0.6,
+            "correlation": 0.8567,
+            "estimatedRmsDbfs": -48.9
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": -0.55,
+            "correlation": 0.889,
+            "estimatedRmsDbfs": -48.98
+          }
+        },
+        "deepframe-soft-arrival.wav": {
+          "window_seconds": [
+            71.4,
+            72.2
+          ],
+          "whole_cue": {
+            "recoveredGainDb": -2.01,
+            "correlation": 0.9978,
+            "estimatedRmsDbfs": -45.5
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": -2.22,
+            "correlation": 0.9759,
+            "estimatedRmsDbfs": -63.19
+          }
+        },
+        "deepframe-summit-air.wav": {
+          "window_seconds": [
+            106.3,
+            107.25
+          ],
+          "whole_cue": {
+            "recoveredGainDb": -0.65,
+            "correlation": 0.8683,
+            "estimatedRmsDbfs": -48.73
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": -0.41,
+            "correlation": 0.9736,
+            "estimatedRmsDbfs": -49.56
+          }
+        }
+      },
+      "score": {
+        "recoveredGainDb": -0.01,
+        "correlation": 1,
+        "estimatedRmsDbfs": -28.1
+      }
+    },
+    "v4": {
+      "effects": {
+        "deepframe-water-air.wav": {
+          "window_seconds": [
+            40.266667,
+            41.116667
+          ],
+          "whole_cue": {
+            "recoveredGainDb": 11.41,
+            "correlation": 0.9014,
+            "estimatedRmsDbfs": -36.89
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": 11.35,
+            "correlation": 0.9121,
+            "estimatedRmsDbfs": -37.09
+          }
+        },
+        "deepframe-soft-arrival.wav": {
+          "window_seconds": [
+            71.4,
+            72.2
+          ],
+          "whole_cue": {
+            "recoveredGainDb": 8.96,
+            "correlation": 0.9944,
+            "estimatedRmsDbfs": -34.16
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": 8.84,
+            "correlation": 0.9927,
+            "estimatedRmsDbfs": -45.88
+          }
+        },
+        "deepframe-summit-air.wav": {
+          "window_seconds": [
+            106.3,
+            107.25
+          ],
+          "whole_cue": {
+            "recoveredGainDb": 12.32,
+            "correlation": 0.9163,
+            "estimatedRmsDbfs": -35.77
+          },
+          "pause_before_incoming_line": {
+            "recoveredGainDb": 12.46,
+            "correlation": 0.9699,
+            "estimatedRmsDbfs": -36.69
+          }
+        }
+      },
+      "score": {
+        "recoveredGainDb": 3,
+        "correlation": 1,
+        "estimatedRmsDbfs": -25.1
+      }
+    }
+  },
+  "limitedPlaybackBand": {
+    "description": "Stereo folded to mono, 180 Hz high-pass / 5 kHz low-pass, source projection after matched speech reference subtraction. Technical proxy, no physical listening.",
+    "measurements": {
+      "v3": {
+        "deepframe-water-air.wav": {
+          "all_cue": {
+            "rms_dbfs": -52.92,
+            "peak_dbfs": -35.99,
+            "correlation": 0.8638
+          },
+          "pre_speech": {
+            "rms_dbfs": -52.86,
+            "peak_dbfs": -37.11,
+            "correlation": 0.8833
+          },
+          "overlap_voice_rms_dbfs": -25.77,
+          "overlap_cue": {
+            "rms_dbfs": -52.95,
+            "peak_dbfs": -36.15,
+            "correlation": 0.852
+          }
+        },
+        "deepframe-soft-arrival.wav": {
+          "all_cue": {
+            "rms_dbfs": -61.21,
+            "peak_dbfs": -45.5,
+            "correlation": 0.9603
+          },
+          "pre_speech": {
+            "rms_dbfs": -64.46,
+            "peak_dbfs": -51.51,
+            "correlation": 0.9812
+          },
+          "overlap_voice_rms_dbfs": -23.61,
+          "overlap_cue": {
+            "rms_dbfs": -60.2,
+            "peak_dbfs": -45.47,
+            "correlation": 0.9565
+          }
+        },
+        "deepframe-summit-air.wav": {
+          "all_cue": {
+            "rms_dbfs": -52.55,
+            "peak_dbfs": -37.96,
+            "correlation": 0.931
+          },
+          "pre_speech": {
+            "rms_dbfs": -53.41,
+            "peak_dbfs": -39.12,
+            "correlation": 0.9788
+          },
+          "overlap_voice_rms_dbfs": -25.27,
+          "overlap_cue": {
+            "rms_dbfs": -51.85,
+            "peak_dbfs": -37.99,
+            "correlation": 0.9026
+          }
+        }
+      },
+      "v4": {
+        "deepframe-water-air.wav": {
+          "all_cue": {
+            "rms_dbfs": -40.9,
+            "peak_dbfs": -23.97,
+            "correlation": 0.9081
+          },
+          "pre_speech": {
+            "rms_dbfs": -41.19,
+            "peak_dbfs": -25.44,
+            "correlation": 0.9087
+          },
+          "overlap_voice_rms_dbfs": -19.25,
+          "overlap_cue": {
+            "rms_dbfs": -40.72,
+            "peak_dbfs": -23.92,
+            "correlation": 0.9078
+          }
+        },
+        "deepframe-soft-arrival.wav": {
+          "all_cue": {
+            "rms_dbfs": -45.68,
+            "peak_dbfs": -30.84,
+            "correlation": 0.9611
+          },
+          "pre_speech": {
+            "rms_dbfs": -46.65,
+            "peak_dbfs": -33.46,
+            "correlation": 0.9989
+          },
+          "overlap_voice_rms_dbfs": -17.07,
+          "overlap_cue": {
+            "rms_dbfs": -45.26,
+            "peak_dbfs": -30.86,
+            "correlation": 0.9484
+          }
+        },
+        "deepframe-summit-air.wav": {
+          "all_cue": {
+            "rms_dbfs": -39.69,
+            "peak_dbfs": -25.1,
+            "correlation": 0.9529
+          },
+          "pre_speech": {
+            "rms_dbfs": -40.53,
+            "peak_dbfs": -26.23,
+            "correlation": 0.979
+          },
+          "overlap_voice_rms_dbfs": -18.68,
+          "overlap_cue": {
+            "rms_dbfs": -39.01,
+            "peak_dbfs": -25.15,
+            "correlation": 0.9363
+          }
+        }
+      }
+    }
+  },
+  "deviceListening": "PENDING",
+  "releaseAudioIdentity": {
+    "media": "render/review-tr.mp4",
+    "comparison": "AAC packet SHA-256 payloads, timestamps and durations compared to the decoded final-recipe reference",
+    "identicalPayload": true,
+    "identicalClock": true,
+    "referencePacketCount": 7216,
+    "finalPacketCount": 7216,
+    "referenceOrderedPacketHashesDigest": "3ee661ca8cf4befe688e657faed5b54aa82c22e252c6aeeebf3dddaa77a6dc90",
+    "finalOrderedPacketHashesDigest": "3ee661ca8cf4befe688e657faed5b54aa82c22e252c6aeeebf3dddaa77a6dc90"
+  }
+}

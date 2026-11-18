@@ -1,0 +1,94 @@
+{
+  "audio_sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d",
+  "sections": [
+    {
+      "id": "intro",
+      "voiceStart": 0,
+      "voiceEnd": 17.68,
+      "startFrame": 0,
+      "endFrame": 560,
+      "claim_ids": [
+        "world-leonida",
+        "guide-six"
+      ]
+    },
+    {
+      "id": "vice-city",
+      "voiceStart": 17.88,
+      "voiceEnd": 38.3,
+      "startFrame": 560,
+      "endFrame": 1218,
+      "claim_ids": [
+        "vice-city-guide",
+        "vice-city-beach-and-skyline"
+      ]
+    },
+    {
+      "id": "leonida-keys",
+      "voiceStart": 38.9,
+      "voiceEnd": 53.64,
+      "startFrame": 1218,
+      "endFrame": 1660,
+      "claim_ids": [
+        "keys-archipelago",
+        "keys-water"
+      ]
+    },
+    {
+      "id": "grassrivers",
+      "voiceStart": 53.64,
+      "voiceEnd": 68.72,
+      "startFrame": 1660,
+      "endFrame": 2150,
+      "claim_ids": [
+        "grassrivers-wetlands",
+        "grassrivers-airboat"
+      ]
+    },
+    {
+      "id": "port-gellhorn",
+      "voiceStart": 69.16,
+      "voiceEnd": 85.58,
+      "startFrame": 2150,
+      "endFrame": 2651,
+      "claim_ids": [
+        "gellhorn-resort",
+        "gellhorn-visual"
+      ]
+    },
+    {
+      "id": "ambrosia",
+      "voiceStart": 85.86,
+      "voiceEnd": 102.82,
+      "startFrame": 2651,
+      "endFrame": 3203,
+      "claim_ids": [
+        "ambrosia-refinery",
+        "ambrosia-visual"
+      ]
+    },
+    {
+      "id": "mount-kalaga",
+      "voiceStart": 103.36,
+      "voiceEnd": 121.16,
+      "startFrame": 3203,
+      "endFrame": 3745,
+      "claim_ids": [
+        "kalaga-border",
+        "kalaga-trails"
+      ]
+    },
+    {
+      "id": "limits",
+      "voiceStart": 121.44,
+      "voiceEnd": 140.5,
+      "startFrame": 3745,
+      "endFrame": 4414,
+      "claim_ids": [
+        "guide-six",
+        "map-scope",
+        "world-geographic-variety"
+      ]
+    }
+  ]
+}

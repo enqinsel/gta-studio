@@ -1,0 +1,553 @@
+{
+  "fps": 30,
+  "totalFrames": 4617,
+  "audio_sha256": "c8cec048daa42f3fdc33432dbbb520c285fd015fe527fd4cf463b92a8ae11e7d",
+  "pacing": {
+    "rests": [
+      {
+        "atFrame": 390,
+        "frames": 24,
+        "purpose": "Altı bölgenin adlarını okumak için rehber kartına süre tanır."
+      },
+      {
+        "atFrame": 1158,
+        "frames": 27,
+        "purpose": "Vice City’den adalara geçmeden önce kent planını tutar."
+      },
+      {
+        "atFrame": 2068,
+        "frames": 24,
+        "purpose": "Sulak alandan Port Gellhorn’a geçişi ayırır."
+      },
+      {
+        "atFrame": 3092,
+        "frames": 27,
+        "purpose": "Sanayi bölgesinden ulusal parka geçişi ayırır."
+      },
+      {
+        "atFrame": 3862,
+        "frames": 24,
+        "purpose": "Konum adları ile coğrafi ölçüler arasındaki ayrımı okuma payı verir."
+      }
+    ],
+    "closingFrames": 66,
+    "outroFrames": 203
+  },
+  "audio": {
+    "outro": {
+      "path": "assets/audio/deepframe-outro-score.wav",
+      "sha256": "96d7ebd59350e4cb086ae4e8b3ba10e31cf4e5115cf045be979a12ead3fe27a0",
+      "startFrame": 4414
+    },
+    "transitions": [
+      {
+        "path": "assets/audio/deepframe-water-air.wav",
+        "sha256": "eb45d4f9a3164515e53c5eb9897b845d53fc81f52b133c5564c98ac6819f50b1",
+        "gainDb": 0,
+        "duration": 0.85,
+        "startFrame": 1208
+      },
+      {
+        "path": "assets/audio/deepframe-soft-arrival.wav",
+        "sha256": "dd03767c787a04609faf6d6d87c7a7c9e2ef7b2c1791d6e3b1271fe3e9b7dc4b",
+        "gainDb": -2,
+        "duration": 0.8,
+        "startFrame": 2142
+      },
+      {
+        "path": "assets/audio/deepframe-summit-air.wav",
+        "sha256": "ef0438a03067be681c63f0488dc1c943b284e203a14c302dffb5b0716814d67d",
+        "gainDb": 0,
+        "duration": 0.95,
+        "startFrame": 3189
+      }
+    ],
+    "mix": {
+      "targetLufs": -15,
+      "maxTruePeakDbtp": -1,
+      "scoreGainDb": 3,
+      "effectsGainDb": {
+        "deepframe-water-air.wav": 12,
+        "deepframe-soft-arrival.wav": 11,
+        "deepframe-summit-air.wav": 13
+      },
+      "effectsPresence": {
+        "deepframe-soft-arrival.wav": {
+          "frequencyHz": 170,
+          "gainDb": 7
+        }
+      }
+    }
+  },
+  "shots": [
+    {
+      "sectionId": "intro",
+      "label": "LEONIDA",
+      "layout": "title",
+      "assetId": "vice-city-27",
+      "path": "assets/images/vice-city-27.jpg",
+      "kind": "image",
+      "purpose": "Leonida açılışı için Vice City’nin gece panoraması. İlk iddianın sözünü ettiği ışıkları ve şehir ölçeğini aynı kadrajda okumaya izin verir.",
+      "startFrame": 0,
+      "endFrame": 191,
+      "push": 1.045
+    },
+    {
+      "sectionId": "intro",
+      "layout": "title",
+      "assetId": "trailer-1-jason-lucia-v4",
+      "path": "assets/video/trailer-1-jason-lucia-v4.mp4",
+      "kind": "video",
+      "purpose": "Konuşmada Jason ve Lucia’dan söz edildiğinde önce oda planı, ardından ikilinin kapıdaki hareketi görünür.",
+      "startFrame": 191,
+      "endFrame": 301,
+      "sourceIn": 0,
+      "sourceOut": 3.6666666666666665
+    },
+    {
+      "sectionId": "intro",
+      "layout": "title",
+      "assetId": "leonida-guide-six-v2",
+      "path": "assets/graphics/leonida-guide-six-v2.png",
+      "kind": "image",
+      "purpose": "Rockstar’ın rehberindeki altı ana bölgenin isimlerini bir bakışta okunur kılar.",
+      "startFrame": 301,
+      "endFrame": 458,
+      "card": {
+        "layout": "directory",
+        "title": "LEONIDA",
+        "kicker": "6 ANA BÖLGE",
+        "items": [
+          {
+            "label": "Vice City",
+            "on": "Stüdyonun resmî rehberinde",
+            "mode": "slide",
+            "offset": 0,
+            "frame": 301,
+            "revealFrames": 10
+          },
+          {
+            "label": "Leonida Keys",
+            "on": "Stüdyonun resmî rehberinde",
+            "offset": 3,
+            "mode": "slide",
+            "frame": 304,
+            "revealFrames": 10
+          },
+          {
+            "label": "Grassrivers",
+            "on": "Stüdyonun resmî rehberinde",
+            "offset": 6,
+            "mode": "slide",
+            "frame": 307,
+            "revealFrames": 10
+          },
+          {
+            "label": "Port Gellhorn",
+            "on": "öne çıkan altı yer var",
+            "offset": 0,
+            "mode": "fade",
+            "frame": 344,
+            "revealFrames": 8
+          },
+          {
+            "label": "Ambrosia",
+            "on": "öne çıkan altı yer var",
+            "offset": 3,
+            "mode": "fade",
+            "frame": 347,
+            "revealFrames": 8
+          },
+          {
+            "label": "Mount Kalaga",
+            "detail": "National Park",
+            "on": "öne çıkan altı yer var",
+            "offset": 6,
+            "mode": "fade",
+            "frame": 350,
+            "revealFrames": 8
+          }
+        ],
+        "credit": "ROCKSTAR GAMES / ONLY IN LEONIDA"
+      }
+    },
+    {
+      "sectionId": "intro",
+      "layout": "title",
+      "assetId": "vice-city-15",
+      "path": "assets/images/vice-city-15.jpg",
+      "kind": "image",
+      "purpose": "Şehir siluetini, rıhtımları ve suyu aynı planda göstererek ilk durağa bağlar.",
+      "startFrame": 458,
+      "endFrame": 560,
+      "push": 1.035
+    },
+    {
+      "sectionId": "vice-city",
+      "label": "VICE CITY",
+      "layout": "chapter",
+      "assetId": "trailer-1-vice-city-beach",
+      "path": "assets/video/trailer-1-vice-city-beach.mp4",
+      "kind": "video",
+      "purpose": "Resmî fragmandaki kıyı çekimi, bölüm başlığını ve gündüzden geceye geçişi taşır.",
+      "startFrame": 560,
+      "endFrame": 650,
+      "sourceIn": 0,
+      "sourceOut": 3
+    },
+    {
+      "sectionId": "vice-city",
+      "layout": "chapter",
+      "assetId": "vice-city-08",
+      "path": "assets/images/vice-city-08.jpg",
+      "kind": "image",
+      "purpose": "Kent kıyısını ve ışıklı dönme dolabı gösteren gece karesine okunabilir bir süre ayırır.",
+      "startFrame": 650,
+      "endFrame": 818,
+      "push": 1.038
+    },
+    {
+      "sectionId": "vice-city",
+      "layout": "chapter",
+      "assetId": "vice-city-guide-names",
+      "path": "assets/graphics/vice-city-guide-names.png",
+      "kind": "image",
+      "purpose": "Ocean Beach, Little Cuba, Tisha-Wocka ve VC Port’u Vice City içindeki dört ayrı adres olarak, Rockstar rehberine dayanarak gösterir.",
+      "startFrame": 818,
+      "endFrame": 1097,
+      "card": {
+        "layout": "roster",
+        "title": "Vice City",
+        "items": [
+          {
+            "label": "Ocean Beach",
+            "on": "Ocean Beach",
+            "mode": "mask",
+            "frame": 862,
+            "revealFrames": 9
+          },
+          {
+            "label": "Little Cuba",
+            "on": "Little Cuba",
+            "mode": "slide",
+            "frame": 910,
+            "revealFrames": 10
+          },
+          {
+            "label": "Tisha-Wocka",
+            "on": "Tisha-Wocka",
+            "mode": "focus",
+            "frame": 944,
+            "revealFrames": 8
+          },
+          {
+            "label": "VC Port",
+            "on": "VC Port",
+            "mode": "mask",
+            "frame": 1022,
+            "revealFrames": 9
+          }
+        ],
+        "credit": "ROCKSTAR GAMES / ONLY IN LEONIDA"
+      }
+    },
+    {
+      "sectionId": "vice-city",
+      "layout": "chapter",
+      "assetId": "vice-city-09",
+      "path": "assets/images/vice-city-09.jpg",
+      "kind": "image",
+      "purpose": "Sahil panoramasından şehrin sokak ölçeğine, duvar resimleriyle geçer.",
+      "startFrame": 1097,
+      "endFrame": 1218,
+      "push": 1.035
+    },
+    {
+      "sectionId": "leonida-keys",
+      "label": "LEONIDA KEYS",
+      "layout": "chapter",
+      "assetId": "leonida-keys-01",
+      "path": "assets/images/leonida-keys-01.jpg",
+      "kind": "image",
+      "purpose": "Resmî takımada karesinde köprüyü, iki adayı ve deniz uçağını birlikte gösterir.",
+      "startFrame": 1218,
+      "endFrame": 1369,
+      "push": 1.035,
+      "transition": {
+        "style": "dissolve",
+        "frames": 15
+      }
+    },
+    {
+      "sectionId": "leonida-keys",
+      "layout": "chapter",
+      "assetId": "leonida-keys-04",
+      "path": "assets/images/leonida-keys-04.jpg",
+      "kind": "image",
+      "purpose": "Dalgıçlar ve deniz kaplumbağası aynı karede görülebilsin diye, sualtı anlatımı boyunca ana kanıtı tutar.",
+      "startFrame": 1369,
+      "endFrame": 1660,
+      "push": 1.056
+    },
+    {
+      "sectionId": "grassrivers",
+      "label": "GRASSRIVERS",
+      "layout": "chapter",
+      "assetId": "grassrivers-05",
+      "path": "assets/images/grassrivers-05.jpg",
+      "kind": "image",
+      "purpose": "Uzun giriş planı, sualtından yüzeye çıkıldığında Grassrivers sulak alanının ölçeğini gösterir.",
+      "startFrame": 1660,
+      "endFrame": 1854,
+      "push": 1.035
+    },
+    {
+      "sectionId": "grassrivers",
+      "layout": "chapter",
+      "assetId": "grassrivers-03",
+      "path": "assets/images/grassrivers-03.jpg",
+      "kind": "image",
+      "purpose": "Havadan bakış, pervaneli tekneyi ve etrafındaki timsahları tek doğrulanabilir kadrajda tutar.",
+      "startFrame": 1854,
+      "endFrame": 2001,
+      "push": 1.043
+    },
+    {
+      "sectionId": "grassrivers",
+      "layout": "chapter",
+      "assetId": "grassrivers-04",
+      "path": "assets/images/grassrivers-04.jpg",
+      "kind": "image",
+      "purpose": "Ayrı bir resmî karede görülen polis takibini bölgenin bataklık coğrafyasına bağlar.",
+      "startFrame": 2001,
+      "endFrame": 2150,
+      "push": 1.025
+    },
+    {
+      "sectionId": "port-gellhorn",
+      "label": "PORT GELLHORN",
+      "layout": "chapter",
+      "assetId": "port-gellhorn-06",
+      "path": "assets/images/port-gellhorn-06.jpg",
+      "kind": "image",
+      "purpose": "Eski tatil merkezi anlatılırken Port Gellhorn’un geniş yerleşim panoraması.",
+      "startFrame": 2150,
+      "endFrame": 2435,
+      "push": 1.045,
+      "transition": {
+        "style": "cut",
+        "frames": 0
+      }
+    },
+    {
+      "sectionId": "port-gellhorn",
+      "layout": "chapter",
+      "assetId": "port-gellhorn-01",
+      "path": "assets/images/port-gellhorn-01.jpg",
+      "kind": "image",
+      "purpose": "Yanan motel tabelasının yer aldığı resmî gece karesi.",
+      "startFrame": 2435,
+      "endFrame": 2533,
+      "push": 1.025
+    },
+    {
+      "sectionId": "port-gellhorn",
+      "layout": "chapter",
+      "assetId": "port-gellhorn-04",
+      "path": "assets/images/port-gellhorn-04.jpg",
+      "kind": "image",
+      "purpose": "İkinci tabela, kabare örneğini motel görüntüsünden fiziksel olarak ayırır.",
+      "startFrame": 2533,
+      "endFrame": 2651,
+      "push": 1.033
+    },
+    {
+      "sectionId": "ambrosia",
+      "label": "AMBROSIA",
+      "layout": "chapter",
+      "assetId": "ambrosia-02",
+      "path": "assets/images/ambrosia-02.jpg",
+      "kind": "image",
+      "purpose": "Gece siluetiyle bölgenin endüstriyel ölçeğini kurar. Görülen bacaları özel bir tesise atfetmez.",
+      "startFrame": 2651,
+      "endFrame": 2786,
+      "push": 1.039
+    },
+    {
+      "sectionId": "ambrosia",
+      "layout": "chapter",
+      "assetId": "ambrosia-04",
+      "path": "assets/images/ambrosia-04.jpg",
+      "kind": "image",
+      "purpose": "Resmî Ambrosia karesindeki ekili araziyi gösterir. Allied Crystal’ın ekonomik rolünün kaynağı Rockstar rehberidir.",
+      "startFrame": 2786,
+      "endFrame": 2891,
+      "push": 1.026
+    },
+    {
+      "sectionId": "ambrosia",
+      "layout": "chapter",
+      "assetId": "ambrosia-01",
+      "path": "assets/images/ambrosia-01.jpg",
+      "kind": "image",
+      "purpose": "Motosiklet konvoyu, grup ve yelekler incelenebilsin diye tek geniş planda kalır.",
+      "startFrame": 2891,
+      "endFrame": 3203,
+      "push": 1.041
+    },
+    {
+      "sectionId": "mount-kalaga",
+      "label": "MOUNT KALAGA",
+      "layout": "chapter",
+      "assetId": "mount-kalaga-02",
+      "path": "assets/images/mount-kalaga-02.jpg",
+      "kind": "image",
+      "purpose": "Rockstar’ın park galerisinden ormanlık sırt ve helikopterle kuzeydeki ulusal parkı tanıtır.",
+      "startFrame": 3203,
+      "endFrame": 3376,
+      "push": 1.027,
+      "transition": {
+        "style": "focus",
+        "frames": 14
+      }
+    },
+    {
+      "sectionId": "mount-kalaga",
+      "layout": "chapter",
+      "assetId": "mount-kalaga-04",
+      "path": "assets/images/mount-kalaga-04.jpg",
+      "kind": "image",
+      "purpose": "Tepeler ile kıvrılan yolu, aynı cümle boyunca okunabilen tek kadrajda bir araya getirir.",
+      "startFrame": 3376,
+      "endFrame": 3502,
+      "push": 1.046
+    },
+    {
+      "sectionId": "mount-kalaga",
+      "layout": "chapter",
+      "assetId": "mount-kalaga-01",
+      "path": "assets/images/mount-kalaga-01.jpg",
+      "kind": "image",
+      "purpose": "Yoldan çamura ve arazi motosikletlerine geçişi, asfaltın kaybolduğu cümleyle birlikte tutar.",
+      "startFrame": 3502,
+      "endFrame": 3643,
+      "push": 1.026
+    },
+    {
+      "sectionId": "mount-kalaga",
+      "layout": "chapter",
+      "assetId": "mount-kalaga-06",
+      "path": "assets/images/mount-kalaga-06.jpg",
+      "kind": "image",
+      "purpose": "Kano ve köprü, kara yolundan suya geçilen doğal kapanış planını kurar.",
+      "startFrame": 3643,
+      "endFrame": 3745,
+      "push": 1.032
+    },
+    {
+      "sectionId": "limits",
+      "layout": "chapter",
+      "assetId": "leonida-guide-scope-v2",
+      "path": "assets/graphics/leonida-guide-scope-v2.png",
+      "kind": "image",
+      "purpose": "Konum rehberinin kanıtladığı yer adlarını, görüntülerden çıkarılamayan sınır ve güzergâh bilgilerinden ayırır.",
+      "startFrame": 3745,
+      "endFrame": 3995,
+      "card": {
+        "layout": "scope",
+        "title": "Rehberin kapsamı",
+        "kicker": "LEONIDA",
+        "items": [
+          {
+            "label": "6 ana bölge",
+            "detail": "Vice City’de 4 adres",
+            "on": "Rehberin gösterdiği",
+            "mode": "fade",
+            "frame": 3745,
+            "revealFrames": 8
+          },
+          {
+            "label": "Sınırlar, mesafeler",
+            "detail": "Güzergâhlar · Doğrulama bekliyor",
+            "on": "yerlerin sınırları",
+            "mode": "slide",
+            "frame": 3778,
+            "revealFrames": 10
+          }
+        ],
+        "credit": "ROCKSTAR GAMES / ONLY IN LEONIDA"
+      }
+    },
+    {
+      "sectionId": "limits",
+      "layout": "chapter",
+      "assetId": "vice-city-10",
+      "path": "assets/images/vice-city-10.jpg",
+      "kind": "image",
+      "purpose": "Şehir silueti ve liman kanalı, sonuçta anlatılan kıyıdan doğaya değişimin ilk görüntüsüdür.",
+      "startFrame": 3995,
+      "endFrame": 4199,
+      "push": 1.045
+    },
+    {
+      "sectionId": "limits",
+      "layout": "chapter",
+      "assetId": "leonida-keys-07",
+      "path": "assets/images/leonida-keys-07.jpg",
+      "kind": "image",
+      "purpose": "Ayrı bir resmî resif ve dalgıç karesiyle Leonida Keys’e kısa bir görsel dönüş yapar.",
+      "startFrame": 4199,
+      "endFrame": 4302,
+      "push": 1.026
+    },
+    {
+      "sectionId": "limits",
+      "layout": "chapter",
+      "assetId": "mount-kalaga-05",
+      "path": "assets/images/mount-kalaga-05.jpg",
+      "kind": "image",
+      "purpose": "Ormandaki su ve yaban hayatı şehirden uzaklaşmanın son kanıtını gösterir. Son cümleden sonra outro öncesinde kısa bir sessiz tutuş taşır.",
+      "startFrame": 4302,
+      "endFrame": 4414,
+      "push": 1.036
+    },
+    {
+      "sectionId": "outro",
+      "layout": "outro",
+      "kind": "video",
+      "assetId": "deepframe-leonida-coast",
+      "path": "assets/video/deepframe-leonida-coast.mp4",
+      "startFrame": 4414,
+      "endFrame": 4455,
+      "sourceIn": 0,
+      "sourceOut": 1.3666666666666667,
+      "purpose": "VALEA closing sequence.",
+      "identityAt": 134,
+      "matte": 108
+    },
+    {
+      "sectionId": "outro",
+      "layout": "outro",
+      "kind": "video",
+      "assetId": "deepframe-vice-city-sunset",
+      "path": "assets/video/deepframe-vice-city-sunset.mp4",
+      "startFrame": 4455,
+      "endFrame": 4532,
+      "sourceIn": 0,
+      "sourceOut": 2.566666666666667,
+      "purpose": "VALEA closing sequence."
+    },
+    {
+      "sectionId": "outro",
+      "layout": "outro",
+      "kind": "image",
+      "assetId": "vice-city-27",
+      "path": "assets/images/vice-city-27.jpg",
+      "startFrame": 4532,
+      "endFrame": 4617,
+      "push": 1.025,
+      "sourceIn": 0,
+      "purpose": "VALEA closing sequence."
+    }
+  ]
+}

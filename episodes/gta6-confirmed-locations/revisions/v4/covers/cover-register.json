@@ -1,0 +1,66 @@
+{
+  "covers": [
+    {
+      "file": "01-vice-city-alti-bolge-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1",
+      "bytes": 1812157,
+      "headline": "GTA VI / 6 BÖLGE",
+      "sourceAssetId": "vice-city-22",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Vice_City_22.0--9jlb822n~g.jpg",
+      "sourceSha256": "3d28d73e35ad59f8b0dfebdf5fd2c12292fc927fd8712fa2db81dafc4bd2f564",
+      "rightsStatus": "REVIEW",
+      "rationale": "Vice City’nin gece siluetini benzin istasyonunun sıcak ışıklarıyla birleştiriyor. Bölgenin sayısı 320 piksel genişliğinde de ilk bakışta okunuyor.",
+      "selected": true,
+      "master": {
+        "file": "art-master-1920x1080.png",
+        "width": 1920,
+        "height": 1080,
+        "sha256": "253e49d7473631eb082ea949d225b255ca0b43955e530502eb0b19ed6fd5158c",
+        "bytes": 3565040
+      },
+      "final": {
+        "file": "thumbnail-1280x720.png",
+        "width": 1280,
+        "height": 720,
+        "sha256": "87db6c5cb06fd3ab03c5dddcf5da42cebccb1153ebbbc9de554739d97cd9d4f1",
+        "bytes": 1812157
+      }
+    },
+    {
+      "file": "02-sehrin-otesi-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "b2d346a39f6552fa4a2747d8caef2e6d4d79be2661d06d86f77e435f3783b886",
+      "bytes": 1234095,
+      "headline": "GTA VI / ŞEHRİN ÖTESİ",
+      "sourceAssetId": "mount-kalaga-02",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Mount_Kalaga_National_Park_02.0f24dhopdprvx.jpg",
+      "sourceSha256": "828ad45819b4121f3a341b25cbc93cd6595099eb2d53068d1cef4f1853ab38d4",
+      "rightsStatus": "REVIEW",
+      "rationale": "Mount Kalaga’daki tek helikopter, altın saat ışığında doğrudan bir odak sağlıyor. Coğrafyanın şehir dışında kalan tarafına açılan bir belgesel kapağı.",
+      "selected": false
+    },
+    {
+      "file": "03-leonida-sulakalan-1280x720.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "d9bbb04d3cd5c2811b896444ac4a15d96a0194f1c018cc4d860afa1d4c77bf91",
+      "bytes": 1382614,
+      "headline": "GTA VI / LEONIDA",
+      "sourceAssetId": "grassrivers-03",
+      "publisher": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI/media/screenshots",
+      "originalUrl": "https://www.rockstargames.com/VI/_next/static/media/Grassrivers_03.14cuv-vg9orw4.jpg",
+      "sourceSha256": "8120c16f300f27500fca1360d561c69c9185bd8a3611d9258bf7b7e90517b79d",
+      "rightsStatus": "REVIEW",
+      "rationale": "Grassrivers’ın neredeyse siyah suyu ve çapraz tekne kadrajı, beyaz manşete temiz alan açıyor. Bölümün atmosferini bataklık üzerinden kuruyor.",
+      "selected": false
+    }
+  ]
+}

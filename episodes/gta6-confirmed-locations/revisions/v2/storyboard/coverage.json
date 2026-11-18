@@ -1,0 +1,197 @@
+[
+  {
+    "id": "intro",
+    "shots": [
+      {
+        "asset_id": "vice-city-27",
+        "purpose": "Leonida açılışı için Vice City’nin gece panoraması. İlk iddianın sözünü ettiği ışıkları ve şehir ölçeğini aynı kadrajda okumaya izin verir.",
+        "push": 1.045
+      },
+      {
+        "asset_id": "trailer-1-jason-lucia",
+        "purpose": "Hikâyenin iki karakterini, adları söylendiğinde resmî fragmanın canlı görüntüsüyle tanıtır.",
+        "on": "Jason ve Lucia’nın hikâyesini",
+        "fallback_asset_id": "vice-city-27",
+        "source_in": 0,
+        "source_out": 3.9
+      },
+      {
+        "asset_id": "leonida-guide-six-v2",
+        "purpose": "Rockstar’ın rehberindeki altı ana bölgenin isimlerini bir bakışta okunur kılar.",
+        "on": "Stüdyonun resmî rehberinde"
+      },
+      {
+        "asset_id": "vice-city-15",
+        "purpose": "Şehir siluetini, rıhtımları ve suyu aynı planda göstererek ilk durağa bağlar.",
+        "on": "sonra suyun ve asfaltın",
+        "push": 1.035
+      }
+    ]
+  },
+  {
+    "id": "vice-city",
+    "shots": [
+      {
+        "asset_id": "trailer-1-vice-city-beach",
+        "purpose": "Resmî fragmandaki kıyı çekimi, bölüm başlığını ve gündüzden geceye geçişi taşır.",
+        "fallback_asset_id": "vice-city-05",
+        "source_in": 0,
+        "source_out": 3.2
+      },
+      {
+        "asset_id": "vice-city-08",
+        "purpose": "Kent kıyısını ve ışıklı dönme dolabı gösteren gece karesine okunabilir bir süre ayırır.",
+        "on": "ışıl bir dönme dolabın",
+        "push": 1.038
+      },
+      {
+        "asset_id": "vice-city-guide-names",
+        "purpose": "Ocean Beach, Little Cuba, Tisha-Wocka ve VC Port’u Vice City içindeki dört ayrı adres olarak, Rockstar rehberine dayanarak gösterir.",
+        "on": "Art Deco otelleriyle Ocean Beach"
+      },
+      {
+        "asset_id": "vice-city-09",
+        "purpose": "Sahil panoramasından şehrin sokak ölçeğine, duvar resimleriyle geçer.",
+        "on": "Şehir, sahil şeridinden",
+        "push": 1.035
+      }
+    ]
+  },
+  {
+    "id": "leonida-keys",
+    "shots": [
+      {
+        "asset_id": "leonida-keys-01",
+        "purpose": "Resmî takımada karesinde köprüyü, iki adayı ve deniz uçağını birlikte gösterir.",
+        "push": 1.035
+      },
+      {
+        "asset_id": "leonida-keys-04",
+        "purpose": "Dalgıçlar ve deniz kaplumbağası aynı karede görülebilsin diye, sualtı anlatımı boyunca ana kanıtı tutar.",
+        "on": "Bir başka kare suyun altına",
+        "push": 1.056
+      }
+    ]
+  },
+  {
+    "id": "grassrivers",
+    "shots": [
+      {
+        "asset_id": "grassrivers-05",
+        "purpose": "Uzun giriş planı, sualtından yüzeye çıkıldığında Grassrivers sulak alanının ölçeğini gösterir.",
+        "push": 1.035
+      },
+      {
+        "asset_id": "grassrivers-03",
+        "purpose": "Havadan bakış, pervaneli tekneyi ve etrafındaki timsahları tek doğrulanabilir kadrajda tutar.",
+        "on": "Yukarıdan çekilen resmî karede",
+        "push": 1.043
+      },
+      {
+        "asset_id": "grassrivers-04",
+        "purpose": "Ayrı bir resmî karede görülen polis takibini bölgenin bataklık coğrafyasına bağlar.",
+        "on": "Bir başka karede aynı coğrafyanın",
+        "push": 1.025
+      }
+    ]
+  },
+  {
+    "id": "port-gellhorn",
+    "shots": [
+      {
+        "asset_id": "port-gellhorn-06",
+        "purpose": "Eski tatil merkezi anlatılırken Port Gellhorn’un geniş yerleşim panoraması.",
+        "push": 1.045
+      },
+      {
+        "asset_id": "port-gellhorn-01",
+        "purpose": "Yanan motel tabelasının yer aldığı resmî gece karesi.",
+        "on": "Gece çekilen karede motel",
+        "push": 1.025
+      },
+      {
+        "asset_id": "port-gellhorn-04",
+        "purpose": "İkinci tabela, kabare örneğini motel görüntüsünden fiziksel olarak ayırır.",
+        "on": "Başka bir gece karesinde",
+        "push": 1.033
+      }
+    ]
+  },
+  {
+    "id": "ambrosia",
+    "shots": [
+      {
+        "asset_id": "ambrosia-02",
+        "purpose": "Gece siluetiyle bölgenin endüstriyel ölçeğini kurar. Görülen bacaları özel bir tesise atfetmez.",
+        "push": 1.039
+      },
+      {
+        "asset_id": "ambrosia-04",
+        "purpose": "Resmî Ambrosia karesindeki ekili araziyi gösterir. Allied Crystal’ın ekonomik rolünün kaynağı Rockstar rehberidir.",
+        "on": "merkezine Allied Crystal şeker",
+        "push": 1.026
+      },
+      {
+        "asset_id": "ambrosia-01",
+        "purpose": "Motosiklet konvoyu, grup ve yelekler incelenebilsin diye tek geniş planda kalır.",
+        "on": "Bir diğer karede, aynı deri",
+        "push": 1.041
+      }
+    ]
+  },
+  {
+    "id": "mount-kalaga",
+    "shots": [
+      {
+        "asset_id": "mount-kalaga-02",
+        "purpose": "Rockstar’ın park galerisinden ormanlık sırt ve helikopterle kuzeydeki ulusal parkı tanıtır.",
+        "push": 1.027
+      },
+      {
+        "asset_id": "mount-kalaga-04",
+        "purpose": "Tepeler ile kıvrılan yolu, aynı cümle boyunca okunabilen tek kadrajda bir araya getirir.",
+        "on": "Burada ormanlık sırtlar",
+        "push": 1.046
+      },
+      {
+        "asset_id": "mount-kalaga-01",
+        "purpose": "Yoldan çamura ve arazi motosikletlerine geçişi, asfaltın kaybolduğu cümleyle birlikte tutar.",
+        "on": "çamurda ilerleyen arazi motosikletleri",
+        "push": 1.026
+      },
+      {
+        "asset_id": "mount-kalaga-06",
+        "purpose": "Kano ve köprü, kara yolundan suya geçilen doğal kapanış planını kurar.",
+        "on": "Bir kano, ağaçların arasından",
+        "push": 1.032
+      }
+    ]
+  },
+  {
+    "id": "limits",
+    "shots": [
+      {
+        "asset_id": "leonida-guide-scope-v2",
+        "purpose": "Konum rehberinin kanıtladığı yer adlarını, görüntülerden çıkarılamayan sınır ve güzergâh bilgilerinden ayırır."
+      },
+      {
+        "asset_id": "vice-city-10",
+        "purpose": "Şehir silueti ve liman kanalı, sonuçta anlatılan kıyıdan doğaya değişimin ilk görüntüsüdür.",
+        "on": "Ama resmî kareler şimdiden",
+        "push": 1.045
+      },
+      {
+        "asset_id": "leonida-keys-07",
+        "purpose": "Ayrı bir resmî resif ve dalgıç karesiyle Leonida Keys’e kısa bir görsel dönüş yapar.",
+        "on": "Bir sonraki manzarada denizin",
+        "push": 1.026
+      },
+      {
+        "asset_id": "mount-kalaga-05",
+        "purpose": "Ormandaki su ve yaban hayatı şehirden uzaklaşmanın son kanıtını gösterir. Son cümleden sonra outro öncesinde kısa bir sessiz tutuş taşır.",
+        "on": "ormanın içine bakıyoruz",
+        "push": 1.036
+      }
+    ]
+  }
+]
